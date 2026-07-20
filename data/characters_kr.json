@@ -1,0 +1,4188 @@
+{
+  "schema_version": 1,
+  "region": "KR",
+  "updated_at": "2026-07-19",
+  "source": "https://uma.inven.co.kr/db/chara/",
+  "characters": [
+    {
+      "key": "kr-100101",
+      "character_id": "100101",
+      "name": "스페셜 위크",
+      "variant": "스페셜 드리머",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "F",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "A",
+        "선입": "A",
+        "추입": "C"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/100101"
+    },
+    {
+      "key": "kr-100102",
+      "character_id": "100102",
+      "name": "스페셜 위크",
+      "variant": "호핑♪비타민 하트",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "F",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "A",
+        "선입": "A",
+        "추입": "C"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/100102"
+    },
+    {
+      "key": "kr-100103",
+      "character_id": "100103",
+      "name": "스페셜 위크",
+      "variant": "일본 최고의 총대장",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "F",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "A",
+        "선입": "A",
+        "추입": "C"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/100103"
+    },
+    {
+      "key": "kr-100201",
+      "character_id": "100201",
+      "name": "사일런스 스즈카",
+      "variant": "사일런트 이노센스",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "D",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "E",
+        "도주": "A",
+        "선행": "C",
+        "선입": "E",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/100201"
+    },
+    {
+      "key": "kr-100202",
+      "character_id": "100202",
+      "name": "사일런스 스즈카",
+      "variant": "물결 사이의 에메랄드",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "D",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "E",
+        "도주": "A",
+        "선행": "C",
+        "선입": "E",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/100202"
+    },
+    {
+      "key": "kr-100301",
+      "character_id": "100301",
+      "name": "토카이 테이오",
+      "variant": "톱・오브・조이풀",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "F",
+        "마일": "E",
+        "중거리": "A",
+        "장거리": "B",
+        "도주": "D",
+        "선행": "A",
+        "선입": "C",
+        "추입": "E"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/100301"
+    },
+    {
+      "key": "kr-100302",
+      "character_id": "100302",
+      "name": "토카이 테이오",
+      "variant": "비욘드・더・호라이즌",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "F",
+        "마일": "E",
+        "중거리": "A",
+        "장거리": "B",
+        "도주": "D",
+        "선행": "A",
+        "선입": "C",
+        "추입": "E"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/100302"
+    },
+    {
+      "key": "kr-100303",
+      "character_id": "100303",
+      "name": "토카이 테이오",
+      "variant": "자색 구름의 나비",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "F",
+        "마일": "E",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "D",
+        "선행": "A",
+        "선입": "C",
+        "추입": "E"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/100303"
+    },
+    {
+      "key": "kr-100401",
+      "character_id": "100401",
+      "name": "마루젠스키",
+      "variant": "포뮬러 오브 루주",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "D",
+        "단거리": "B",
+        "마일": "A",
+        "중거리": "B",
+        "장거리": "C",
+        "도주": "A",
+        "선행": "E",
+        "선입": "G",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/100401"
+    },
+    {
+      "key": "kr-100402",
+      "character_id": "100402",
+      "name": "마루젠스키",
+      "variant": "날아라☆서머 나이트",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "D",
+        "단거리": "B",
+        "마일": "A",
+        "중거리": "B",
+        "장거리": "C",
+        "도주": "A",
+        "선행": "E",
+        "선입": "G",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/100402"
+    },
+    {
+      "key": "kr-100403",
+      "character_id": "100403",
+      "name": "마루젠스키",
+      "variant": "축복을 전하는 신속 선녀",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "D",
+        "단거리": "B",
+        "마일": "A",
+        "중거리": "B",
+        "장거리": "C",
+        "도주": "A",
+        "선행": "E",
+        "선입": "G",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/100403"
+    },
+    {
+      "key": "kr-100501",
+      "character_id": "100501",
+      "name": "후지 키세키",
+      "variant": "슈팅 스타・레뷔",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "F",
+        "단거리": "B",
+        "마일": "A",
+        "중거리": "B",
+        "장거리": "E",
+        "도주": "C",
+        "선행": "A",
+        "선입": "C",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/100501"
+    },
+    {
+      "key": "kr-100502",
+      "character_id": "100502",
+      "name": "후지 키세키",
+      "variant": "쉭세・에투알",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "F",
+        "단거리": "B",
+        "마일": "A",
+        "중거리": "B",
+        "장거리": "E",
+        "도주": "C",
+        "선행": "A",
+        "선입": "C",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/100502"
+    },
+    {
+      "key": "kr-100601",
+      "character_id": "100601",
+      "name": "오구리 캡",
+      "variant": "스타라이트 비트",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "B",
+        "단거리": "E",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "B",
+        "도주": "F",
+        "선행": "A",
+        "선입": "A",
+        "추입": "D"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/100601"
+    },
+    {
+      "key": "kr-100602",
+      "character_id": "100602",
+      "name": "오구리 캡",
+      "variant": "기적의 하얀 별",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "B",
+        "단거리": "E",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "B",
+        "도주": "F",
+        "선행": "A",
+        "선입": "A",
+        "추입": "D"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/100602"
+    },
+    {
+      "key": "kr-100701",
+      "character_id": "100701",
+      "name": "골드 쉽",
+      "variant": "레드 스트라이프",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "B",
+        "선입": "B",
+        "추입": "A"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/100701"
+    },
+    {
+      "key": "kr-100702",
+      "character_id": "100702",
+      "name": "골드 쉽",
+      "variant": "RUN! 럼블! 런처!!",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "B",
+        "선입": "B",
+        "추입": "A"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/100702"
+    },
+    {
+      "key": "kr-100703",
+      "character_id": "100703",
+      "name": "골드 쉽",
+      "variant": "La mode 564",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "B",
+        "선입": "B",
+        "추입": "A"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/100703"
+    },
+    {
+      "key": "kr-100801",
+      "character_id": "100801",
+      "name": "보드카",
+      "variant": "와일드 톱기어",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "F",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "F",
+        "도주": "C",
+        "선행": "B",
+        "선입": "A",
+        "추입": "F"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/100801"
+    },
+    {
+      "key": "kr-100802",
+      "character_id": "100802",
+      "name": "보드카",
+      "variant": "얼지 않는 아쿠아・비타이",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "F",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "E",
+        "도주": "C",
+        "선행": "B",
+        "선입": "A",
+        "추입": "F"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/100802"
+    },
+    {
+      "key": "kr-100901",
+      "character_id": "100901",
+      "name": "다이와 스칼렛",
+      "variant": "톱・오브・블루",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "F",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "B",
+        "도주": "A",
+        "선행": "A",
+        "선입": "E",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/100901"
+    },
+    {
+      "key": "kr-100902",
+      "character_id": "100902",
+      "name": "다이와 스칼렛",
+      "variant": "다홍색 뉘・에투알레",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "F",
+        "마일": "B",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "A",
+        "선행": "A",
+        "선입": "E",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/100902"
+    },
+    {
+      "key": "kr-101001",
+      "character_id": "101001",
+      "name": "타이키 셔틀",
+      "variant": "와일드・프론티어",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "B",
+        "단거리": "A",
+        "마일": "A",
+        "중거리": "E",
+        "장거리": "G",
+        "도주": "C",
+        "선행": "A",
+        "선입": "E",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/101001"
+    },
+    {
+      "key": "kr-101002",
+      "character_id": "101002",
+      "name": "타이키 셔틀",
+      "variant": "Bubblegum☆Memories",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "B",
+        "단거리": "A",
+        "마일": "A",
+        "중거리": "E",
+        "장거리": "G",
+        "도주": "C",
+        "선행": "A",
+        "선입": "E",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/101002"
+    },
+    {
+      "key": "kr-101101",
+      "character_id": "101101",
+      "name": "그래스 원더",
+      "variant": "바위 뚫는 파랑",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "A",
+        "중거리": "B",
+        "장거리": "A",
+        "도주": "F",
+        "선행": "A",
+        "선입": "A",
+        "추입": "F"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/101101"
+    },
+    {
+      "key": "kr-101102",
+      "character_id": "101102",
+      "name": "그래스 원더",
+      "variant": "세인트 제이드・힐러",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "A",
+        "중거리": "B",
+        "장거리": "A",
+        "도주": "F",
+        "선행": "A",
+        "선입": "A",
+        "추입": "F"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/101102"
+    },
+    {
+      "key": "kr-101103",
+      "character_id": "101103",
+      "name": "그래스 원더",
+      "variant": "푸른 불꽃의 명예",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "B",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "F",
+        "선행": "A",
+        "선입": "A",
+        "추입": "F"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/101103"
+    },
+    {
+      "key": "kr-101201",
+      "character_id": "101201",
+      "name": "히시 아마존",
+      "variant": "아마조네스・라피스",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "E",
+        "단거리": "D",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "B",
+        "도주": "G",
+        "선행": "B",
+        "선입": "C",
+        "추입": "A"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/101201"
+    },
+    {
+      "key": "kr-101202",
+      "character_id": "101202",
+      "name": "히시 아마존",
+      "variant": "Hungry Veil",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "E",
+        "단거리": "D",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "B",
+        "도주": "G",
+        "선행": "B",
+        "선입": "C",
+        "추입": "A"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/101202"
+    },
+    {
+      "key": "kr-101301",
+      "character_id": "101301",
+      "name": "메지로 맥퀸",
+      "variant": "엘레강스・라인",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "E",
+        "단거리": "G",
+        "마일": "F",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "B",
+        "선행": "A",
+        "선입": "D",
+        "추입": "F"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/101301"
+    },
+    {
+      "key": "kr-101302",
+      "character_id": "101302",
+      "name": "메지로 맥퀸",
+      "variant": "엔드・오브・스카이",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "E",
+        "단거리": "G",
+        "마일": "F",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "B",
+        "선행": "A",
+        "선입": "D",
+        "추입": "F"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/101302"
+    },
+    {
+      "key": "kr-101303",
+      "character_id": "101303",
+      "name": "메지로 맥퀸",
+      "variant": "잔물결 페어 레이디",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "E",
+        "단거리": "G",
+        "마일": "F",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "B",
+        "선행": "A",
+        "선입": "D",
+        "추입": "F"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/101303"
+    },
+    {
+      "key": "kr-101401",
+      "character_id": "101401",
+      "name": "엘 콘도르 파사",
+      "variant": "엘☆Número 1",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "B",
+        "단거리": "F",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "B",
+        "도주": "E",
+        "선행": "A",
+        "선입": "A",
+        "추입": "C"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/101401"
+    },
+    {
+      "key": "kr-101402",
+      "character_id": "101402",
+      "name": "엘 콘도르 파사",
+      "variant": "쿠쿨칸・몽크",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "B",
+        "단거리": "F",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "B",
+        "도주": "E",
+        "선행": "A",
+        "선입": "A",
+        "추입": "C"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/101402"
+    },
+    {
+      "key": "kr-101501",
+      "character_id": "101501",
+      "name": "티엠 오페라 오",
+      "variant": "오・솔레・수오!",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "E",
+        "단거리": "G",
+        "마일": "E",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "C",
+        "선행": "A",
+        "선입": "A",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/101501"
+    },
+    {
+      "key": "kr-101502",
+      "character_id": "101502",
+      "name": "티엠 오페라 오",
+      "variant": "새해 창천・푸르른 현란",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "E",
+        "단거리": "G",
+        "마일": "E",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "C",
+        "선행": "A",
+        "선입": "A",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/101502"
+    },
+    {
+      "key": "kr-101601",
+      "character_id": "101601",
+      "name": "나리타 브라이언",
+      "variant": "Maverick",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "F",
+        "마일": "B",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "A",
+        "선입": "A",
+        "추입": "D"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/101601"
+    },
+    {
+      "key": "kr-101602",
+      "character_id": "101602",
+      "name": "나리타 브라이언",
+      "variant": "굶주린 늑대",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "F",
+        "마일": "B",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "A",
+        "선입": "A",
+        "추입": "D"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/101602"
+    },
+    {
+      "key": "kr-101701",
+      "character_id": "101701",
+      "name": "심볼리 루돌프",
+      "variant": "로드・오브・엠퍼러",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "E",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "B",
+        "선행": "A",
+        "선입": "A",
+        "추입": "C"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/101701"
+    },
+    {
+      "key": "kr-101702",
+      "character_id": "101702",
+      "name": "심볼리 루돌프",
+      "variant": "밝은 달의 활잡이",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "E",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "B",
+        "선행": "A",
+        "선입": "A",
+        "추입": "C"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/101702"
+    },
+    {
+      "key": "kr-101801",
+      "character_id": "101801",
+      "name": "에어 그루브",
+      "variant": "엠프리스 로드",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "C",
+        "마일": "B",
+        "중거리": "A",
+        "장거리": "E",
+        "도주": "D",
+        "선행": "A",
+        "선입": "A",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/101801"
+    },
+    {
+      "key": "kr-101802",
+      "character_id": "101802",
+      "name": "에어 그루브",
+      "variant": "퀘르쿠스・키윌리스",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "C",
+        "마일": "B",
+        "중거리": "A",
+        "장거리": "E",
+        "도주": "D",
+        "선행": "A",
+        "선입": "A",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/101802"
+    },
+    {
+      "key": "kr-101901",
+      "character_id": "101901",
+      "name": "아그네스 디지털",
+      "variant": "초특급! 풀컬러 특수 PP",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "A",
+        "단거리": "F",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "G",
+        "도주": "G",
+        "선행": "A",
+        "선입": "A",
+        "추입": "B"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/101901"
+    },
+    {
+      "key": "kr-101902",
+      "character_id": "101902",
+      "name": "아그네스 디지털",
+      "variant": "아이리♡강시",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "A",
+        "단거리": "F",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "G",
+        "도주": "G",
+        "선행": "A",
+        "선입": "A",
+        "추입": "B"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/101902"
+    },
+    {
+      "key": "kr-102001",
+      "character_id": "102001",
+      "name": "세이운 스카이",
+      "variant": "푸른 구름 서밍",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "A",
+        "선행": "B",
+        "선입": "D",
+        "추입": "E"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/102001"
+    },
+    {
+      "key": "kr-102002",
+      "character_id": "102002",
+      "name": "세이운 스카이",
+      "variant": "수아레・드・샤통",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "A",
+        "선행": "B",
+        "선입": "D",
+        "추입": "E"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/102002"
+    },
+    {
+      "key": "kr-102101",
+      "character_id": "102101",
+      "name": "타마모 크로스",
+      "variant": "질풍신뢰",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "F",
+        "단거리": "G",
+        "마일": "E",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "A",
+        "선입": "A",
+        "추입": "A"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/102101"
+    },
+    {
+      "key": "kr-102102",
+      "character_id": "102102",
+      "name": "타마모 크로스",
+      "variant": "날뛰는 나루카미",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "F",
+        "단거리": "G",
+        "마일": "E",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "A",
+        "선입": "A",
+        "추입": "A"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/102102"
+    },
+    {
+      "key": "kr-102201",
+      "character_id": "102201",
+      "name": "파인 모션",
+      "variant": "Noble Seamair",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "F",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "C",
+        "도주": "D",
+        "선행": "A",
+        "선입": "E",
+        "추입": "C"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/102201"
+    },
+    {
+      "key": "kr-102202",
+      "character_id": "102202",
+      "name": "파인 모션",
+      "variant": "Titania",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "F",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "C",
+        "도주": "D",
+        "선행": "A",
+        "선입": "E",
+        "추입": "C"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/102202"
+    },
+    {
+      "key": "kr-102301",
+      "character_id": "102301",
+      "name": "비와 하야히데",
+      "variant": "pf.Victory formula...",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "F",
+        "단거리": "F",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "E",
+        "선행": "A",
+        "선입": "B",
+        "추입": "E"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/102301"
+    },
+    {
+      "key": "kr-102302",
+      "character_id": "102302",
+      "name": "비와 하야히데",
+      "variant": "노엘 루주・캐럴",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "F",
+        "단거리": "F",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "E",
+        "선행": "A",
+        "선입": "B",
+        "추입": "E"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/102302"
+    },
+    {
+      "key": "kr-102303",
+      "character_id": "102303",
+      "name": "비와 하야히데",
+      "variant": "Engineered Victory",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "F",
+        "단거리": "F",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "E",
+        "선행": "A",
+        "선입": "B",
+        "추입": "E"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/102303"
+    },
+    {
+      "key": "kr-102401",
+      "character_id": "102401",
+      "name": "마야노 탑건",
+      "variant": "스크램블☆존",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "E",
+        "단거리": "D",
+        "마일": "D",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "A",
+        "선행": "A",
+        "선입": "B",
+        "추입": "B"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/102401"
+    },
+    {
+      "key": "kr-102402",
+      "character_id": "102402",
+      "name": "마야노 탑건",
+      "variant": "선라이트・부케",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "E",
+        "단거리": "D",
+        "마일": "D",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "A",
+        "선행": "A",
+        "선입": "B",
+        "추입": "B"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/102402"
+    },
+    {
+      "key": "kr-102403",
+      "character_id": "102403",
+      "name": "마야노 탑건",
+      "variant": "록 인☆MewMeow",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "E",
+        "단거리": "D",
+        "마일": "D",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "A",
+        "선행": "A",
+        "선입": "B",
+        "추입": "B"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/102403"
+    },
+    {
+      "key": "kr-102501",
+      "character_id": "102501",
+      "name": "맨하탄 카페",
+      "variant": "Creeping Black",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "F",
+        "중거리": "B",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "C",
+        "선입": "A",
+        "추입": "C"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/102501"
+    },
+    {
+      "key": "kr-102502",
+      "character_id": "102502",
+      "name": "맨하탄 카페",
+      "variant": "버들빛 밤",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "F",
+        "중거리": "B",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "C",
+        "선입": "A",
+        "추입": "A"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/102502"
+    },
+    {
+      "key": "kr-102601",
+      "character_id": "102601",
+      "name": "미호노 부르봉",
+      "variant": "MB-19890425",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "C",
+        "마일": "B",
+        "중거리": "A",
+        "장거리": "B",
+        "도주": "A",
+        "선행": "E",
+        "선입": "G",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/102601"
+    },
+    {
+      "key": "kr-102602",
+      "character_id": "102602",
+      "name": "미호노 부르봉",
+      "variant": "CODE: 글라사주",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "C",
+        "마일": "B",
+        "중거리": "A",
+        "장거리": "B",
+        "도주": "A",
+        "선행": "E",
+        "선입": "G",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/102602"
+    },
+    {
+      "key": "kr-102701",
+      "character_id": "102701",
+      "name": "메지로 라이언",
+      "variant": "스트레이트・라인",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "E",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "B",
+        "도주": "F",
+        "선행": "A",
+        "선입": "A",
+        "추입": "F"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/102701"
+    },
+    {
+      "key": "kr-102702",
+      "character_id": "102702",
+      "name": "메지로 라이언",
+      "variant": "마가렛・라떼",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "E",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "B",
+        "도주": "F",
+        "선행": "A",
+        "선입": "A",
+        "추입": "F"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/102702"
+    },
+    {
+      "key": "kr-102801",
+      "character_id": "102801",
+      "name": "히시 아케보노",
+      "variant": "보노☆알라모다",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "F",
+        "단거리": "A",
+        "마일": "B",
+        "중거리": "F",
+        "장거리": "G",
+        "도주": "B",
+        "선행": "A",
+        "선입": "C",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/102801"
+    },
+    {
+      "key": "kr-102901",
+      "character_id": "102901",
+      "name": "유키노 비진",
+      "variant": "귀엽고 귀여운 눈꽃",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "B",
+        "단거리": "D",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "E",
+        "도주": "C",
+        "선행": "A",
+        "선입": "F",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/102901"
+    },
+    {
+      "key": "kr-102902",
+      "character_id": "102902",
+      "name": "유키노 비진",
+      "variant": "차 과자와 눈의 요정",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "A",
+        "단거리": "D",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "E",
+        "도주": "C",
+        "선행": "A",
+        "선입": "F",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/102902"
+    },
+    {
+      "key": "kr-103001",
+      "character_id": "103001",
+      "name": "라이스 샤워",
+      "variant": "로제스 드림",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "E",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "B",
+        "선행": "A",
+        "선입": "C",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/103001"
+    },
+    {
+      "key": "kr-103002",
+      "character_id": "103002",
+      "name": "라이스 샤워",
+      "variant": "Make up Vampire!",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "E",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "B",
+        "선행": "A",
+        "선입": "C",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/103002"
+    },
+    {
+      "key": "kr-103003",
+      "character_id": "103003",
+      "name": "라이스 샤워",
+      "variant": "Yummy Dreamy Fairy",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "E",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "B",
+        "선행": "A",
+        "선입": "C",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/103003"
+    },
+    {
+      "key": "kr-103101",
+      "character_id": "103101",
+      "name": "아이네스 후진",
+      "variant": "올 타임・피버",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "C",
+        "도주": "A",
+        "선행": "C",
+        "선입": "G",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/103101"
+    },
+    {
+      "key": "kr-103102",
+      "character_id": "103102",
+      "name": "아이네스 후진",
+      "variant": "MELTY GIFT",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "C",
+        "도주": "A",
+        "선행": "C",
+        "선입": "G",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/103102"
+    },
+    {
+      "key": "kr-103201",
+      "character_id": "103201",
+      "name": "아그네스 타키온",
+      "variant": "tach-nology",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "D",
+        "중거리": "A",
+        "장거리": "B",
+        "도주": "E",
+        "선행": "A",
+        "선입": "B",
+        "추입": "F"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/103201"
+    },
+    {
+      "key": "kr-103202",
+      "character_id": "103202",
+      "name": "아그네스 타키온",
+      "variant": "Lunatic Lab",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "D",
+        "중거리": "A",
+        "장거리": "B",
+        "도주": "E",
+        "선행": "A",
+        "선입": "B",
+        "추입": "F"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/103202"
+    },
+    {
+      "key": "kr-103203",
+      "character_id": "103203",
+      "name": "아그네스 타키온",
+      "variant": "Σ Experiment",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "D",
+        "중거리": "A",
+        "장거리": "B",
+        "도주": "E",
+        "선행": "A",
+        "선입": "B",
+        "추입": "F"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/103203"
+    },
+    {
+      "key": "kr-103301",
+      "character_id": "103301",
+      "name": "어드마이어 베가",
+      "variant": "Starry Nocturne",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "F",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "C",
+        "도주": "G",
+        "선행": "G",
+        "선입": "B",
+        "추입": "A"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/103301"
+    },
+    {
+      "key": "kr-103302",
+      "character_id": "103302",
+      "name": "어드마이어 베가",
+      "variant": "Glacialis Vega",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "F",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "C",
+        "도주": "G",
+        "선행": "G",
+        "선입": "B",
+        "추입": "A"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/103302"
+    },
+    {
+      "key": "kr-103401",
+      "character_id": "103401",
+      "name": "이나리 원",
+      "variant": "여우와 연이 있는 보랏빛",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "A",
+        "단거리": "F",
+        "마일": "B",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "B",
+        "선입": "B",
+        "추입": "A"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/103401"
+    },
+    {
+      "key": "kr-103402",
+      "character_id": "103402",
+      "name": "이나리 원",
+      "variant": "꿈의 카나하라",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "A",
+        "단거리": "F",
+        "마일": "B",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "B",
+        "선입": "B",
+        "추입": "A"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/103402"
+    },
+    {
+      "key": "kr-103501",
+      "character_id": "103501",
+      "name": "위닝 티켓",
+      "variant": "Go To Winning!",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "F",
+        "중거리": "A",
+        "장거리": "B",
+        "도주": "G",
+        "선행": "B",
+        "선입": "A",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/103501"
+    },
+    {
+      "key": "kr-103502",
+      "character_id": "103502",
+      "name": "위닝 티켓",
+      "variant": "Dream Deliverer",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "F",
+        "중거리": "A",
+        "장거리": "B",
+        "도주": "G",
+        "선행": "B",
+        "선입": "A",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/103502"
+    },
+    {
+      "key": "kr-103503",
+      "character_id": "103503",
+      "name": "위닝 티켓",
+      "variant": "Glorious Coat",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "F",
+        "중거리": "A",
+        "장거리": "B",
+        "도주": "G",
+        "선행": "B",
+        "선입": "A",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/103503"
+    },
+    {
+      "key": "kr-103601",
+      "character_id": "103601",
+      "name": "에어 샤커",
+      "variant": "unsigned",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "E",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "C",
+        "선입": "A",
+        "추입": "A"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/103601"
+    },
+    {
+      "key": "kr-103602",
+      "character_id": "103602",
+      "name": "에어 샤커",
+      "variant": "Belphegor's Prime",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "E",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "C",
+        "선입": "A",
+        "추입": "A"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/103602"
+    },
+    {
+      "key": "kr-103701",
+      "character_id": "103701",
+      "name": "에이신 플래시",
+      "variant": "Meisterschaft",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "F",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "B",
+        "선입": "A",
+        "추입": "C"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/103701"
+    },
+    {
+      "key": "kr-103702",
+      "character_id": "103702",
+      "name": "에이신 플래시",
+      "variant": "컬렉트・쇼콜라티에",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "F",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "B",
+        "선입": "A",
+        "추입": "C"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/103702"
+    },
+    {
+      "key": "kr-103703",
+      "character_id": "103703",
+      "name": "에이신 플래시",
+      "variant": "Reines Plätschern",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "F",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "B",
+        "선입": "A",
+        "추입": "C"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/103703"
+    },
+    {
+      "key": "kr-103801",
+      "character_id": "103801",
+      "name": "카렌짱",
+      "variant": "피유・에클레르",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "F",
+        "단거리": "A",
+        "마일": "D",
+        "중거리": "G",
+        "장거리": "G",
+        "도주": "B",
+        "선행": "A",
+        "선입": "E",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/103801"
+    },
+    {
+      "key": "kr-103802",
+      "character_id": "103802",
+      "name": "카렌짱",
+      "variant": "삭월의 마・셰리",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "F",
+        "단거리": "A",
+        "마일": "D",
+        "중거리": "G",
+        "장거리": "G",
+        "도주": "B",
+        "선행": "A",
+        "선입": "E",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/103802"
+    },
+    {
+      "key": "kr-103901",
+      "character_id": "103901",
+      "name": "카와카미 프린세스",
+      "variant": "프린세스・오브・핑크",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "D",
+        "마일": "B",
+        "중거리": "A",
+        "장거리": "F",
+        "도주": "G",
+        "선행": "C",
+        "선입": "A",
+        "추입": "D"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/103901"
+    },
+    {
+      "key": "kr-103902",
+      "character_id": "103902",
+      "name": "카와카미 프린세스",
+      "variant": "무사 요조숙녀",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "D",
+        "마일": "B",
+        "중거리": "A",
+        "장거리": "F",
+        "도주": "G",
+        "선행": "C",
+        "선입": "A",
+        "추입": "D"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/103902"
+    },
+    {
+      "key": "kr-104001",
+      "character_id": "104001",
+      "name": "골드 시티",
+      "variant": "오센틱/1928",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "D",
+        "단거리": "F",
+        "마일": "A",
+        "중거리": "B",
+        "장거리": "B",
+        "도주": "F",
+        "선행": "A",
+        "선입": "A",
+        "추입": "F"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/104001"
+    },
+    {
+      "key": "kr-104002",
+      "character_id": "104002",
+      "name": "골드 시티",
+      "variant": "코스모스 단차트리체",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "D",
+        "단거리": "F",
+        "마일": "A",
+        "중거리": "B",
+        "장거리": "B",
+        "도주": "F",
+        "선행": "A",
+        "선입": "A",
+        "추입": "F"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/104002"
+    },
+    {
+      "key": "kr-104101",
+      "character_id": "104101",
+      "name": "사쿠라 바쿠신 오",
+      "variant": "사쿠라, 나아가라!",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "A",
+        "마일": "B",
+        "중거리": "G",
+        "장거리": "G",
+        "도주": "A",
+        "선행": "A",
+        "선입": "F",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/104101"
+    },
+    {
+      "key": "kr-104102",
+      "character_id": "104102",
+      "name": "사쿠라 바쿠신 오",
+      "variant": "레드 핫☆리더",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "A",
+        "마일": "B",
+        "중거리": "G",
+        "장거리": "G",
+        "도주": "A",
+        "선행": "A",
+        "선입": "F",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/104102"
+    },
+    {
+      "key": "kr-104201",
+      "character_id": "104201",
+      "name": "시킹 더 펄",
+      "variant": "Rocket☆Star",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "F",
+        "단거리": "A",
+        "마일": "A",
+        "중거리": "E",
+        "장거리": "G",
+        "도주": "C",
+        "선행": "A",
+        "선입": "A",
+        "추입": "B"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/104201"
+    },
+    {
+      "key": "kr-104202",
+      "character_id": "104202",
+      "name": "시킹 더 펄",
+      "variant": "Be♪Witched",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "F",
+        "단거리": "A",
+        "마일": "A",
+        "중거리": "E",
+        "장거리": "G",
+        "도주": "C",
+        "선행": "A",
+        "선입": "A",
+        "추입": "B"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/104202"
+    },
+    {
+      "key": "kr-104301",
+      "character_id": "104301",
+      "name": "신코 윈디",
+      "variant": "Wicked Punk",
+      "red": "",
+      "aptitudes": {
+        "잔디": "F",
+        "더트": "A",
+        "단거리": "C",
+        "마일": "A",
+        "중거리": "B",
+        "장거리": "G",
+        "도주": "G",
+        "선행": "A",
+        "선입": "B",
+        "추입": "F"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/104301"
+    },
+    {
+      "key": "kr-104401",
+      "character_id": "104401",
+      "name": "스윕 토쇼",
+      "variant": "플라타너스・위치",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "E",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "D",
+        "도주": "G",
+        "선행": "G",
+        "선입": "A",
+        "추입": "A"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/104401"
+    },
+    {
+      "key": "kr-104402",
+      "character_id": "104402",
+      "name": "스윕 토쇼",
+      "variant": "리얼라이즈・룬",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "E",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "D",
+        "도주": "G",
+        "선행": "G",
+        "선입": "A",
+        "추입": "A"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/104402"
+    },
+    {
+      "key": "kr-104501",
+      "character_id": "104501",
+      "name": "슈퍼 크릭",
+      "variant": "머머링 스트림",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "G",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "D",
+        "선행": "A",
+        "선입": "B",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/104501"
+    },
+    {
+      "key": "kr-104502",
+      "character_id": "104502",
+      "name": "슈퍼 크릭",
+      "variant": "쉬폰 리본 머미",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "G",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "D",
+        "선행": "A",
+        "선입": "B",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/104502"
+    },
+    {
+      "key": "kr-104503",
+      "character_id": "104503",
+      "name": "슈퍼 크릭",
+      "variant": "자우화영",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "G",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "D",
+        "선행": "A",
+        "선입": "B",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/104503"
+    },
+    {
+      "key": "kr-104601",
+      "character_id": "104601",
+      "name": "스마트 팔콘",
+      "variant": "앱설루트☆LOVE",
+      "red": "",
+      "aptitudes": {
+        "잔디": "E",
+        "더트": "A",
+        "단거리": "B",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "E",
+        "도주": "A",
+        "선행": "D",
+        "선입": "G",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/104601"
+    },
+    {
+      "key": "kr-104602",
+      "character_id": "104602",
+      "name": "스마트 팔콘",
+      "variant": "황혼 트라이엄프",
+      "red": "",
+      "aptitudes": {
+        "잔디": "E",
+        "더트": "A",
+        "단거리": "B",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "E",
+        "도주": "A",
+        "선행": "D",
+        "선입": "G",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/104602"
+    },
+    {
+      "key": "kr-104603",
+      "character_id": "104603",
+      "name": "스마트 팔콘",
+      "variant": "루미너스☆트월러",
+      "red": "",
+      "aptitudes": {
+        "잔디": "E",
+        "더트": "A",
+        "단거리": "B",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "E",
+        "도주": "A",
+        "선행": "D",
+        "선입": "G",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/104603"
+    },
+    {
+      "key": "kr-104701",
+      "character_id": "104701",
+      "name": "젠노 롭 로이",
+      "variant": "Heroic Author",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "E",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "A",
+        "선입": "A",
+        "추입": "E"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/104701"
+    },
+    {
+      "key": "kr-104702",
+      "character_id": "104702",
+      "name": "젠노 롭 로이",
+      "variant": "Inlaid Stories",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "E",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "A",
+        "선입": "A",
+        "추입": "E"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/104702"
+    },
+    {
+      "key": "kr-104801",
+      "character_id": "104801",
+      "name": "토센 조던",
+      "variant": "팝스☆조커",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "F",
+        "중거리": "A",
+        "장거리": "B",
+        "도주": "C",
+        "선행": "A",
+        "선입": "B",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/104801"
+    },
+    {
+      "key": "kr-104802",
+      "character_id": "104802",
+      "name": "토센 조던",
+      "variant": "Aurore☆Vacances",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "F",
+        "중거리": "A",
+        "장거리": "B",
+        "도주": "C",
+        "선행": "A",
+        "선입": "A",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/104802"
+    },
+    {
+      "key": "kr-104901",
+      "character_id": "104901",
+      "name": "나카야마 페스타",
+      "variant": "사중구활",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "B",
+        "도주": "G",
+        "선행": "A",
+        "선입": "A",
+        "추입": "D"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/104901"
+    },
+    {
+      "key": "kr-105001",
+      "character_id": "105001",
+      "name": "나리타 타이신",
+      "variant": "Nevertheless",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "F",
+        "마일": "D",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "F",
+        "선입": "B",
+        "추입": "A"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/105001"
+    },
+    {
+      "key": "kr-105002",
+      "character_id": "105002",
+      "name": "나리타 타이신",
+      "variant": "디퍼런스・엔지니어",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "F",
+        "마일": "D",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "F",
+        "선입": "B",
+        "추입": "A"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/105002"
+    },
+    {
+      "key": "kr-105003",
+      "character_id": "105003",
+      "name": "나리타 타이신",
+      "variant": "미광 오버라이드",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "F",
+        "마일": "D",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "F",
+        "선입": "B",
+        "추입": "A"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/105003"
+    },
+    {
+      "key": "kr-105101",
+      "character_id": "105101",
+      "name": "니시노 플라워",
+      "variant": "티어드・페탈",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "F",
+        "단거리": "A",
+        "마일": "A",
+        "중거리": "E",
+        "장거리": "G",
+        "도주": "F",
+        "선행": "A",
+        "선입": "A",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/105101"
+    },
+    {
+      "key": "kr-105102",
+      "character_id": "105102",
+      "name": "니시노 플라워",
+      "variant": "Sweet Juneberry",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "F",
+        "단거리": "A",
+        "마일": "A",
+        "중거리": "E",
+        "장거리": "G",
+        "도주": "F",
+        "선행": "A",
+        "선입": "A",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/105102"
+    },
+    {
+      "key": "kr-105201",
+      "character_id": "105201",
+      "name": "하루 우라라",
+      "variant": "화창한 1등상♪",
+      "red": "",
+      "aptitudes": {
+        "잔디": "G",
+        "더트": "A",
+        "단거리": "A",
+        "마일": "B",
+        "중거리": "G",
+        "장거리": "G",
+        "도주": "G",
+        "선행": "G",
+        "선입": "A",
+        "추입": "B"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/105201"
+    },
+    {
+      "key": "kr-105202",
+      "character_id": "105202",
+      "name": "하루 우라라",
+      "variant": "새해의 화창함♪ 활짝 핀 벚꽃",
+      "red": "",
+      "aptitudes": {
+        "잔디": "G",
+        "더트": "A",
+        "단거리": "A",
+        "마일": "A",
+        "중거리": "G",
+        "장거리": "G",
+        "도주": "G",
+        "선행": "G",
+        "선입": "A",
+        "추입": "B"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/105202"
+    },
+    {
+      "key": "kr-105301",
+      "character_id": "105301",
+      "name": "뱀부 메모리",
+      "variant": "흑철의 큰 뜻",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "D",
+        "단거리": "A",
+        "마일": "A",
+        "중거리": "C",
+        "장거리": "G",
+        "도주": "G",
+        "선행": "E",
+        "선입": "A",
+        "추입": "C"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/105301"
+    },
+    {
+      "key": "kr-105302",
+      "character_id": "105302",
+      "name": "뱀부 메모리",
+      "variant": "Ultra☆Marine",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "D",
+        "단거리": "A",
+        "마일": "A",
+        "중거리": "C",
+        "장거리": "G",
+        "도주": "G",
+        "선행": "E",
+        "선입": "A",
+        "추입": "C"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/105302"
+    },
+    {
+      "key": "kr-105401",
+      "character_id": "105401",
+      "name": "비코 페가수스",
+      "variant": "질풍 페가수스・영식",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "E",
+        "단거리": "A",
+        "마일": "B",
+        "중거리": "G",
+        "장거리": "G",
+        "도주": "G",
+        "선행": "E",
+        "선입": "A",
+        "추입": "B"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/105401"
+    },
+    {
+      "key": "kr-105501",
+      "character_id": "105501",
+      "name": "마블러스 선데이",
+      "variant": "☆반짝★두근☆콩닥∞마블∞",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "F",
+        "단거리": "G",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "B",
+        "도주": "G",
+        "선행": "A",
+        "선입": "A",
+        "추입": "C"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/105501"
+    },
+    {
+      "key": "kr-105601",
+      "character_id": "105601",
+      "name": "마치카네 후쿠키타루",
+      "variant": "운기상승☆행복만래",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "F",
+        "단거리": "F",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "B",
+        "선입": "A",
+        "추입": "F"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/105601"
+    },
+    {
+      "key": "kr-105602",
+      "character_id": "105602",
+      "name": "마치카네 후쿠키타루",
+      "variant": "길조・초가을 바람",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "F",
+        "단거리": "F",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "B",
+        "선입": "A",
+        "추입": "F"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/105602"
+    },
+    {
+      "key": "kr-105701",
+      "character_id": "105701",
+      "name": "미스터 시비",
+      "variant": "Clear Bliss",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "B",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "E",
+        "선입": "A",
+        "추입": "A"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/105701"
+    },
+    {
+      "key": "kr-105702",
+      "character_id": "105702",
+      "name": "미스터 시비",
+      "variant": "현란한 꽃길, 가무하는 그대",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "B",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "E",
+        "선입": "A",
+        "추입": "A"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/105702"
+    },
+    {
+      "key": "kr-105801",
+      "character_id": "105801",
+      "name": "메이쇼 도토",
+      "variant": "블루/레이징",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "E",
+        "단거리": "G",
+        "마일": "F",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "F",
+        "선행": "A",
+        "선입": "B",
+        "추입": "E"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/105801"
+    },
+    {
+      "key": "kr-105802",
+      "character_id": "105802",
+      "name": "메이쇼 도토",
+      "variant": "Dot-o'-Lantern",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "E",
+        "단거리": "G",
+        "마일": "F",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "F",
+        "선행": "A",
+        "선입": "B",
+        "추입": "E"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/105802"
+    },
+    {
+      "key": "kr-105901",
+      "character_id": "105901",
+      "name": "메지로 도베르",
+      "variant": "트위스티드・라인",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "E",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "F",
+        "도주": "C",
+        "선행": "B",
+        "선입": "A",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/105901"
+    },
+    {
+      "key": "kr-105902",
+      "character_id": "105902",
+      "name": "메지로 도베르",
+      "variant": "바캉스・사피르",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "E",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "F",
+        "도주": "C",
+        "선행": "B",
+        "선입": "A",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/105902"
+    },
+    {
+      "key": "kr-106001",
+      "character_id": "106001",
+      "name": "나이스 네이처",
+      "variant": "포인세티아・리본",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "F",
+        "선행": "B",
+        "선입": "A",
+        "추입": "D"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/106001"
+    },
+    {
+      "key": "kr-106002",
+      "character_id": "106002",
+      "name": "나이스 네이처",
+      "variant": "RUN&WIN",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "F",
+        "선행": "B",
+        "선입": "A",
+        "추입": "D"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/106002"
+    },
+    {
+      "key": "kr-106003",
+      "character_id": "106003",
+      "name": "나이스 네이처",
+      "variant": "소원의 겹옷",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "F",
+        "선행": "B",
+        "선입": "A",
+        "추입": "D"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/106003"
+    },
+    {
+      "key": "kr-106101",
+      "character_id": "106101",
+      "name": "킹 헤일로",
+      "variant": "킹・오브・에메랄드",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "A",
+        "마일": "B",
+        "중거리": "B",
+        "장거리": "C",
+        "도주": "G",
+        "선행": "B",
+        "선입": "A",
+        "추입": "D"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/106101"
+    },
+    {
+      "key": "kr-106102",
+      "character_id": "106102",
+      "name": "킹 헤일로",
+      "variant": "하얗고 고결한 격려의 복장",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "A",
+        "마일": "B",
+        "중거리": "B",
+        "장거리": "C",
+        "도주": "G",
+        "선행": "B",
+        "선입": "A",
+        "추입": "D"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/106102"
+    },
+    {
+      "key": "kr-106103",
+      "character_id": "106103",
+      "name": "킹 헤일로",
+      "variant": "Evergreen Identity",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "A",
+        "마일": "A",
+        "중거리": "B",
+        "장거리": "C",
+        "도주": "G",
+        "선행": "B",
+        "선입": "A",
+        "추입": "D"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/106103"
+    },
+    {
+      "key": "kr-106201",
+      "character_id": "106201",
+      "name": "마치카네 탄호이저",
+      "variant": "팡파카 틸토트",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "D",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "F",
+        "선행": "A",
+        "선입": "A",
+        "추입": "E"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/106201"
+    },
+    {
+      "key": "kr-106202",
+      "character_id": "106202",
+      "name": "마치카네 탄호이저",
+      "variant": "블루・터뷸런스",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "D",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "F",
+        "선행": "A",
+        "선입": "A",
+        "추입": "E"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/106202"
+    },
+    {
+      "key": "kr-106301",
+      "character_id": "106301",
+      "name": "이쿠노 딕터스",
+      "variant": "Mantle of Steel",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "D",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "D",
+        "도주": "D",
+        "선행": "A",
+        "선입": "A",
+        "추입": "D"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/106301"
+    },
+    {
+      "key": "kr-106401",
+      "character_id": "106401",
+      "name": "메지로 파머",
+      "variant": "Line Breakthrough",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "F",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "A",
+        "선행": "E",
+        "선입": "F",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/106401"
+    },
+    {
+      "key": "kr-106402",
+      "character_id": "106402",
+      "name": "메지로 파머",
+      "variant": "진심인 순록 씨",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "F",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "A",
+        "선행": "E",
+        "선입": "F",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/106402"
+    },
+    {
+      "key": "kr-106501",
+      "character_id": "106501",
+      "name": "다이타쿠 헬리오스",
+      "variant": "Fun☆Fun☆파뤼나잇",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "B",
+        "마일": "A",
+        "중거리": "B",
+        "장거리": "E",
+        "도주": "A",
+        "선행": "A",
+        "선입": "G",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/106501"
+    },
+    {
+      "key": "kr-106502",
+      "character_id": "106502",
+      "name": "다이타쿠 헬리오스",
+      "variant": "Joyful Jamboree!",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "B",
+        "마일": "A",
+        "중거리": "B",
+        "장거리": "E",
+        "도주": "A",
+        "선행": "A",
+        "선입": "G",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/106502"
+    },
+    {
+      "key": "kr-106601",
+      "character_id": "106601",
+      "name": "트윈 터보",
+      "variant": "폭주! 터보 엔진",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "F",
+        "단거리": "G",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "E",
+        "도주": "A",
+        "선행": "G",
+        "선입": "G",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/106601"
+    },
+    {
+      "key": "kr-106701",
+      "character_id": "106701",
+      "name": "사토노 다이아몬드",
+      "variant": "Natural Brilliance",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "B",
+        "선입": "A",
+        "추입": "D"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/106701"
+    },
+    {
+      "key": "kr-106702",
+      "character_id": "106702",
+      "name": "사토노 다이아몬드",
+      "variant": "각광・번영을 부르는 녹빛",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "B",
+        "선입": "A",
+        "추입": "D"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/106702"
+    },
+    {
+      "key": "kr-106703",
+      "character_id": "106703",
+      "name": "사토노 다이아몬드",
+      "variant": "슈발리에・블뢰",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "B",
+        "선입": "A",
+        "추입": "D"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/106703"
+    },
+    {
+      "key": "kr-106801",
+      "character_id": "106801",
+      "name": "키타산 블랙",
+      "variant": "금상・금화가마",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "E",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "A",
+        "선행": "B",
+        "선입": "C",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/106801"
+    },
+    {
+      "key": "kr-106802",
+      "character_id": "106802",
+      "name": "키타산 블랙",
+      "variant": "주역・경사스러운 학의 뜻",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "E",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "A",
+        "선행": "B",
+        "선입": "C",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/106802"
+    },
+    {
+      "key": "kr-106803",
+      "character_id": "106803",
+      "name": "키타산 블랙",
+      "variant": "결원의 마지막 꽃",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "E",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "A",
+        "선행": "B",
+        "선입": "C",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/106803"
+    },
+    {
+      "key": "kr-106901",
+      "character_id": "106901",
+      "name": "사쿠라 치요노 오",
+      "variant": "천하무쌍・만개한 벚꽃의 빛",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "E",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "E",
+        "도주": "B",
+        "선행": "A",
+        "선입": "F",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/106901"
+    },
+    {
+      "key": "kr-106902",
+      "character_id": "106902",
+      "name": "사쿠라 치요노 오",
+      "variant": "Fleur Enneigée",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "E",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "E",
+        "도주": "B",
+        "선행": "A",
+        "선입": "F",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/106902"
+    },
+    {
+      "key": "kr-107001",
+      "character_id": "107001",
+      "name": "시리우스 심볼리",
+      "variant": "Féroce",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "B",
+        "중거리": "A",
+        "장거리": "C",
+        "도주": "E",
+        "선행": "A",
+        "선입": "C",
+        "추입": "E"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/107001"
+    },
+    {
+      "key": "kr-107002",
+      "character_id": "107002",
+      "name": "시리우스 심볼리",
+      "variant": "Louve stellaire",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "B",
+        "중거리": "A",
+        "장거리": "C",
+        "도주": "E",
+        "선행": "A",
+        "선입": "A",
+        "추입": "E"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/107002"
+    },
+    {
+      "key": "kr-107101",
+      "character_id": "107101",
+      "name": "메지로 아르당",
+      "variant": "클리노클로어・라인",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "F",
+        "단거리": "E",
+        "마일": "B",
+        "중거리": "A",
+        "장거리": "D",
+        "도주": "C",
+        "선행": "A",
+        "선입": "D",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/107101"
+    },
+    {
+      "key": "kr-107102",
+      "character_id": "107102",
+      "name": "메지로 아르당",
+      "variant": "Neige Émeraude",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "F",
+        "단거리": "E",
+        "마일": "B",
+        "중거리": "A",
+        "장거리": "D",
+        "도주": "C",
+        "선행": "A",
+        "선입": "D",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/107102"
+    },
+    {
+      "key": "kr-107201",
+      "character_id": "107201",
+      "name": "야에노 무테키",
+      "variant": "사백유성의 습격",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "E",
+        "단거리": "G",
+        "마일": "B",
+        "중거리": "A",
+        "장거리": "E",
+        "도주": "F",
+        "선행": "A",
+        "선입": "A",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/107201"
+    },
+    {
+      "key": "kr-107202",
+      "character_id": "107202",
+      "name": "야에노 무테키",
+      "variant": "흑장 Zen",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "E",
+        "단거리": "G",
+        "마일": "B",
+        "중거리": "A",
+        "장거리": "E",
+        "도주": "F",
+        "선행": "A",
+        "선입": "A",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/107202"
+    },
+    {
+      "key": "kr-107301",
+      "character_id": "107301",
+      "name": "츠루마루 츠요시",
+      "variant": "뜻, 높고, 강하게!",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "F",
+        "단거리": "F",
+        "마일": "D",
+        "중거리": "A",
+        "장거리": "C",
+        "도주": "G",
+        "선행": "A",
+        "선입": "A",
+        "추입": "E"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/107301"
+    },
+    {
+      "key": "kr-107401",
+      "character_id": "107401",
+      "name": "메지로 브라이트",
+      "variant": "브뤼니사주・라인",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "F",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "D",
+        "선입": "A",
+        "추입": "A"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/107401"
+    },
+    {
+      "key": "kr-107402",
+      "character_id": "107402",
+      "name": "메지로 브라이트",
+      "variant": "거룩한 밤 경사로운 스노우 롤리타",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "F",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "D",
+        "선입": "A",
+        "추입": "A"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/107402"
+    },
+    {
+      "key": "kr-107601",
+      "character_id": "107601",
+      "name": "사쿠라 로렐",
+      "variant": "Saisir le rêve",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "E",
+        "단거리": "G",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "B",
+        "선입": "A",
+        "추입": "B"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/107601"
+    },
+    {
+      "key": "kr-107701",
+      "character_id": "107701",
+      "name": "나리타 탑 로드",
+      "variant": "The Proud Road",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "F",
+        "선행": "A",
+        "선입": "B",
+        "추입": "D"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/107701"
+    },
+    {
+      "key": "kr-107702",
+      "character_id": "107702",
+      "name": "나리타 탑 로드",
+      "variant": "Celestial Road",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "F",
+        "선행": "A",
+        "선입": "B",
+        "추입": "D"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/107702"
+    },
+    {
+      "key": "kr-107801",
+      "character_id": "107801",
+      "name": "야마닌 제퍼",
+      "variant": "Fluttertail Spirit",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "D",
+        "단거리": "B",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "G",
+        "도주": "E",
+        "선행": "A",
+        "선입": "C",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/107801"
+    },
+    {
+      "key": "kr-107802",
+      "character_id": "107802",
+      "name": "야마닌 제퍼",
+      "variant": "Sugary Wind",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "D",
+        "단거리": "B",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "G",
+        "도주": "E",
+        "선행": "A",
+        "선입": "C",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/107802"
+    },
+    {
+      "key": "kr-107901",
+      "character_id": "107901",
+      "name": "푸리오소",
+      "variant": "금의환향의 상서로운 별",
+      "red": "",
+      "aptitudes": {
+        "잔디": "G",
+        "더트": "A",
+        "단거리": "F",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "F",
+        "도주": "A",
+        "선행": "A",
+        "선입": "E",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/107901"
+    },
+    {
+      "key": "kr-108001",
+      "character_id": "108001",
+      "name": "트랜센드",
+      "variant": "JJARIT-JJARIT GIZMO",
+      "red": "",
+      "aptitudes": {
+        "잔디": "F",
+        "더트": "A",
+        "단거리": "G",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "G",
+        "도주": "A",
+        "선행": "B",
+        "선입": "F",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/108001"
+    },
+    {
+      "key": "kr-108201",
+      "character_id": "108201",
+      "name": "노스 플라이트",
+      "variant": "Looking Fly!",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "C",
+        "마일": "A",
+        "중거리": "B",
+        "장거리": "G",
+        "도주": "D",
+        "선행": "A",
+        "선입": "D",
+        "추입": "C"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/108201"
+    },
+    {
+      "key": "kr-108301",
+      "character_id": "108301",
+      "name": "심볼리 크리스 에스",
+      "variant": "Onyx Soldier",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "E",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "A",
+        "선입": "A",
+        "추입": "D"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/108301"
+    },
+    {
+      "key": "kr-108302",
+      "character_id": "108302",
+      "name": "심볼리 크리스 에스",
+      "variant": "Jetblack Automaton",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "E",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "A",
+        "선입": "A",
+        "추입": "D"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/108302"
+    },
+    {
+      "key": "kr-108401",
+      "character_id": "108401",
+      "name": "타니노 김렛",
+      "variant": "몸을 휘감는 케라브노스",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "F",
+        "단거리": "F",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "F",
+        "도주": "G",
+        "선행": "D",
+        "선입": "A",
+        "추입": "A"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/108401"
+    },
+    {
+      "key": "kr-108402",
+      "character_id": "108402",
+      "name": "타니노 김렛",
+      "variant": "With a Twist",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "F",
+        "단거리": "F",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "F",
+        "도주": "G",
+        "선행": "D",
+        "선입": "A",
+        "추입": "A"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/108402"
+    },
+    {
+      "key": "kr-108501",
+      "character_id": "108501",
+      "name": "다이이치 루비",
+      "variant": "화려한 홍옥",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "A",
+        "마일": "A",
+        "중거리": "C",
+        "장거리": "G",
+        "도주": "E",
+        "선행": "B",
+        "선입": "A",
+        "추입": "A"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/108501"
+    },
+    {
+      "key": "kr-108502",
+      "character_id": "108502",
+      "name": "다이이치 루비",
+      "variant": "Flowing Blue",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "A",
+        "마일": "A",
+        "중거리": "C",
+        "장거리": "G",
+        "도주": "E",
+        "선행": "B",
+        "선입": "A",
+        "추입": "A"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/108502"
+    },
+    {
+      "key": "kr-108601",
+      "character_id": "108601",
+      "name": "메지로 라모누",
+      "variant": "오닉스・라인",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "F",
+        "단거리": "B",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "E",
+        "도주": "G",
+        "선행": "A",
+        "선입": "A",
+        "추입": "F"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/108601"
+    },
+    {
+      "key": "kr-108701",
+      "character_id": "108701",
+      "name": "애스턴 마짱",
+      "variant": "Flare",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "A",
+        "마일": "B",
+        "중거리": "G",
+        "장거리": "G",
+        "도주": "A",
+        "선행": "A",
+        "선입": "G",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/108701"
+    },
+    {
+      "key": "kr-108702",
+      "character_id": "108702",
+      "name": "애스턴 마짱",
+      "variant": "녹지 않는 설탕 과자",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "A",
+        "마일": "B",
+        "중거리": "G",
+        "장거리": "G",
+        "도주": "A",
+        "선행": "A",
+        "선입": "G",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/108702"
+    },
+    {
+      "key": "kr-108801",
+      "character_id": "108801",
+      "name": "사토노 크라운",
+      "variant": "검은 옥이 천 리를 간다",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "B",
+        "중거리": "A",
+        "장거리": "E",
+        "도주": "G",
+        "선행": "B",
+        "선입": "A",
+        "추입": "D"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/108801"
+    },
+    {
+      "key": "kr-108901",
+      "character_id": "108901",
+      "name": "슈발 그랑",
+      "variant": "Grand itinéraire",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "G",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "A",
+        "선입": "B",
+        "추입": "F"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/108901"
+    },
+    {
+      "key": "kr-109001",
+      "character_id": "109001",
+      "name": "베르시나",
+      "variant": "Le beau sommet",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "D",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "G",
+        "도주": "A",
+        "선행": "A",
+        "선입": "E",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/109001"
+    },
+    {
+      "key": "kr-109101",
+      "character_id": "109101",
+      "name": "비블로스",
+      "variant": "Voyage étincelant",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "E",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "G",
+        "도주": "G",
+        "선행": "D",
+        "선입": "A",
+        "추입": "C"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/109101"
+    },
+    {
+      "key": "kr-109301",
+      "character_id": "109301",
+      "name": "케이에스 미라클",
+      "variant": "Prism",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "A",
+        "마일": "B",
+        "중거리": "G",
+        "장거리": "G",
+        "도주": "E",
+        "선행": "A",
+        "선입": "B",
+        "추입": "C"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/109301"
+    },
+    {
+      "key": "kr-109401",
+      "character_id": "109401",
+      "name": "정글 포켓",
+      "variant": "왕의 함성",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "B",
+        "도주": "G",
+        "선행": "D",
+        "선입": "A",
+        "추입": "B"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/109401"
+    },
+    {
+      "key": "kr-109601",
+      "character_id": "109601",
+      "name": "노 리즌",
+      "variant": "질주하는 붉은 갑주",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "B",
+        "중거리": "A",
+        "장거리": "C",
+        "도주": "G",
+        "선행": "D",
+        "선입": "A",
+        "추입": "F"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/109601"
+    },
+    {
+      "key": "kr-109801",
+      "character_id": "109801",
+      "name": "코파노 리키",
+      "variant": "음양팔괘☆운이 트이는 옷",
+      "red": "",
+      "aptitudes": {
+        "잔디": "F",
+        "더트": "A",
+        "단거리": "C",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "G",
+        "도주": "A",
+        "선행": "A",
+        "선입": "C",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/109801"
+    },
+    {
+      "key": "kr-109802",
+      "character_id": "109802",
+      "name": "코파노 리키",
+      "variant": "광채육리☆복을 부르는 옷",
+      "red": "",
+      "aptitudes": {
+        "잔디": "F",
+        "더트": "A",
+        "단거리": "C",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "G",
+        "도주": "A",
+        "선행": "A",
+        "선입": "C",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/109802"
+    },
+    {
+      "key": "kr-109901",
+      "character_id": "109901",
+      "name": "홋코 타루마에",
+      "variant": "스타・라이트・십",
+      "red": "",
+      "aptitudes": {
+        "잔디": "G",
+        "더트": "A",
+        "단거리": "F",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "E",
+        "도주": "B",
+        "선행": "A",
+        "선입": "G",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/109901"
+    },
+    {
+      "key": "kr-109902",
+      "character_id": "109902",
+      "name": "홋코 타루마에",
+      "variant": "파스텔 마린・지역 아이돌",
+      "red": "",
+      "aptitudes": {
+        "잔디": "G",
+        "더트": "A",
+        "단거리": "F",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "E",
+        "도주": "B",
+        "선행": "A",
+        "선입": "G",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/109902"
+    },
+    {
+      "key": "kr-110001",
+      "character_id": "110001",
+      "name": "원더 어큐트",
+      "variant": "Butterfly Sting",
+      "red": "",
+      "aptitudes": {
+        "잔디": "G",
+        "더트": "A",
+        "단거리": "D",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "E",
+        "도주": "C",
+        "선행": "A",
+        "선입": "C",
+        "추입": "E"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/110001"
+    },
+    {
+      "key": "kr-110201",
+      "character_id": "110201",
+      "name": "사운즈 오브 어스",
+      "variant": "Ritmo della Terra",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "F",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "B",
+        "선입": "A",
+        "추입": "E"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/110201"
+    },
+    {
+      "key": "kr-110401",
+      "character_id": "110401",
+      "name": "카츠라기 에이스",
+      "variant": "등용지정",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "E",
+        "마일": "B",
+        "중거리": "A",
+        "장거리": "B",
+        "도주": "A",
+        "선행": "A",
+        "선입": "E",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/110401"
+    },
+    {
+      "key": "kr-110402",
+      "character_id": "110402",
+      "name": "카츠라기 에이스",
+      "variant": "아호・묵룡",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "E",
+        "마일": "B",
+        "중거리": "A",
+        "장거리": "B",
+        "도주": "A",
+        "선행": "A",
+        "선입": "E",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/110402"
+    },
+    {
+      "key": "kr-110501",
+      "character_id": "110501",
+      "name": "네오 유니버스",
+      "variant": "Universe-Naut",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "F",
+        "마일": "B",
+        "중거리": "A",
+        "장거리": "B",
+        "도주": "F",
+        "선행": "A",
+        "선입": "A",
+        "추입": "C"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/110501"
+    },
+    {
+      "key": "kr-110502",
+      "character_id": "110502",
+      "name": "네오 유니버스",
+      "variant": "Like “ZEER”",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "F",
+        "마일": "B",
+        "중거리": "A",
+        "장거리": "B",
+        "도주": "F",
+        "선행": "A",
+        "선입": "A",
+        "추입": "C"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/110502"
+    },
+    {
+      "key": "kr-110601",
+      "character_id": "110601",
+      "name": "히시 미라클",
+      "variant": "미라클 메이크업!",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "G",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "C",
+        "선입": "A",
+        "추입": "B"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/110601"
+    },
+    {
+      "key": "kr-110701",
+      "character_id": "110701",
+      "name": "탭 댄스 시티",
+      "variant": "GLITTER!",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "E",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "A",
+        "선행": "B",
+        "선입": "F",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/110701"
+    },
+    {
+      "key": "kr-110702",
+      "character_id": "110702",
+      "name": "탭 댄스 시티",
+      "variant": "Tap! Tap! Tap!",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "E",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "A",
+        "선행": "B",
+        "선입": "F",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/110702"
+    },
+    {
+      "key": "kr-110801",
+      "character_id": "110801",
+      "name": "두라멘테",
+      "variant": "Red in Black",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "C",
+        "도주": "G",
+        "선행": "C",
+        "선입": "A",
+        "추입": "A"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/110801"
+    },
+    {
+      "key": "kr-110901",
+      "character_id": "110901",
+      "name": "라인 크라프트",
+      "variant": "Dream Successor",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "A",
+        "마일": "A",
+        "중거리": "B",
+        "장거리": "G",
+        "도주": "E",
+        "선행": "A",
+        "선입": "C",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/110901"
+    },
+    {
+      "key": "kr-111001",
+      "character_id": "111001",
+      "name": "세자리오",
+      "variant": "Future Weaver",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "F",
+        "도주": "G",
+        "선행": "A",
+        "선입": "A",
+        "추입": "C"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/111001"
+    },
+    {
+      "key": "kr-111101",
+      "character_id": "111101",
+      "name": "에어 메사이어",
+      "variant": "Inherited Hope",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "C",
+        "마일": "B",
+        "중거리": "A",
+        "장거리": "G",
+        "도주": "G",
+        "선행": "B",
+        "선입": "A",
+        "추입": "E"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/111101"
+    },
+    {
+      "key": "kr-111501",
+      "character_id": "111501",
+      "name": "오르페브르",
+      "variant": "총람",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "D",
+        "단거리": "G",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "F",
+        "선입": "A",
+        "추입": "A"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/111501"
+    },
+    {
+      "key": "kr-111601",
+      "character_id": "111601",
+      "name": "젠틸돈나",
+      "variant": "Regina dei fiori",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "E",
+        "선행": "A",
+        "선입": "A",
+        "추입": "D"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/111601"
+    },
+    {
+      "key": "kr-111701",
+      "character_id": "111701",
+      "name": "윈 바리아시옹",
+      "variant": "드라마틱・튀튀",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "E",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "E",
+        "선입": "A",
+        "추입": "A"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/111701"
+    },
+    {
+      "key": "kr-111901",
+      "character_id": "111901",
+      "name": "드림 저니",
+      "variant": "꿈길의 인연",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "F",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "G",
+        "선행": "G",
+        "선입": "A",
+        "추입": "A"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/111901"
+    },
+    {
+      "key": "kr-112001",
+      "character_id": "112001",
+      "name": "칼스톤 라이트 오",
+      "variant": "진실일로",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "A",
+        "마일": "D",
+        "중거리": "G",
+        "장거리": "G",
+        "도주": "A",
+        "선행": "C",
+        "선입": "G",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/112001"
+    },
+    {
+      "key": "kr-112101",
+      "character_id": "112101",
+      "name": "뒤랑달",
+      "variant": "Chevalier fidèle",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "A",
+        "마일": "A",
+        "중거리": "F",
+        "장거리": "G",
+        "도주": "G",
+        "선행": "G",
+        "선입": "C",
+        "추입": "A"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/112101"
+    },
+    {
+      "key": "kr-112401",
+      "character_id": "112401",
+      "name": "버블검 펠로",
+      "variant": "POPPING!",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "G",
+        "도주": "E",
+        "선행": "A",
+        "선입": "B",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/112401"
+    },
+    {
+      "key": "kr-112701",
+      "character_id": "112701",
+      "name": "페노메노",
+      "variant": "정의심의 검은 불꽃",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "G",
+        "중거리": "A",
+        "장거리": "A",
+        "도주": "C",
+        "선행": "A",
+        "선입": "E",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/112701"
+    },
+    {
+      "key": "kr-113101",
+      "character_id": "113101",
+      "name": "그란 알레그리아",
+      "variant": "스마일・마이・웨이!",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "A",
+        "마일": "A",
+        "중거리": "C",
+        "장거리": "G",
+        "도주": "F",
+        "선행": "A",
+        "선입": "A",
+        "추입": "B"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/113101"
+    }
+  ]
+}
