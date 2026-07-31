@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "database_version": "2026.08.01.0123",
-  "generated_at": "2026-08-01T01:23:22+09:00",
+  "database_version": "2026.08.01.0127",
+  "generated_at": "2026-08-01T01:27:02+09:00",
   "files": [
     {
       "path": "data/characters_kr.json",
@@ -25,7 +25,7 @@
       "path": "data/database_version.json",
       "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/data/database_version.json",
       "size": 71,
-      "sha256": "3d27a0c07eeaa0afcf7a1a3b17ee32761b91a7f3f5942e52e4ea9d337c93d471"
+      "sha256": "3f4da445c167489a9f56a00572b312b02724d8d37f789f26d0d5d8590ca38034"
     }
   ]
 }
