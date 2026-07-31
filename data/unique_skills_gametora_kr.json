@@ -1,16 +1,20 @@
 {
   "schema_version": 1,
   "region": "KR",
-  "updated_at": "2026-07-20",
+  "updated_at": "2026-08-01",
   "source": "https://gametora.com/ko/umamusume/skills",
   "condition_source": "https://uma.inven.co.kr/db/chara/",
-  "character_cards_hash": "ec0a6c67",
+  "character_cards_hash": "41c1380e",
   "skills_hash": "6df9454d",
-  "all_skills_hash": "f80d23e0",
+  "all_skills_hash": "8171b191",
+  "estimated_kr_release_lag_days": 476,
+  "estimated_kr_release_sample_size": 20,
   "characters": [
     {
       "card_id": "100101",
       "release_date": "2022-06-20",
+      "release_date_type": "actual",
+      "release_jp": "2021-02-24",
       "unique": {
         "id": 100011,
         "icon_id": 20013,
@@ -53,6 +57,8 @@
     {
       "card_id": "100102",
       "release_date": "2022-11-17",
+      "release_date_type": "actual",
+      "release_jp": "2021-07-29",
       "unique": {
         "id": 110011,
         "icon_id": 20023,
@@ -95,6 +101,8 @@
     {
       "card_id": "100103",
       "release_date": "2023-11-08",
+      "release_date_type": "actual",
+      "release_jp": "2022-07-20",
       "unique": {
         "id": 120011,
         "icon_id": 20013,
@@ -155,6 +163,8 @@
     {
       "card_id": "100201",
       "release_date": "2022-06-20",
+      "release_date_type": "actual",
+      "release_jp": "2021-02-24",
       "unique": {
         "id": 100021,
         "icon_id": 20013,
@@ -195,6 +205,8 @@
     {
       "card_id": "100202",
       "release_date": "2024-11-18",
+      "release_date_type": "actual",
+      "release_jp": "2023-07-31",
       "unique": {
         "id": 110021,
         "icon_id": 20013,
@@ -255,6 +267,8 @@
     {
       "card_id": "100301",
       "release_date": "2022-06-20",
+      "release_date_type": "actual",
+      "release_jp": "2021-02-24",
       "unique": {
         "id": 100031,
         "icon_id": 20013,
@@ -297,6 +311,8 @@
     {
       "card_id": "100302",
       "release_date": "2022-07-25",
+      "release_date_type": "actual",
+      "release_jp": "2021-03-30",
       "unique": {
         "id": 110031,
         "icon_id": 20013,
@@ -339,6 +355,8 @@
     {
       "card_id": "100303",
       "release_date": "2025-02-17",
+      "release_date_type": "actual",
+      "release_jp": "2023-10-30",
       "unique": {
         "id": 120031,
         "icon_id": 20013,
@@ -403,6 +421,8 @@
     {
       "card_id": "100401",
       "release_date": "2022-06-20",
+      "release_date_type": "actual",
+      "release_jp": "2021-02-24",
       "unique": {
         "id": 100041,
         "icon_id": 20043,
@@ -443,6 +463,8 @@
     {
       "card_id": "100402",
       "release_date": "2022-11-17",
+      "release_date_type": "actual",
+      "release_jp": "2021-07-29",
       "unique": {
         "id": 110041,
         "icon_id": 20013,
@@ -483,6 +505,8 @@
     {
       "card_id": "100403",
       "release_date": "2026-05-01",
+      "release_date_type": "actual",
+      "release_jp": "2025-01-10",
       "unique": {
         "id": 120041,
         "icon_id": 20013,
@@ -539,6 +563,8 @@
     {
       "card_id": "100501",
       "release_date": "2022-10-31",
+      "release_date_type": "actual",
+      "release_jp": "2021-07-12",
       "unique": {
         "id": 100051,
         "icon_id": 20013,
@@ -581,6 +607,8 @@
     {
       "card_id": "100502",
       "release_date": "2023-07-18",
+      "release_date_type": "actual",
+      "release_jp": "2022-03-29",
       "unique": {
         "id": 110051,
         "icon_id": 20013,
@@ -621,6 +649,8 @@
     {
       "card_id": "100601",
       "release_date": "2022-06-20",
+      "release_date_type": "actual",
+      "release_jp": "2021-02-24",
       "unique": {
         "id": 100061,
         "icon_id": 20013,
@@ -661,6 +691,8 @@
     {
       "card_id": "100602",
       "release_date": "2023-03-20",
+      "release_date_type": "actual",
+      "release_jp": "2021-11-29",
       "unique": {
         "id": 110061,
         "icon_id": 20013,
@@ -705,6 +737,8 @@
     {
       "card_id": "100701",
       "release_date": "2022-06-20",
+      "release_date_type": "actual",
+      "release_jp": "2021-02-24",
       "unique": {
         "id": 100071,
         "icon_id": 20013,
@@ -745,6 +779,8 @@
     {
       "card_id": "100702",
       "release_date": "2023-11-17",
+      "release_date_type": "actual",
+      "release_jp": "2022-07-29",
       "unique": {
         "id": 110071,
         "icon_id": 20013,
@@ -787,6 +823,8 @@
     {
       "card_id": "100703",
       "release_date": "2024-12-19",
+      "release_date_type": "actual",
+      "release_jp": "2023-08-31",
       "unique": {
         "id": 120071,
         "icon_id": 20013,
@@ -843,6 +881,8 @@
     {
       "card_id": "100801",
       "release_date": "2022-06-20",
+      "release_date_type": "actual",
+      "release_jp": "2021-02-24",
       "unique": {
         "id": 100081,
         "icon_id": 20013,
@@ -883,6 +923,8 @@
     {
       "card_id": "100802",
       "release_date": "2024-03-18",
+      "release_date_type": "actual",
+      "release_jp": "2022-11-28",
       "unique": {
         "id": 110081,
         "icon_id": 20013,
@@ -947,6 +989,8 @@
     {
       "card_id": "100901",
       "release_date": "2022-06-20",
+      "release_date_type": "actual",
+      "release_jp": "2021-02-24",
       "unique": {
         "id": 100091,
         "icon_id": 20013,
@@ -989,6 +1033,8 @@
     {
       "card_id": "100902",
       "release_date": "2024-03-18",
+      "release_date_type": "actual",
+      "release_jp": "2022-11-28",
       "unique": {
         "id": 110091,
         "icon_id": 20013,
@@ -1045,6 +1091,8 @@
     {
       "card_id": "101001",
       "release_date": "2022-06-20",
+      "release_date_type": "actual",
+      "release_jp": "2021-02-24",
       "unique": {
         "id": 100101,
         "icon_id": 20043,
@@ -1085,6 +1133,8 @@
     {
       "card_id": "101002",
       "release_date": "2023-10-19",
+      "release_date_type": "actual",
+      "release_jp": "2022-06-30",
       "unique": {
         "id": 110101,
         "icon_id": 20013,
@@ -1143,6 +1193,8 @@
     {
       "card_id": "101101",
       "release_date": "2022-06-20",
+      "release_date_type": "actual",
+      "release_jp": "2021-02-24",
       "unique": {
         "id": 100111,
         "icon_id": 20013,
@@ -1183,6 +1235,8 @@
     {
       "card_id": "101102",
       "release_date": "2022-10-18",
+      "release_date_type": "actual",
+      "release_jp": "2021-06-29",
       "unique": {
         "id": 110111,
         "icon_id": 20023,
@@ -1223,6 +1277,8 @@
     {
       "card_id": "101103",
       "release_date": "2026-04-09",
+      "release_date_type": "actual",
+      "release_jp": "2024-12-19",
       "unique": {
         "id": 120111,
         "icon_id": 20013,
@@ -1263,6 +1319,8 @@
     {
       "card_id": "101201",
       "release_date": "2022-10-11",
+      "release_date_type": "actual",
+      "release_jp": "2021-06-21",
       "unique": {
         "id": 100121,
         "icon_id": 20013,
@@ -1305,6 +1363,8 @@
     {
       "card_id": "101202",
       "release_date": "2024-09-16",
+      "release_date_type": "actual",
+      "release_jp": "2023-05-29",
       "unique": {
         "id": 110121,
         "icon_id": 20013,
@@ -1349,6 +1409,8 @@
     {
       "card_id": "101301",
       "release_date": "2022-06-20",
+      "release_date_type": "actual",
+      "release_jp": "2021-02-24",
       "unique": {
         "id": 100131,
         "icon_id": 20013,
@@ -1405,6 +1467,8 @@
     {
       "card_id": "101302",
       "release_date": "2022-07-25",
+      "release_date_type": "actual",
+      "release_jp": "2021-03-30",
       "unique": {
         "id": 110131,
         "icon_id": 20013,
@@ -1445,6 +1509,8 @@
     {
       "card_id": "101303",
       "release_date": "2023-11-17",
+      "release_date_type": "actual",
+      "release_jp": "2022-07-29",
       "unique": {
         "id": 120131,
         "icon_id": 20013,
@@ -1485,6 +1551,8 @@
     {
       "card_id": "101401",
       "release_date": "2022-06-20",
+      "release_date_type": "actual",
+      "release_jp": "2021-02-24",
       "unique": {
         "id": 100141,
         "icon_id": 20013,
@@ -1527,6 +1595,8 @@
     {
       "card_id": "101402",
       "release_date": "2022-10-18",
+      "release_date_type": "actual",
+      "release_jp": "2021-06-29",
       "unique": {
         "id": 110141,
         "icon_id": 20043,
@@ -1567,6 +1637,8 @@
     {
       "card_id": "101501",
       "release_date": "2022-06-27",
+      "release_date_type": "actual",
+      "release_jp": "2021-03-02",
       "unique": {
         "id": 100151,
         "icon_id": 20013,
@@ -1607,6 +1679,8 @@
     {
       "card_id": "101502",
       "release_date": "2023-04-21",
+      "release_date_type": "actual",
+      "release_jp": "2021-12-31",
       "unique": {
         "id": 110151,
         "icon_id": 20013,
@@ -1663,6 +1737,8 @@
     {
       "card_id": "101601",
       "release_date": "2022-09-05",
+      "release_date_type": "actual",
+      "release_jp": "2021-05-17",
       "unique": {
         "id": 100161,
         "icon_id": 20013,
@@ -1723,6 +1799,8 @@
     {
       "card_id": "101602",
       "release_date": "2024-04-09",
+      "release_date_type": "actual",
+      "release_jp": "2022-12-20",
       "unique": {
         "id": 110161,
         "icon_id": 20013,
@@ -1774,6 +1852,8 @@
     {
       "card_id": "101701",
       "release_date": "2022-06-20",
+      "release_date_type": "actual",
+      "release_jp": "2021-02-24",
       "unique": {
         "id": 100171,
         "icon_id": 20013,
@@ -1814,6 +1894,8 @@
     {
       "card_id": "101702",
       "release_date": "2023-02-16",
+      "release_date_type": "actual",
+      "release_jp": "2021-10-28",
       "unique": {
         "id": 110171,
         "icon_id": 20013,
@@ -1856,6 +1938,8 @@
     {
       "card_id": "101801",
       "release_date": "2022-06-20",
+      "release_date_type": "actual",
+      "release_jp": "2021-02-24",
       "unique": {
         "id": 100181,
         "icon_id": 20013,
@@ -1896,6 +1980,8 @@
     {
       "card_id": "101802",
       "release_date": "2022-09-15",
+      "release_date_type": "actual",
+      "release_jp": "2021-05-28",
       "unique": {
         "id": 110181,
         "icon_id": 20013,
@@ -1936,6 +2022,8 @@
     {
       "card_id": "101901",
       "release_date": "2023-01-09",
+      "release_date_type": "actual",
+      "release_jp": "2021-09-20",
       "unique": {
         "id": 100191,
         "icon_id": 20013,
@@ -1978,6 +2066,8 @@
     {
       "card_id": "101902",
       "release_date": "2024-01-18",
+      "release_date_type": "actual",
+      "release_jp": "2022-09-29",
       "unique": {
         "id": 110191,
         "icon_id": 20013,
@@ -2018,6 +2108,8 @@
     {
       "card_id": "102001",
       "release_date": "2022-09-28",
+      "release_date_type": "actual",
+      "release_jp": "2021-06-10",
       "unique": {
         "id": 100201,
         "icon_id": 20043,
@@ -2058,6 +2150,8 @@
     {
       "card_id": "102002",
       "release_date": "2023-07-18",
+      "release_date_type": "actual",
+      "release_jp": "2022-03-29",
       "unique": {
         "id": 110201,
         "icon_id": 20013,
@@ -2116,6 +2210,8 @@
     {
       "card_id": "102101",
       "release_date": "2023-04-12",
+      "release_date_type": "actual",
+      "release_jp": "2021-12-22",
       "unique": {
         "id": 100211,
         "icon_id": 20013,
@@ -2158,6 +2254,8 @@
     {
       "card_id": "102102",
       "release_date": "2024-02-16",
+      "release_date_type": "actual",
+      "release_jp": "2022-10-28",
       "unique": {
         "id": 110211,
         "icon_id": 20013,
@@ -2200,6 +2298,8 @@
     {
       "card_id": "102201",
       "release_date": "2023-04-04",
+      "release_date_type": "actual",
+      "release_jp": "2021-12-14",
       "unique": {
         "id": 100221,
         "icon_id": 20013,
@@ -2240,6 +2340,8 @@
     {
       "card_id": "102202",
       "release_date": "2023-09-18",
+      "release_date_type": "actual",
+      "release_jp": "2022-05-30",
       "unique": {
         "id": 110221,
         "icon_id": 20013,
@@ -2298,6 +2400,8 @@
     {
       "card_id": "102301",
       "release_date": "2022-07-11",
+      "release_date_type": "actual",
+      "release_jp": "2021-03-18",
       "unique": {
         "id": 100231,
         "icon_id": 20013,
@@ -2354,6 +2458,8 @@
     {
       "card_id": "102302",
       "release_date": "2023-03-20",
+      "release_date_type": "actual",
+      "release_jp": "2021-11-29",
       "unique": {
         "id": 110231,
         "icon_id": 20013,
@@ -2394,6 +2500,8 @@
     {
       "card_id": "102303",
       "release_date": "2026-02-17",
+      "release_date_type": "actual",
+      "release_jp": "2024-10-29",
       "unique": {
         "id": 120231,
         "icon_id": 20013,
@@ -2444,6 +2552,8 @@
     {
       "card_id": "102401",
       "release_date": "2022-06-20",
+      "release_date_type": "actual",
+      "release_jp": "2021-02-24",
       "unique": {
         "id": 100241,
         "icon_id": 20013,
@@ -2486,6 +2596,8 @@
     {
       "card_id": "102402",
       "release_date": "2022-09-15",
+      "release_date_type": "actual",
+      "release_jp": "2021-05-28",
       "unique": {
         "id": 110241,
         "icon_id": 20013,
@@ -2542,6 +2654,8 @@
     {
       "card_id": "102403",
       "release_date": "2026-01-19",
+      "release_date_type": "actual",
+      "release_jp": "2024-09-30",
       "unique": {
         "id": 120241,
         "icon_id": 20023,
@@ -2584,6 +2698,8 @@
     {
       "card_id": "102501",
       "release_date": "2023-02-08",
+      "release_date_type": "actual",
+      "release_jp": "2021-10-20",
       "unique": {
         "id": 100251,
         "icon_id": 20013,
@@ -2626,6 +2742,8 @@
     {
       "card_id": "102502",
       "release_date": "2025-05-21",
+      "release_date_type": "actual",
+      "release_jp": "2024-01-31",
       "unique": {
         "id": 110251,
         "icon_id": 20013,
@@ -2688,6 +2806,8 @@
     {
       "card_id": "102601",
       "release_date": "2022-07-04",
+      "release_date_type": "actual",
+      "release_jp": "2021-03-09",
       "unique": {
         "id": 100261,
         "icon_id": 20013,
@@ -2744,6 +2864,8 @@
     {
       "card_id": "102602",
       "release_date": "2023-05-19",
+      "release_date_type": "actual",
+      "release_jp": "2022-01-28",
       "unique": {
         "id": 110261,
         "icon_id": 20013,
@@ -2786,6 +2908,8 @@
     {
       "card_id": "102701",
       "release_date": "2022-06-20",
+      "release_date_type": "actual",
+      "release_jp": "2021-02-24",
       "unique": {
         "id": 100271,
         "icon_id": 20043,
@@ -2826,6 +2950,8 @@
     {
       "card_id": "102702",
       "release_date": "2024-05-20",
+      "release_date_type": "actual",
+      "release_jp": "2023-01-30",
       "unique": {
         "id": 110271,
         "icon_id": 20013,
@@ -2884,6 +3010,8 @@
     {
       "card_id": "102801",
       "release_date": "2022-12-30",
+      "release_date_type": "actual",
+      "release_jp": "2021-09-10",
       "unique": {
         "id": 100281,
         "icon_id": 20013,
@@ -2924,6 +3052,8 @@
     {
       "card_id": "102901",
       "release_date": "2024-01-01",
+      "release_date_type": "actual",
+      "release_jp": "2022-09-12",
       "unique": {
         "id": 100291,
         "icon_id": 20013,
@@ -2964,6 +3094,8 @@
     {
       "card_id": "102902",
       "release_date": "2025-05-21",
+      "release_date_type": "actual",
+      "release_jp": "2024-01-31",
       "unique": {
         "id": 110291,
         "icon_id": 20013,
@@ -3020,6 +3152,8 @@
     {
       "card_id": "103001",
       "release_date": "2022-06-20",
+      "release_date_type": "actual",
+      "release_jp": "2021-02-24",
       "unique": {
         "id": 100301,
         "icon_id": 20013,
@@ -3062,6 +3196,8 @@
     {
       "card_id": "103002",
       "release_date": "2023-01-18",
+      "release_date_type": "actual",
+      "release_jp": "2021-09-29",
       "unique": {
         "id": 110301,
         "icon_id": 20023,
@@ -3106,6 +3242,8 @@
     {
       "card_id": "103003",
       "release_date": "2025-10-28",
+      "release_date_type": "actual",
+      "release_jp": "2024-07-09",
       "unique": {
         "id": 120301,
         "icon_id": 20013,
@@ -3154,6 +3292,8 @@
     {
       "card_id": "103101",
       "release_date": "2023-08-29",
+      "release_date_type": "actual",
+      "release_jp": "2022-05-10",
       "unique": {
         "id": 100311,
         "icon_id": 20013,
@@ -3214,6 +3354,8 @@
     {
       "card_id": "103102",
       "release_date": "2024-05-20",
+      "release_date_type": "actual",
+      "release_jp": "2023-01-30",
       "unique": {
         "id": 110311,
         "icon_id": 20013,
@@ -3256,6 +3398,8 @@
     {
       "card_id": "103201",
       "release_date": "2022-06-20",
+      "release_date_type": "actual",
+      "release_jp": "2021-02-24",
       "unique": {
         "id": 100321,
         "icon_id": 20023,
@@ -3298,6 +3442,8 @@
     {
       "card_id": "103202",
       "release_date": "2024-11-18",
+      "release_date_type": "actual",
+      "release_jp": "2023-07-31",
       "unique": {
         "id": 110321,
         "icon_id": 20013,
@@ -3356,6 +3502,8 @@
     {
       "card_id": "103203",
       "release_date": "2025-08-29",
+      "release_date_type": "actual",
+      "release_jp": "2024-05-10",
       "unique": {
         "id": 120321,
         "icon_id": 20013,
@@ -3412,6 +3560,8 @@
     {
       "card_id": "103301",
       "release_date": "2023-06-07",
+      "release_date_type": "actual",
+      "release_jp": "2022-02-16",
       "unique": {
         "id": 100331,
         "icon_id": 20013,
@@ -3468,6 +3618,8 @@
     {
       "card_id": "103302",
       "release_date": "2026-03-19",
+      "release_date_type": "actual",
+      "release_jp": "2024-11-28",
       "unique": {
         "id": 110331,
         "icon_id": 20043,
@@ -3516,6 +3668,8 @@
     {
       "card_id": "103401",
       "release_date": "2023-09-29",
+      "release_date_type": "actual",
+      "release_jp": "2022-06-10",
       "unique": {
         "id": 100341,
         "icon_id": 20013,
@@ -3558,6 +3712,8 @@
     {
       "card_id": "103402",
       "release_date": "2024-02-16",
+      "release_date_type": "actual",
+      "release_jp": "2022-10-28",
       "unique": {
         "id": 110341,
         "icon_id": 20013,
@@ -3600,6 +3756,8 @@
     {
       "card_id": "103501",
       "release_date": "2022-06-20",
+      "release_date_type": "actual",
+      "release_jp": "2021-02-24",
       "unique": {
         "id": 100351,
         "icon_id": 20013,
@@ -3642,6 +3800,8 @@
     {
       "card_id": "103502",
       "release_date": "2023-12-18",
+      "release_date_type": "actual",
+      "release_jp": "2022-08-29",
       "unique": {
         "id": 110351,
         "icon_id": 20013,
@@ -3684,6 +3844,8 @@
     {
       "card_id": "103503",
       "release_date": "2025-07-29",
+      "release_date_type": "actual",
+      "release_jp": "2024-04-09",
       "unique": {
         "id": 120351,
         "icon_id": 20013,
@@ -3746,6 +3908,8 @@
     {
       "card_id": "103601",
       "release_date": "2023-10-30",
+      "release_date_type": "actual",
+      "release_jp": "2022-07-11",
       "unique": {
         "id": 100361,
         "icon_id": 20013,
@@ -3790,6 +3954,8 @@
     {
       "card_id": "103602",
       "release_date": "2025-01-17",
+      "release_date_type": "actual",
+      "release_jp": "2023-09-29",
       "unique": {
         "id": 110361,
         "icon_id": 20013,
@@ -3850,6 +4016,8 @@
     {
       "card_id": "103701",
       "release_date": "2022-12-09",
+      "release_date_type": "actual",
+      "release_jp": "2021-08-20",
       "unique": {
         "id": 100371,
         "icon_id": 20013,
@@ -3906,6 +4074,8 @@
     {
       "card_id": "103702",
       "release_date": "2023-05-19",
+      "release_date_type": "actual",
+      "release_jp": "2022-01-28",
       "unique": {
         "id": 110371,
         "icon_id": 20013,
@@ -3946,6 +4116,8 @@
     {
       "card_id": "103703",
       "release_date": "2025-11-17",
+      "release_date_type": "actual",
+      "release_jp": "2024-07-29",
       "unique": {
         "id": 120371,
         "icon_id": 20013,
@@ -3994,6 +4166,8 @@
     {
       "card_id": "103801",
       "release_date": "2022-08-10",
+      "release_date_type": "actual",
+      "release_jp": "2021-04-15",
       "unique": {
         "id": 100381,
         "icon_id": 20013,
@@ -4036,6 +4210,8 @@
     {
       "card_id": "103802",
       "release_date": "2023-09-18",
+      "release_date_type": "actual",
+      "release_jp": "2022-05-30",
       "unique": {
         "id": 110381,
         "icon_id": 20013,
@@ -4078,6 +4254,8 @@
     {
       "card_id": "103901",
       "release_date": "2023-01-30",
+      "release_date_type": "actual",
+      "release_jp": "2021-10-11",
       "unique": {
         "id": 100391,
         "icon_id": 20013,
@@ -4118,6 +4296,8 @@
     {
       "card_id": "103902",
       "release_date": "2025-02-17",
+      "release_date_type": "actual",
+      "release_jp": "2023-10-30",
       "unique": {
         "id": 110391,
         "icon_id": 20013,
@@ -4160,6 +4340,8 @@
     {
       "card_id": "104001",
       "release_date": "2022-11-08",
+      "release_date_type": "actual",
+      "release_jp": "2021-07-20",
       "unique": {
         "id": 100401,
         "icon_id": 20043,
@@ -4200,6 +4382,8 @@
     {
       "card_id": "104002",
       "release_date": "2023-02-16",
+      "release_date_type": "actual",
+      "release_jp": "2021-10-28",
       "unique": {
         "id": 110401,
         "icon_id": 20013,
@@ -4242,6 +4426,8 @@
     {
       "card_id": "104101",
       "release_date": "2022-06-20",
+      "release_date_type": "actual",
+      "release_jp": "2021-02-24",
       "unique": {
         "id": 100411,
         "icon_id": 20013,
@@ -4282,6 +4468,8 @@
     {
       "card_id": "104102",
       "release_date": "2024-08-16",
+      "release_date_type": "actual",
+      "release_jp": "2023-04-28",
       "unique": {
         "id": 110411,
         "icon_id": 20043,
@@ -4322,6 +4510,8 @@
     {
       "card_id": "104201",
       "release_date": "2024-01-09",
+      "release_date_type": "actual",
+      "release_jp": "2022-09-20",
       "unique": {
         "id": 100421,
         "icon_id": 20013,
@@ -4378,6 +4568,8 @@
     {
       "card_id": "104202",
       "release_date": "2026-01-19",
+      "release_date_type": "actual",
+      "release_jp": "2024-09-30",
       "unique": {
         "id": 110421,
         "icon_id": 20013,
@@ -4434,6 +4626,8 @@
     {
       "card_id": "104301",
       "release_date": "2024-06-03",
+      "release_date_type": "actual",
+      "release_jp": "2023-02-13",
       "unique": {
         "id": 100431,
         "icon_id": 20013,
@@ -4492,6 +4686,8 @@
     {
       "card_id": "104401",
       "release_date": "2023-10-09",
+      "release_date_type": "actual",
+      "release_jp": "2022-06-20",
       "unique": {
         "id": 100441,
         "icon_id": 20013,
@@ -4534,6 +4730,8 @@
     {
       "card_id": "104402",
       "release_date": "2025-09-18",
+      "release_date_type": "actual",
+      "release_jp": "2024-05-30",
       "unique": {
         "id": 110441,
         "icon_id": 20013,
@@ -4584,6 +4782,8 @@
     {
       "card_id": "104501",
       "release_date": "2022-06-20",
+      "release_date_type": "actual",
+      "release_jp": "2021-02-24",
       "unique": {
         "id": 100451,
         "icon_id": 20023,
@@ -4624,6 +4824,8 @@
     {
       "card_id": "104502",
       "release_date": "2023-01-18",
+      "release_date_type": "actual",
+      "release_jp": "2021-09-29",
       "unique": {
         "id": 110451,
         "icon_id": 20013,
@@ -4666,6 +4868,8 @@
     {
       "card_id": "104503",
       "release_date": "2025-08-19",
+      "release_date_type": "actual",
+      "release_jp": "2024-04-30",
       "unique": {
         "id": 120451,
         "icon_id": 20023,
@@ -4724,6 +4928,8 @@
     {
       "card_id": "104601",
       "release_date": "2022-08-26",
+      "release_date_type": "actual",
+      "release_jp": "2021-05-06",
       "unique": {
         "id": 100461,
         "icon_id": 20013,
@@ -4766,6 +4972,8 @@
     {
       "card_id": "104602",
       "release_date": "2023-12-13",
+      "release_date_type": "actual",
+      "release_jp": "2022-08-24",
       "unique": {
         "id": 110461,
         "icon_id": 20013,
@@ -4823,7 +5031,9 @@
     },
     {
       "card_id": "104603",
-      "release_date": "2025-04-30",
+      "release_date": "2026-08-19",
+      "release_date_type": "estimated",
+      "release_jp": "2025-04-30",
       "unique": {
         "id": 120461,
         "icon_id": 20013,
@@ -4872,6 +5082,8 @@
     {
       "card_id": "104701",
       "release_date": "2024-04-01",
+      "release_date_type": "actual",
+      "release_jp": "2022-12-12",
       "unique": {
         "id": 100471,
         "icon_id": 20013,
@@ -4928,6 +5140,8 @@
     {
       "card_id": "104702",
       "release_date": "2025-12-19",
+      "release_date_type": "actual",
+      "release_jp": "2024-08-30",
       "unique": {
         "id": 110471,
         "icon_id": 20013,
@@ -4986,6 +5200,8 @@
     {
       "card_id": "104801",
       "release_date": "2023-02-27",
+      "release_date_type": "actual",
+      "release_jp": "2021-11-08",
       "unique": {
         "id": 100481,
         "icon_id": 20013,
@@ -5026,6 +5242,8 @@
     {
       "card_id": "104802",
       "release_date": "2024-10-17",
+      "release_date_type": "actual",
+      "release_jp": "2023-06-29",
       "unique": {
         "id": 110481,
         "icon_id": 20013,
@@ -5082,6 +5300,8 @@
     {
       "card_id": "104901",
       "release_date": "2024-02-28",
+      "release_date_type": "actual",
+      "release_jp": "2022-11-09",
       "unique": {
         "id": 100491,
         "icon_id": 20013,
@@ -5144,6 +5364,8 @@
     {
       "card_id": "105001",
       "release_date": "2022-08-18",
+      "release_date_type": "actual",
+      "release_jp": "2021-04-26",
       "unique": {
         "id": 100501,
         "icon_id": 20013,
@@ -5184,6 +5406,8 @@
     {
       "card_id": "105002",
       "release_date": "2023-12-18",
+      "release_date_type": "actual",
+      "release_jp": "2022-08-29",
       "unique": {
         "id": 110501,
         "icon_id": 20013,
@@ -5224,6 +5448,8 @@
     {
       "card_id": "105003",
       "release_date": "2026-02-27",
+      "release_date_type": "actual",
+      "release_jp": "2024-11-08",
       "unique": {
         "id": 120501,
         "icon_id": 20013,
@@ -5273,6 +5499,8 @@
     {
       "card_id": "105101",
       "release_date": "2023-07-31",
+      "release_date_type": "actual",
+      "release_jp": "2022-04-11",
       "unique": {
         "id": 100511,
         "icon_id": 20043,
@@ -5315,6 +5543,8 @@
     {
       "card_id": "105102",
       "release_date": "2024-09-16",
+      "release_date_type": "actual",
+      "release_jp": "2023-05-29",
       "unique": {
         "id": 110511,
         "icon_id": 20013,
@@ -5373,6 +5603,8 @@
     {
       "card_id": "105201",
       "release_date": "2022-06-20",
+      "release_date_type": "actual",
+      "release_jp": "2021-02-24",
       "unique": {
         "id": 100521,
         "icon_id": 20023,
@@ -5413,6 +5645,8 @@
     {
       "card_id": "105202",
       "release_date": "2023-04-21",
+      "release_date_type": "actual",
+      "release_jp": "2021-12-31",
       "unique": {
         "id": 110521,
         "icon_id": 20013,
@@ -5453,6 +5687,8 @@
     {
       "card_id": "105301",
       "release_date": "2023-11-29",
+      "release_date_type": "actual",
+      "release_jp": "2022-08-10",
       "unique": {
         "id": 100531,
         "icon_id": 20043,
@@ -5495,6 +5731,8 @@
     {
       "card_id": "105302",
       "release_date": "2024-10-17",
+      "release_date_type": "actual",
+      "release_jp": "2023-06-29",
       "unique": {
         "id": 110531,
         "icon_id": 20013,
@@ -5551,6 +5789,8 @@
     {
       "card_id": "105401",
       "release_date": "2025-06-04",
+      "release_date_type": "actual",
+      "release_jp": "2024-02-14",
       "unique": {
         "id": 100541,
         "icon_id": 20013,
@@ -5593,6 +5833,8 @@
     {
       "card_id": "105501",
       "release_date": "2024-10-07",
+      "release_date_type": "actual",
+      "release_jp": "2023-06-19",
       "unique": {
         "id": 100551,
         "icon_id": 20013,
@@ -5649,6 +5891,8 @@
     {
       "card_id": "105601",
       "release_date": "2022-06-20",
+      "release_date_type": "actual",
+      "release_jp": "2021-02-24",
       "unique": {
         "id": 100561,
         "icon_id": 20013,
@@ -5691,6 +5935,8 @@
     {
       "card_id": "105602",
       "release_date": "2022-12-19",
+      "release_date_type": "actual",
+      "release_jp": "2021-08-30",
       "unique": {
         "id": 110561,
         "icon_id": 20013,
@@ -5731,6 +5977,8 @@
     {
       "card_id": "105701",
       "release_date": "2024-06-14",
+      "release_date_type": "actual",
+      "release_jp": "2023-02-24",
       "unique": {
         "id": 100571,
         "icon_id": 20013,
@@ -5787,6 +6035,8 @@
     {
       "card_id": "105702",
       "release_date": "2026-04-17",
+      "release_date_type": "actual",
+      "release_jp": "2024-12-27",
       "unique": {
         "id": 110571,
         "icon_id": 20013,
@@ -5827,6 +6077,8 @@
     {
       "card_id": "105801",
       "release_date": "2022-11-30",
+      "release_date_type": "actual",
+      "release_jp": "2021-08-11",
       "unique": {
         "id": 100581,
         "icon_id": 20013,
@@ -5869,6 +6121,8 @@
     {
       "card_id": "105802",
       "release_date": "2024-01-18",
+      "release_date_type": "actual",
+      "release_jp": "2022-09-29",
       "unique": {
         "id": 110581,
         "icon_id": 20013,
@@ -5913,6 +6167,8 @@
     {
       "card_id": "105901",
       "release_date": "2023-03-10",
+      "release_date_type": "actual",
+      "release_jp": "2021-11-19",
       "unique": {
         "id": 100591,
         "icon_id": 20043,
@@ -5953,6 +6209,8 @@
     {
       "card_id": "105902",
       "release_date": "2023-10-19",
+      "release_date_type": "actual",
+      "release_jp": "2022-06-30",
       "unique": {
         "id": 110591,
         "icon_id": 20013,
@@ -5993,6 +6251,8 @@
     {
       "card_id": "106001",
       "release_date": "2022-06-20",
+      "release_date_type": "actual",
+      "release_jp": "2021-02-24",
       "unique": {
         "id": 100601,
         "icon_id": 20013,
@@ -6033,6 +6293,8 @@
     {
       "card_id": "106002",
       "release_date": "2023-08-17",
+      "release_date_type": "actual",
+      "release_jp": "2022-04-28",
       "unique": {
         "id": 110601,
         "icon_id": 20013,
@@ -6095,6 +6357,8 @@
     {
       "card_id": "106003",
       "release_date": "2025-04-29",
+      "release_date_type": "actual",
+      "release_jp": "2024-01-09",
       "unique": {
         "id": 120601,
         "icon_id": 20013,
@@ -6151,6 +6415,8 @@
     {
       "card_id": "106101",
       "release_date": "2022-06-20",
+      "release_date_type": "actual",
+      "release_jp": "2021-02-24",
       "unique": {
         "id": 100611,
         "icon_id": 20013,
@@ -6191,6 +6457,8 @@
     {
       "card_id": "106102",
       "release_date": "2023-08-17",
+      "release_date_type": "actual",
+      "release_jp": "2022-04-28",
       "unique": {
         "id": 110611,
         "icon_id": 20043,
@@ -6233,6 +6501,8 @@
     {
       "card_id": "106103",
       "release_date": "2025-09-18",
+      "release_date_type": "actual",
+      "release_jp": "2024-05-30",
       "unique": {
         "id": 120611,
         "icon_id": 20013,
@@ -6275,6 +6545,8 @@
     {
       "card_id": "106201",
       "release_date": "2023-06-15",
+      "release_date_type": "actual",
+      "release_jp": "2022-02-24",
       "unique": {
         "id": 100621,
         "icon_id": 20023,
@@ -6317,6 +6589,8 @@
     {
       "card_id": "106202",
       "release_date": "2024-08-16",
+      "release_date_type": "actual",
+      "release_jp": "2023-04-28",
       "unique": {
         "id": 110621,
         "icon_id": 20013,
@@ -6375,6 +6649,8 @@
     {
       "card_id": "106301",
       "release_date": "2025-06-14",
+      "release_date_type": "actual",
+      "release_jp": "2024-02-24",
       "unique": {
         "id": 100631,
         "icon_id": 20013,
@@ -6415,6 +6691,8 @@
     {
       "card_id": "106401",
       "release_date": "2023-09-08",
+      "release_date_type": "actual",
+      "release_jp": "2022-05-20",
       "unique": {
         "id": 100641,
         "icon_id": 20023,
@@ -6457,6 +6735,8 @@
     {
       "card_id": "106402",
       "release_date": "2025-03-20",
+      "release_date_type": "actual",
+      "release_jp": "2023-11-30",
       "unique": {
         "id": 110641,
         "icon_id": 20013,
@@ -6506,6 +6786,8 @@
     {
       "card_id": "106501",
       "release_date": "2024-05-10",
+      "release_date_type": "actual",
+      "release_jp": "2023-01-20",
       "unique": {
         "id": 100651,
         "icon_id": 20013,
@@ -6562,6 +6844,8 @@
     {
       "card_id": "106502",
       "release_date": "2025-07-18",
+      "release_date_type": "actual",
+      "release_jp": "2024-03-29",
       "unique": {
         "id": 110651,
         "icon_id": 20013,
@@ -6620,6 +6904,8 @@
     {
       "card_id": "106601",
       "release_date": "2024-06-14",
+      "release_date_type": "actual",
+      "release_jp": "2023-02-24",
       "unique": {
         "id": 100661,
         "icon_id": 20013,
@@ -6676,6 +6962,8 @@
     {
       "card_id": "106701",
       "release_date": "2023-06-26",
+      "release_date_type": "actual",
+      "release_jp": "2022-03-07",
       "unique": {
         "id": 100671,
         "icon_id": 20013,
@@ -6732,6 +7020,8 @@
     {
       "card_id": "106702",
       "release_date": "2024-04-18",
+      "release_date_type": "actual",
+      "release_jp": "2022-12-29",
       "unique": {
         "id": 110671,
         "icon_id": 20013,
@@ -6774,6 +7064,8 @@
     {
       "card_id": "106703",
       "release_date": "2024-12-30",
+      "release_date_type": "actual",
+      "release_jp": "2023-09-11",
       "unique": {
         "id": 120671,
         "icon_id": 20013,
@@ -6830,6 +7122,8 @@
     {
       "card_id": "106801",
       "release_date": "2023-06-15",
+      "release_date_type": "actual",
+      "release_jp": "2022-02-24",
       "unique": {
         "id": 100681,
         "icon_id": 20013,
@@ -6888,6 +7182,8 @@
     {
       "card_id": "106802",
       "release_date": "2024-04-18",
+      "release_date_type": "actual",
+      "release_jp": "2022-12-29",
       "unique": {
         "id": 110681,
         "icon_id": 20013,
@@ -6930,6 +7226,8 @@
     {
       "card_id": "106803",
       "release_date": "2025-04-17",
+      "release_date_type": "actual",
+      "release_jp": "2023-12-28",
       "unique": {
         "id": 120681,
         "icon_id": 20013,
@@ -6986,6 +7284,8 @@
     {
       "card_id": "106901",
       "release_date": "2023-05-11",
+      "release_date_type": "actual",
+      "release_jp": "2022-01-20",
       "unique": {
         "id": 100691,
         "icon_id": 20013,
@@ -7026,6 +7326,8 @@
     {
       "card_id": "106902",
       "release_date": "2024-07-17",
+      "release_date_type": "actual",
+      "release_jp": "2023-03-29",
       "unique": {
         "id": 110691,
         "icon_id": 20043,
@@ -7068,6 +7370,8 @@
     {
       "card_id": "107001",
       "release_date": "2024-11-08",
+      "release_date_type": "actual",
+      "release_jp": "2023-07-21",
       "unique": {
         "id": 100701,
         "icon_id": 20043,
@@ -7123,7 +7427,9 @@
     },
     {
       "card_id": "107002",
-      "release_date": "2025-04-10",
+      "release_date": "2026-07-30",
+      "release_date_type": "actual",
+      "release_jp": "2025-04-10",
       "unique": {
         "id": 110701,
         "icon_id": 20013,
@@ -7180,6 +7486,8 @@
     {
       "card_id": "107101",
       "release_date": "2023-05-30",
+      "release_date_type": "actual",
+      "release_jp": "2022-02-08",
       "unique": {
         "id": 100711,
         "icon_id": 20013,
@@ -7222,6 +7530,8 @@
     {
       "card_id": "107102",
       "release_date": "2024-07-17",
+      "release_date_type": "actual",
+      "release_jp": "2023-03-29",
       "unique": {
         "id": 110711,
         "icon_id": 20013,
@@ -7266,6 +7576,8 @@
     {
       "card_id": "107201",
       "release_date": "2023-08-08",
+      "release_date_type": "actual",
+      "release_jp": "2022-04-19",
       "unique": {
         "id": 100721,
         "icon_id": 20013,
@@ -7308,6 +7620,8 @@
     {
       "card_id": "107202",
       "release_date": "2025-08-19",
+      "release_date_type": "actual",
+      "release_jp": "2024-04-30",
       "unique": {
         "id": 110721,
         "icon_id": 20013,
@@ -7360,6 +7674,8 @@
     {
       "card_id": "107301",
       "release_date": "2026-06-05",
+      "release_date_type": "actual",
+      "release_jp": "2025-02-14",
       "unique": {
         "id": 100731,
         "icon_id": 20013,
@@ -7400,6 +7716,8 @@
     {
       "card_id": "107401",
       "release_date": "2023-07-07",
+      "release_date_type": "actual",
+      "release_jp": "2022-03-18",
       "unique": {
         "id": 100741,
         "icon_id": 20013,
@@ -7440,6 +7758,8 @@
     {
       "card_id": "107402",
       "release_date": "2025-03-20",
+      "release_date_type": "actual",
+      "release_jp": "2023-11-30",
       "unique": {
         "id": 110741,
         "icon_id": 20023,
@@ -7498,6 +7818,8 @@
     {
       "card_id": "107601",
       "release_date": "2024-07-29",
+      "release_date_type": "actual",
+      "release_jp": "2023-04-10",
       "unique": {
         "id": 100761,
         "icon_id": 20013,
@@ -7556,6 +7878,8 @@
     {
       "card_id": "107701",
       "release_date": "2024-12-12",
+      "release_date_type": "actual",
+      "release_jp": "2023-08-24",
       "unique": {
         "id": 100771,
         "icon_id": 20013,
@@ -7608,6 +7932,8 @@
     {
       "card_id": "107702",
       "release_date": "2026-03-19",
+      "release_date_type": "actual",
+      "release_jp": "2024-11-28",
       "unique": {
         "id": 110771,
         "icon_id": 20013,
@@ -7670,6 +7996,8 @@
     {
       "card_id": "107801",
       "release_date": "2024-02-07",
+      "release_date_type": "actual",
+      "release_jp": "2022-10-19",
       "unique": {
         "id": 100781,
         "icon_id": 20043,
@@ -7732,6 +8060,8 @@
     {
       "card_id": "107802",
       "release_date": "2026-05-22",
+      "release_date_type": "actual",
+      "release_jp": "2025-01-31",
       "unique": {
         "id": 110781,
         "icon_id": 20013,
@@ -7790,6 +8120,8 @@
     {
       "card_id": "107901",
       "release_date": "2026-05-11",
+      "release_date_type": "actual",
+      "release_jp": "2025-01-20",
       "unique": {
         "id": 100791,
         "icon_id": 20013,
@@ -7852,6 +8184,8 @@
     {
       "card_id": "108001",
       "release_date": "2025-07-01",
+      "release_date_type": "actual",
+      "release_jp": "2024-03-12",
       "unique": {
         "id": 100801,
         "icon_id": 20013,
@@ -7905,6 +8239,8 @@
     {
       "card_id": "108201",
       "release_date": "2025-09-08",
+      "release_date_type": "actual",
+      "release_jp": "2024-05-20",
       "unique": {
         "id": 100821,
         "icon_id": 20013,
@@ -7961,6 +8297,8 @@
     {
       "card_id": "108301",
       "release_date": "2024-07-08",
+      "release_date_type": "actual",
+      "release_jp": "2023-03-20",
       "unique": {
         "id": 100831,
         "icon_id": 20013,
@@ -8017,6 +8355,8 @@
     {
       "card_id": "108302",
       "release_date": "2025-01-17",
+      "release_date_type": "actual",
+      "release_jp": "2023-09-29",
       "unique": {
         "id": 110831,
         "icon_id": 20013,
@@ -8076,6 +8416,8 @@
     {
       "card_id": "108401",
       "release_date": "2024-09-06",
+      "release_date_type": "actual",
+      "release_jp": "2023-05-19",
       "unique": {
         "id": 100841,
         "icon_id": 20013,
@@ -8127,7 +8469,9 @@
     },
     {
       "card_id": "108402",
-      "release_date": "2025-03-31",
+      "release_date": "2026-07-20",
+      "release_date_type": "actual",
+      "release_jp": "2025-03-31",
       "unique": {
         "id": 110841,
         "icon_id": 20013,
@@ -8176,6 +8520,8 @@
     {
       "card_id": "108501",
       "release_date": "2024-06-28",
+      "release_date_type": "actual",
+      "release_jp": "2023-03-10",
       "unique": {
         "id": 100851,
         "icon_id": 20013,
@@ -8218,6 +8564,8 @@
     {
       "card_id": "108502",
       "release_date": "2025-07-18",
+      "release_date_type": "actual",
+      "release_jp": "2024-03-29",
       "unique": {
         "id": 110851,
         "icon_id": 20013,
@@ -8274,6 +8622,8 @@
     {
       "card_id": "108601",
       "release_date": "2025-02-06",
+      "release_date_type": "actual",
+      "release_jp": "2023-10-19",
       "unique": {
         "id": 100861,
         "icon_id": 20013,
@@ -8314,6 +8664,8 @@
     {
       "card_id": "108701",
       "release_date": "2024-01-30",
+      "release_date_type": "actual",
+      "release_jp": "2022-10-11",
       "unique": {
         "id": 100871,
         "icon_id": 20013,
@@ -8356,6 +8708,8 @@
     {
       "card_id": "108702",
       "release_date": "2026-05-22",
+      "release_date_type": "actual",
+      "release_jp": "2025-01-31",
       "unique": {
         "id": 110871,
         "icon_id": 20013,
@@ -8412,6 +8766,8 @@
     {
       "card_id": "108801",
       "release_date": "2025-03-31",
+      "release_date_type": "actual",
+      "release_jp": "2023-12-11",
       "unique": {
         "id": 100881,
         "icon_id": 20013,
@@ -8474,6 +8830,8 @@
     {
       "card_id": "108901",
       "release_date": "2025-04-09",
+      "release_date_type": "actual",
+      "release_jp": "2023-12-20",
       "unique": {
         "id": 100891,
         "icon_id": 20013,
@@ -8533,7 +8891,9 @@
     },
     {
       "card_id": "109001",
-      "release_date": "2025-05-12",
+      "release_date": "2026-08-31",
+      "release_date_type": "estimated",
+      "release_jp": "2025-05-12",
       "unique": {
         "id": 100901,
         "icon_id": 20013,
@@ -8590,6 +8950,8 @@
     {
       "card_id": "109101",
       "release_date": "2025-05-09",
+      "release_date_type": "actual",
+      "release_jp": "2024-01-19",
       "unique": {
         "id": 100911,
         "icon_id": 20013,
@@ -8652,6 +9014,8 @@
     {
       "card_id": "109301",
       "release_date": "2025-01-08",
+      "release_date_type": "actual",
+      "release_jp": "2023-09-20",
       "unique": {
         "id": 100931,
         "icon_id": 20013,
@@ -8708,6 +9072,8 @@
     {
       "card_id": "109401",
       "release_date": "2025-10-02",
+      "release_date_type": "actual",
+      "release_jp": "2024-06-13",
       "unique": {
         "id": 100941,
         "icon_id": 20013,
@@ -8764,6 +9130,8 @@
     {
       "card_id": "109601",
       "release_date": "2026-07-10",
+      "release_date_type": "actual",
+      "release_jp": "2025-03-21",
       "unique": {
         "id": 100961,
         "icon_id": 20013,
@@ -8820,6 +9188,8 @@
     {
       "card_id": "109801",
       "release_date": "2023-12-08",
+      "release_date_type": "actual",
+      "release_jp": "2022-08-19",
       "unique": {
         "id": 100981,
         "icon_id": 20013,
@@ -8861,7 +9231,9 @@
     },
     {
       "card_id": "109802",
-      "release_date": "2025-04-30",
+      "release_date": "2026-08-19",
+      "release_date_type": "estimated",
+      "release_jp": "2025-04-30",
       "unique": {
         "id": 110981,
         "icon_id": 20013,
@@ -8902,6 +9274,8 @@
     {
       "card_id": "109901",
       "release_date": "2024-04-30",
+      "release_date_type": "actual",
+      "release_jp": "2023-01-10",
       "unique": {
         "id": 100991,
         "icon_id": 20043,
@@ -8954,6 +9328,8 @@
     {
       "card_id": "109902",
       "release_date": "2025-11-17",
+      "release_date_type": "actual",
+      "release_jp": "2024-07-29",
       "unique": {
         "id": 110991,
         "icon_id": 20013,
@@ -9012,6 +9388,8 @@
     {
       "card_id": "110001",
       "release_date": "2024-03-07",
+      "release_date_type": "actual",
+      "release_jp": "2022-11-17",
       "unique": {
         "id": 101001,
         "icon_id": 20013,
@@ -9070,6 +9448,8 @@
     {
       "card_id": "110201",
       "release_date": "2025-08-08",
+      "release_date_type": "actual",
+      "release_jp": "2024-04-19",
       "unique": {
         "id": 101021,
         "icon_id": 20023,
@@ -9126,6 +9506,8 @@
     {
       "card_id": "110401",
       "release_date": "2024-10-28",
+      "release_date_type": "actual",
+      "release_jp": "2023-07-10",
       "unique": {
         "id": 101041,
         "icon_id": 20013,
@@ -9186,6 +9568,8 @@
     {
       "card_id": "110402",
       "release_date": "2026-04-17",
+      "release_date_type": "actual",
+      "release_jp": "2024-12-27",
       "unique": {
         "id": 111041,
         "icon_id": 20013,
@@ -9234,6 +9618,8 @@
     {
       "card_id": "110501",
       "release_date": "2024-08-07",
+      "release_date_type": "actual",
+      "release_jp": "2023-04-19",
       "unique": {
         "id": 101051,
         "icon_id": 20013,
@@ -9290,6 +9676,8 @@
     {
       "card_id": "110502",
       "release_date": "2025-12-19",
+      "release_date_type": "actual",
+      "release_jp": "2024-08-30",
       "unique": {
         "id": 111051,
         "icon_id": 20013,
@@ -9338,6 +9726,8 @@
     {
       "card_id": "110601",
       "release_date": "2024-08-28",
+      "release_date_type": "actual",
+      "release_jp": "2023-05-10",
       "unique": {
         "id": 101061,
         "icon_id": 20013,
@@ -9394,6 +9784,8 @@
     {
       "card_id": "110701",
       "release_date": "2025-03-10",
+      "release_date_type": "actual",
+      "release_jp": "2023-11-20",
       "unique": {
         "id": 101071,
         "icon_id": 20013,
@@ -9433,7 +9825,9 @@
     },
     {
       "card_id": "110702",
-      "release_date": "2025-03-31",
+      "release_date": "2026-07-20",
+      "release_date_type": "actual",
+      "release_jp": "2025-03-31",
       "unique": {
         "id": 111071,
         "icon_id": 20013,
@@ -9492,6 +9886,8 @@
     {
       "card_id": "110801",
       "release_date": "2025-06-14",
+      "release_date_type": "actual",
+      "release_jp": "2024-02-24",
       "unique": {
         "id": 101081,
         "icon_id": 20013,
@@ -9548,6 +9944,8 @@
     {
       "card_id": "110901",
       "release_date": "2025-07-10",
+      "release_date_type": "actual",
+      "release_jp": "2024-03-21",
       "unique": {
         "id": 101091,
         "icon_id": 20013,
@@ -9604,6 +10002,8 @@
     {
       "card_id": "111001",
       "release_date": "2025-12-30",
+      "release_date_type": "actual",
+      "release_jp": "2024-09-10",
       "unique": {
         "id": 101101,
         "icon_id": 20013,
@@ -9666,6 +10066,8 @@
     {
       "card_id": "111101",
       "release_date": "2026-03-09",
+      "release_date_type": "actual",
+      "release_jp": "2024-11-18",
       "unique": {
         "id": 101111,
         "icon_id": 20013,
@@ -9706,6 +10108,8 @@
     {
       "card_id": "111501",
       "release_date": "2026-06-15",
+      "release_date_type": "actual",
+      "release_jp": "2025-02-24",
       "unique": {
         "id": 101151,
         "icon_id": 20013,
@@ -9765,6 +10169,8 @@
     {
       "card_id": "111601",
       "release_date": "2025-12-13",
+      "release_date_type": "actual",
+      "release_jp": "2024-08-24",
       "unique": {
         "id": 101161,
         "icon_id": 20013,
@@ -9821,6 +10227,8 @@
     {
       "card_id": "111701",
       "release_date": "2026-03-31",
+      "release_date_type": "actual",
+      "release_jp": "2024-12-10",
       "unique": {
         "id": 101171,
         "icon_id": 20013,
@@ -9883,6 +10291,8 @@
     {
       "card_id": "111901",
       "release_date": "2025-10-15",
+      "release_date_type": "actual",
+      "release_jp": "2024-06-26",
       "unique": {
         "id": 101191,
         "icon_id": 20013,
@@ -9939,6 +10349,8 @@
     {
       "card_id": "112001",
       "release_date": "2025-11-07",
+      "release_date_type": "actual",
+      "release_jp": "2024-07-19",
       "unique": {
         "id": 101201,
         "icon_id": 20013,
@@ -9987,6 +10399,8 @@
     {
       "card_id": "112101",
       "release_date": "2026-01-09",
+      "release_date_type": "actual",
+      "release_jp": "2024-09-20",
       "unique": {
         "id": 101211,
         "icon_id": 20013,
@@ -10049,6 +10463,8 @@
     {
       "card_id": "112401",
       "release_date": "2026-01-30",
+      "release_date_type": "actual",
+      "release_jp": "2024-10-11",
       "unique": {
         "id": 101241,
         "icon_id": 20013,
@@ -10096,7 +10512,9 @@
     },
     {
       "card_id": "112701",
-      "release_date": "2025-04-21",
+      "release_date": "2026-08-10",
+      "release_date_type": "estimated",
+      "release_jp": "2025-04-21",
       "unique": {
         "id": 101271,
         "icon_id": 20013,
@@ -10153,6 +10571,8 @@
     {
       "card_id": "113101",
       "release_date": "2026-06-30",
+      "release_date_type": "actual",
+      "release_jp": "2025-03-11",
       "unique": {
         "id": 101311,
         "icon_id": 20013,
