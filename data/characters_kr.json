@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "region": "KR",
-  "updated_at": "2026-08-01",
+  "updated_at": "2026-08-15",
   "source": "https://uma.inven.co.kr/db/chara/",
   "characters": [
     {
@@ -3485,6 +3485,26 @@
       "source_url": "https://uma.inven.co.kr/db/chara/108601"
     },
     {
+      "key": "kr-108602",
+      "character_id": "108602",
+      "name": "메지로 라모누",
+      "variant": "Untouchable Eden",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "F",
+        "단거리": "B",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "E",
+        "도주": "G",
+        "선행": "A",
+        "선입": "A",
+        "추입": "F"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/108602"
+    },
+    {
       "key": "kr-108701",
       "character_id": "108701",
       "name": "애스턴 마짱",
@@ -3985,6 +4005,26 @@
       "source_url": "https://uma.inven.co.kr/db/chara/111001"
     },
     {
+      "key": "kr-111002",
+      "character_id": "111002",
+      "name": "세자리오",
+      "variant": "Twinbell Queen",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "A",
+        "중거리": "A",
+        "장거리": "F",
+        "도주": "G",
+        "선행": "A",
+        "선입": "A",
+        "추입": "C"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/111002"
+    },
+    {
       "key": "kr-111101",
       "character_id": "111101",
       "name": "에어 메사이어",
@@ -4183,6 +4223,26 @@
         "추입": "B"
       },
       "source_url": "https://uma.inven.co.kr/db/chara/113101"
+    },
+    {
+      "key": "kr-113201",
+      "character_id": "113201",
+      "name": "러브즈 온리 유",
+      "variant": "9927 Wishes",
+      "red": "",
+      "aptitudes": {
+        "잔디": "A",
+        "더트": "G",
+        "단거리": "G",
+        "마일": "C",
+        "중거리": "A",
+        "장거리": "F",
+        "도주": "G",
+        "선행": "A",
+        "선입": "A",
+        "추입": "G"
+      },
+      "source_url": "https://uma.inven.co.kr/db/chara/113201"
     }
   ]
 }
