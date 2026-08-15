@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "database_version": "2026.08.15.1510",
-  "generated_at": "2026-08-15T15:09:41+09:00",
+  "database_version": "2026.08.15.1515",
+  "generated_at": "2026-08-15T15:14:31+09:00",
   "files": [
     {
       "path": "data/characters_kr.json",
@@ -25,7 +25,7 @@
       "path": "data/database_version.json",
       "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/data/database_version.json",
       "size": 71,
-      "sha256": "01159a3cd1dd5aa019db2be48c384cc3b959ca8b8cd38a31f4f496fe65e27090"
+      "sha256": "d6a68e653814a5737f7d8509531860b365f5660380f5dd4e69fe59b76b96c395"
     },
     {
       "path": "app/assets/portraits/100101.png",
@@ -1072,6 +1072,12 @@
       "sha256": "db59186598b7a0c162c41bd194d6c6dbab02ad8edbff3d17aaefd6a5bf35b47b"
     },
     {
+      "path": "app/assets/portraits/108602.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/108602.png",
+      "size": 13831,
+      "sha256": "2dcb085158530fd2d2df259c92c5d249f77b1f17a07c3a66a6f98a54cd63c77f"
+    },
+    {
       "path": "app/assets/portraits/108701.png",
       "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/108701.png",
       "size": 14231,
@@ -1222,6 +1228,12 @@
       "sha256": "4f00c2489d222dc697959f1a4fe3ea1a3e58a4d6d908e578ee3463904fc4c686"
     },
     {
+      "path": "app/assets/portraits/111002.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/111002.png",
+      "size": 13137,
+      "sha256": "ddb8137ad984f6db9c203ff45432100699f6defc98724ff95774888405bd47b9"
+    },
+    {
       "path": "app/assets/portraits/111101.png",
       "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/111101.png",
       "size": 14075,
@@ -1280,6 +1292,12 @@
       "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/113101.png",
       "size": 14723,
       "sha256": "a32cf995ebc3663f20f1c0ef6f14a19e6079aa58f7ff6a3f739c010324a88f5d"
+    },
+    {
+      "path": "app/assets/portraits/113201.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/113201.png",
+      "size": 14620,
+      "sha256": "b95212964706b7c419744b3145f8971bee73274730d2a0e1f816c1b0cd6da38d"
     }
   ]
 }
