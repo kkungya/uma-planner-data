@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "database_version": "2026.08.15.1502",
-  "generated_at": "2026-08-15T15:02:08+09:00",
+  "database_version": "2026.08.15.1510",
+  "generated_at": "2026-08-15T15:09:41+09:00",
   "files": [
     {
       "path": "data/characters_kr.json",
@@ -25,7 +25,1261 @@
       "path": "data/database_version.json",
       "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/data/database_version.json",
       "size": 71,
-      "sha256": "1a0d6ec46496ed4847125b8ec8e13aa0814b5acf99a7b02a9a4e8df8ebdc3d78"
+      "sha256": "01159a3cd1dd5aa019db2be48c384cc3b959ca8b8cd38a31f4f496fe65e27090"
+    },
+    {
+      "path": "app/assets/portraits/100101.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/100101.png",
+      "size": 14017,
+      "sha256": "e832035ad15a252e99e505446a223f9968c0b45610fab4309fa116124b6781ff"
+    },
+    {
+      "path": "app/assets/portraits/100102.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/100102.png",
+      "size": 14062,
+      "sha256": "cf19a2beb8107178df79d0b22e8eba3543e65d5ec42c0c24c9147df38f5662c7"
+    },
+    {
+      "path": "app/assets/portraits/100103.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/100103.png",
+      "size": 14474,
+      "sha256": "3163efeb16b57b801f1681eb4856e61aaf521a1619a290c6ad5e1802b6989c19"
+    },
+    {
+      "path": "app/assets/portraits/100201.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/100201.png",
+      "size": 13057,
+      "sha256": "c3da1d7f45dd4a07fb10356e8d00f80ce75fd3c7172d03fe89da4f6025fc7658"
+    },
+    {
+      "path": "app/assets/portraits/100202.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/100202.png",
+      "size": 12974,
+      "sha256": "5e749ade7f9a53cb1631aa5278f2e6d1909b03eb3694a661d853abda14546114"
+    },
+    {
+      "path": "app/assets/portraits/100301.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/100301.png",
+      "size": 14719,
+      "sha256": "5bcd4bddfe680ee719b1ce245900a2651b0689febab16d8bed15e22e5d4d1d82"
+    },
+    {
+      "path": "app/assets/portraits/100302.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/100302.png",
+      "size": 15159,
+      "sha256": "5886908e94c6a9878a0768d5a347d1a20d0016497b98b3a561d6a52b09421d15"
+    },
+    {
+      "path": "app/assets/portraits/100303.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/100303.png",
+      "size": 14813,
+      "sha256": "3379a0b073e68d4536f37b67561811da0506d4900b5ccfb567f82702c3b0f5eb"
+    },
+    {
+      "path": "app/assets/portraits/100401.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/100401.png",
+      "size": 14160,
+      "sha256": "f677d659ac53a44fe527f384961779b16646c7c62b9d89361b30ce1bbcfd9057"
+    },
+    {
+      "path": "app/assets/portraits/100402.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/100402.png",
+      "size": 14236,
+      "sha256": "3893e2fae4b5d1b49111546b4f0c45bee6eea671ee0961bd5fae2a812a3daf8c"
+    },
+    {
+      "path": "app/assets/portraits/100403.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/100403.png",
+      "size": 13879,
+      "sha256": "f4ecf9c30e776e41c61b0ac76fbb554ed9099faaac5155b32d4f86d6dc9f6107"
+    },
+    {
+      "path": "app/assets/portraits/100501.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/100501.png",
+      "size": 14058,
+      "sha256": "8541cca957fe71781baf26c97b3bc8f684b092adc85f35f87bab7ce13deab384"
+    },
+    {
+      "path": "app/assets/portraits/100502.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/100502.png",
+      "size": 14179,
+      "sha256": "947ab1204b7fa64e37dbe4016b39a8781cb2eae8f33a278d33c07f10d1d1d29d"
+    },
+    {
+      "path": "app/assets/portraits/100601.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/100601.png",
+      "size": 13966,
+      "sha256": "f0df5846396f9669fc825391960d942abf3a4f959f8d93f38fbc71ef6a9b0afc"
+    },
+    {
+      "path": "app/assets/portraits/100602.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/100602.png",
+      "size": 14347,
+      "sha256": "8ebe083b8b6bdbf6a90295b4aa2d18c27e5fa9be3eb46acdd98c98663f26c5f6"
+    },
+    {
+      "path": "app/assets/portraits/100701.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/100701.png",
+      "size": 13199,
+      "sha256": "34e47f30be55ee6aaf373525c691c771f5504b609d71cbfb9a3df8ad595d809c"
+    },
+    {
+      "path": "app/assets/portraits/100702.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/100702.png",
+      "size": 12972,
+      "sha256": "cbf8734c3e9b7e6015eb7e58397fe398a8a273cb32f2e60395b6c08e8b1a09cf"
+    },
+    {
+      "path": "app/assets/portraits/100703.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/100703.png",
+      "size": 13212,
+      "sha256": "2aee29347371ed9251a36cbfdc8525cda22be579f831309999f5bc1660b46fb1"
+    },
+    {
+      "path": "app/assets/portraits/100801.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/100801.png",
+      "size": 14060,
+      "sha256": "9336b138596471d9aec95a0ef0ce3278541c68a6c8441642314ffd9959c77aa3"
+    },
+    {
+      "path": "app/assets/portraits/100802.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/100802.png",
+      "size": 13883,
+      "sha256": "40156d8613ab39fdbc1c6bacf944da36ea58ccf6c5f8ea5b6683255918c8906d"
+    },
+    {
+      "path": "app/assets/portraits/100901.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/100901.png",
+      "size": 14023,
+      "sha256": "2dcf97a9ab372424bce9c9f6d4987b0e3cc671503db362480f4e47e5f60252db"
+    },
+    {
+      "path": "app/assets/portraits/100902.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/100902.png",
+      "size": 14237,
+      "sha256": "a1aceb1e51c1c1591cb8560bd39ebf75569d77b2fc79f3affb9bb6d7044a593a"
+    },
+    {
+      "path": "app/assets/portraits/101001.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/101001.png",
+      "size": 13818,
+      "sha256": "348042c4006af01f37a3e1689ec24ec123386ca8b0c804a809d4f66a35a3c1ec"
+    },
+    {
+      "path": "app/assets/portraits/101002.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/101002.png",
+      "size": 14196,
+      "sha256": "08298aa7d6e37c9d2493af98dc40b9f06e89b73d5e26d3cac7f6fc7a9893d50e"
+    },
+    {
+      "path": "app/assets/portraits/101101.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/101101.png",
+      "size": 12488,
+      "sha256": "427d63dd0f770c0558bfb2cd1874c7fdfca81cd4ca168c06fa22c14ffa2e9f1e"
+    },
+    {
+      "path": "app/assets/portraits/101102.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/101102.png",
+      "size": 14209,
+      "sha256": "60d9df204d691954dcd7efe17592fa1297bcb9dc3438574c72501b4e9fe954c6"
+    },
+    {
+      "path": "app/assets/portraits/101103.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/101103.png",
+      "size": 14268,
+      "sha256": "661a4e3bab1e46e816803c29a34e1d43cc108575783a438ed6e60babc47f9eca"
+    },
+    {
+      "path": "app/assets/portraits/101201.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/101201.png",
+      "size": 13798,
+      "sha256": "e810e2806c561b0b99a6b910c9ab62923971944583ce82040d0b1a924e5ae9cc"
+    },
+    {
+      "path": "app/assets/portraits/101202.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/101202.png",
+      "size": 13702,
+      "sha256": "f086d00e112693e32ab01f27424283fe3c4478c6bad66b4a23393e7e62f9987e"
+    },
+    {
+      "path": "app/assets/portraits/101301.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/101301.png",
+      "size": 13254,
+      "sha256": "ae80da63d08f7f6f1ef16e0bd0c1bd7ff02a9f6947bef1f7095bbac4da496736"
+    },
+    {
+      "path": "app/assets/portraits/101302.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/101302.png",
+      "size": 14115,
+      "sha256": "dc4313a538fd204282b1c30a726758878ccf7fd1b841c8f3db0931e53a8c761b"
+    },
+    {
+      "path": "app/assets/portraits/101303.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/101303.png",
+      "size": 13852,
+      "sha256": "f1b6339fef031392ca75fdd116cf08c64e0e81daefe6c27acf6b56e01b295a39"
+    },
+    {
+      "path": "app/assets/portraits/101401.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/101401.png",
+      "size": 13837,
+      "sha256": "817079375477141f20aa3c26b35a86c4626cb6de2d1452def3bf44b80b352d20"
+    },
+    {
+      "path": "app/assets/portraits/101402.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/101402.png",
+      "size": 15097,
+      "sha256": "828d8c334a61c2aa9a07d7a63f4446ea2d0c256f7a84f65052349fb1ea29e34b"
+    },
+    {
+      "path": "app/assets/portraits/101501.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/101501.png",
+      "size": 14501,
+      "sha256": "43f9092d6ab4eb2c439ac109285f32071c0f4ecbbd1f22ef41aa9f32621f04e5"
+    },
+    {
+      "path": "app/assets/portraits/101502.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/101502.png",
+      "size": 14526,
+      "sha256": "ebad8eeac58f3796a1512c891187832fc4bf11f315c574eeebf2fa7ef58803c2"
+    },
+    {
+      "path": "app/assets/portraits/101601.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/101601.png",
+      "size": 14761,
+      "sha256": "a5e40cfb46ffcc835df2a95ffdf18b87f1ba9b05dcde46d81bbc14cd349c87cc"
+    },
+    {
+      "path": "app/assets/portraits/101602.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/101602.png",
+      "size": 14923,
+      "sha256": "46733a8c11d7111626311b0622c149dd5c2490c696e1635fedf3f241ac1b3f64"
+    },
+    {
+      "path": "app/assets/portraits/101701.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/101701.png",
+      "size": 14360,
+      "sha256": "d9d53a2d79db660ea70ffee23e109a3c7adf2c5c098a76138c723fbdd06fb1a8"
+    },
+    {
+      "path": "app/assets/portraits/101702.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/101702.png",
+      "size": 14063,
+      "sha256": "ff9eb3e67035983cf1263c9265fbd77c8ffb9acb851f25f984c3aaa00628b33a"
+    },
+    {
+      "path": "app/assets/portraits/101801.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/101801.png",
+      "size": 13435,
+      "sha256": "8609ec3c412ec12c1f419b9c99cae8119a3373e1d05b620e1b7e38a7ce34dca3"
+    },
+    {
+      "path": "app/assets/portraits/101802.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/101802.png",
+      "size": 12893,
+      "sha256": "665fcf97418492b3a75b7c6dfca61097fc84db27bd8d9db3287092d759ad3f03"
+    },
+    {
+      "path": "app/assets/portraits/101901.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/101901.png",
+      "size": 14085,
+      "sha256": "2cf56ea1e604d9dd5f22fb19e7e7c7af2f82c1c65ed6da0e35b5761f4df6a0b9"
+    },
+    {
+      "path": "app/assets/portraits/101902.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/101902.png",
+      "size": 13737,
+      "sha256": "9e46b2300971feec9afd981679484d817d2de847a4203ed62ae33863aac3a805"
+    },
+    {
+      "path": "app/assets/portraits/102001.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/102001.png",
+      "size": 13666,
+      "sha256": "f2ad21e0d330a2e60c6475983cd2cd0d127b9ae9642af5104ed99ea3dd90d44e"
+    },
+    {
+      "path": "app/assets/portraits/102002.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/102002.png",
+      "size": 13549,
+      "sha256": "033ae022bc679e9fc996de2e14ac74b11c2fde196ea18909d92ef1159ca1451c"
+    },
+    {
+      "path": "app/assets/portraits/102101.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/102101.png",
+      "size": 14183,
+      "sha256": "ff2a783d04193de10f9e2b8100804f0cfe79a68948670241028cdca4dfad5e2f"
+    },
+    {
+      "path": "app/assets/portraits/102102.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/102102.png",
+      "size": 14351,
+      "sha256": "2cc33aca48d4e63e1e87b14a418347210fbbe2c3cd77b511ec7ed3cd777d8dd9"
+    },
+    {
+      "path": "app/assets/portraits/102201.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/102201.png",
+      "size": 13011,
+      "sha256": "f13209f5a80dc8d918a5be93f2ffe16ec2a1e534511c36581b5130073ee8d503"
+    },
+    {
+      "path": "app/assets/portraits/102202.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/102202.png",
+      "size": 13334,
+      "sha256": "f66e0f2dd7a7f0746cb611bedccb7dd74e83164366ddc77405a064eb65d6ef17"
+    },
+    {
+      "path": "app/assets/portraits/102301.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/102301.png",
+      "size": 14791,
+      "sha256": "86ea941c218d432a13ab23b0604a1556e6d9cde2305419f5841dc7eed0f176ae"
+    },
+    {
+      "path": "app/assets/portraits/102302.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/102302.png",
+      "size": 14511,
+      "sha256": "9ee9650a72c984d576fefbcbf27e10c8a0b49bcb18b7f030c2e5028a68581d98"
+    },
+    {
+      "path": "app/assets/portraits/102303.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/102303.png",
+      "size": 14119,
+      "sha256": "cac42b6bd5ee80db928249bedda6bcdfa4a1dafee3f5553d4b96269de3dfd8ed"
+    },
+    {
+      "path": "app/assets/portraits/102401.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/102401.png",
+      "size": 14111,
+      "sha256": "51c7c3a22f6faf1ef8f64da6a9b2d319076c5f98ae62f66c2c91fbfd6691830b"
+    },
+    {
+      "path": "app/assets/portraits/102402.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/102402.png",
+      "size": 13399,
+      "sha256": "586dfe601f09de09008cf0f446deab09bb46411028a303033f284a9e072fcd6d"
+    },
+    {
+      "path": "app/assets/portraits/102403.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/102403.png",
+      "size": 14223,
+      "sha256": "0fdb3f6197868c6ac2dbf6722cb46d26f03ca5b065b9dfbf9e8adbcbfeb5c7aa"
+    },
+    {
+      "path": "app/assets/portraits/102501.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/102501.png",
+      "size": 12991,
+      "sha256": "d613bccebd94c8c9fbe0053b5a28a18924a58d4553fc2659f3315b499a8070bd"
+    },
+    {
+      "path": "app/assets/portraits/102502.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/102502.png",
+      "size": 13663,
+      "sha256": "8e521d43b1b8e0e19e4d83c6a63f576ab15117af208260ccfd57a802f7669f6a"
+    },
+    {
+      "path": "app/assets/portraits/102601.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/102601.png",
+      "size": 14158,
+      "sha256": "0027798eb1daaba59dbd682234c466476560a4ca28beb31684b22ba879e37bf7"
+    },
+    {
+      "path": "app/assets/portraits/102602.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/102602.png",
+      "size": 14284,
+      "sha256": "d8efad9c81c6641ef9c3a6b1d66475f57481706f07963a61d0de6a4b4e3e368d"
+    },
+    {
+      "path": "app/assets/portraits/102701.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/102701.png",
+      "size": 14108,
+      "sha256": "128482db5cb3fd68bdf65c203b38874341de504d5c41c02d5c16cdfb995472cd"
+    },
+    {
+      "path": "app/assets/portraits/102702.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/102702.png",
+      "size": 14077,
+      "sha256": "61a96eb3b43f2715067c43f5e7b0179e65606f2cdd09f37ce307ce5de3c0c409"
+    },
+    {
+      "path": "app/assets/portraits/102801.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/102801.png",
+      "size": 14462,
+      "sha256": "973c803898dddc17fa7ee12a656cc65dd442ddf6b5af37dc7079d0e3eca5062c"
+    },
+    {
+      "path": "app/assets/portraits/102901.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/102901.png",
+      "size": 14013,
+      "sha256": "54960e42b4343b8bf57a5c73a0caba6ec02806c90f7ebee9e748f235e75098bf"
+    },
+    {
+      "path": "app/assets/portraits/102902.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/102902.png",
+      "size": 13692,
+      "sha256": "30172112f2861da46efbb98e060fe15c7edef81e74b1c92c3805f63a4f536ab2"
+    },
+    {
+      "path": "app/assets/portraits/103001.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/103001.png",
+      "size": 13620,
+      "sha256": "67bb0317167b149f18ec3383b2689ce2039410e41fde5e94bd27bffc90dd4061"
+    },
+    {
+      "path": "app/assets/portraits/103002.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/103002.png",
+      "size": 14837,
+      "sha256": "230e933512f7082e6f1e4a34daf073871d7da66e900d79745b80ce4c2cc63e08"
+    },
+    {
+      "path": "app/assets/portraits/103003.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/103003.png",
+      "size": 14144,
+      "sha256": "3976dcd751dbc5e3b4a54d846761b09dd2ad5c6e0c1310e4741427a43f7ad984"
+    },
+    {
+      "path": "app/assets/portraits/103101.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/103101.png",
+      "size": 13809,
+      "sha256": "a4b88b29f1ccd11fe04f7c5dfde4b8cc41adbfe903b3bed0d8399e4515c058cf"
+    },
+    {
+      "path": "app/assets/portraits/103102.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/103102.png",
+      "size": 13844,
+      "sha256": "1ee59539f5df568c657943b8f946fb6a8ea55e8b2a84754abf3cc1d63b787c84"
+    },
+    {
+      "path": "app/assets/portraits/103201.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/103201.png",
+      "size": 13687,
+      "sha256": "82ea2da971443a71cc1a3cd981f15ac856835e3874ef4ce316c56268fb2e3e84"
+    },
+    {
+      "path": "app/assets/portraits/103202.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/103202.png",
+      "size": 14156,
+      "sha256": "64582077c00e4cbf0b1f90955fc5093061edfb2e03e0d33f7d7c90c1e5f22634"
+    },
+    {
+      "path": "app/assets/portraits/103203.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/103203.png",
+      "size": 14249,
+      "sha256": "acbd070de4f329fdbe626003a6d778eceeb5907f43121288e8e12acdd15a8889"
+    },
+    {
+      "path": "app/assets/portraits/103301.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/103301.png",
+      "size": 13308,
+      "sha256": "3696107b9da72ba456dbbbc7e4a26f1fefa4cd25a833ccc905fcfdb0a4fd8b52"
+    },
+    {
+      "path": "app/assets/portraits/103302.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/103302.png",
+      "size": 13714,
+      "sha256": "4b9d1542aa40bbe4989b60971641638f9b4099b0dc0b2b220c51adfcdd041406"
+    },
+    {
+      "path": "app/assets/portraits/103401.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/103401.png",
+      "size": 14612,
+      "sha256": "71a2678d25bafbb9692a20c606997211ed9b817f2a070e6d6f685c18eef37867"
+    },
+    {
+      "path": "app/assets/portraits/103402.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/103402.png",
+      "size": 14332,
+      "sha256": "6bfd32ecc62e1a7a50b9c307e98aa368c1ff672764905aeafa22e467a8c0363f"
+    },
+    {
+      "path": "app/assets/portraits/103501.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/103501.png",
+      "size": 13389,
+      "sha256": "e989fd99213081f0eae5dfe9723a560aeafa24de8817d4c47e075393bfedbed7"
+    },
+    {
+      "path": "app/assets/portraits/103502.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/103502.png",
+      "size": 14665,
+      "sha256": "26614717cfa99d0c9ef64b38752ffa7a233b4ca12cb710718358663187cc608d"
+    },
+    {
+      "path": "app/assets/portraits/103503.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/103503.png",
+      "size": 14014,
+      "sha256": "621b1555d0f96294a86b584f2af2ed5015bb1b3000e7db05f441e524002a2bb9"
+    },
+    {
+      "path": "app/assets/portraits/103601.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/103601.png",
+      "size": 15220,
+      "sha256": "c02d3ba13904f19fba0c3caea431ebad44043eacbfffe457f231b557f7a3a91e"
+    },
+    {
+      "path": "app/assets/portraits/103602.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/103602.png",
+      "size": 15449,
+      "sha256": "53e8fe249e7906a2ba33c95a4e88f3787490e0795bcbfa4be20c27dc3c66a718"
+    },
+    {
+      "path": "app/assets/portraits/103701.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/103701.png",
+      "size": 13724,
+      "sha256": "7be941f8905e56cff1c6ba15d2836e40792772f91f017af8cb717893f1b408bf"
+    },
+    {
+      "path": "app/assets/portraits/103702.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/103702.png",
+      "size": 14026,
+      "sha256": "7b182d02b2e11cccb2ec5729900f1590e8f9fb996d4c7ec6a2423c89bf47341d"
+    },
+    {
+      "path": "app/assets/portraits/103703.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/103703.png",
+      "size": 13792,
+      "sha256": "04d96290d35a770c92dfca1ae0149a26038605bb38dc65dc7adf8676b622db2e"
+    },
+    {
+      "path": "app/assets/portraits/103801.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/103801.png",
+      "size": 13909,
+      "sha256": "6869f4f49e8c30fddb16727523775a649afecfd673daac348c7fd08e90fcfc07"
+    },
+    {
+      "path": "app/assets/portraits/103802.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/103802.png",
+      "size": 13820,
+      "sha256": "85edafc8822e2b296f075131a7ff0919f616ecb3e7e1b3f7fe9e9bcd768213ee"
+    },
+    {
+      "path": "app/assets/portraits/103901.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/103901.png",
+      "size": 14064,
+      "sha256": "08464fa259beaf07e4e1fb3309bbade2828f68c1ec648a643852e3f0c294d350"
+    },
+    {
+      "path": "app/assets/portraits/103902.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/103902.png",
+      "size": 14139,
+      "sha256": "322ff8cc63668a9c9606ff4b4b6c18e11283ce38cfa713be80eefc8c97240214"
+    },
+    {
+      "path": "app/assets/portraits/104001.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/104001.png",
+      "size": 13762,
+      "sha256": "949cf47acdca33f2e8d12d2cf2d5ead5439d378c9b792a4b10b3d14da5f193e5"
+    },
+    {
+      "path": "app/assets/portraits/104002.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/104002.png",
+      "size": 14685,
+      "sha256": "21b75b8e0d818ab8016bc3264918c0339944533f6856531ef046d7861a03536f"
+    },
+    {
+      "path": "app/assets/portraits/104101.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/104101.png",
+      "size": 13114,
+      "sha256": "135352f7a7adaf3426adcaf66cf3449660273343c4b80bcdcade5521580b942c"
+    },
+    {
+      "path": "app/assets/portraits/104102.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/104102.png",
+      "size": 13985,
+      "sha256": "735e286dea469c10951706827166dc89960c78a3a2b21aae01d7d296de595ca5"
+    },
+    {
+      "path": "app/assets/portraits/104201.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/104201.png",
+      "size": 13267,
+      "sha256": "d57e3318c91a19351f9ae48b7bcd78846e1f04304316b0d20bd6cf2d9d4edbea"
+    },
+    {
+      "path": "app/assets/portraits/104202.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/104202.png",
+      "size": 13549,
+      "sha256": "c7cdf4f9da93425d0b1a65bc0f78e2131bc391cb79c2a6512c47bc796cf99313"
+    },
+    {
+      "path": "app/assets/portraits/104301.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/104301.png",
+      "size": 14336,
+      "sha256": "38347eb365573d1629f14d9e9326f28e456d37552dfad246e43211a8f7d237f4"
+    },
+    {
+      "path": "app/assets/portraits/104401.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/104401.png",
+      "size": 13809,
+      "sha256": "21cbdefce331a882836922b8ca6f2d0088372af6c2e2167a10b066c85ab532cc"
+    },
+    {
+      "path": "app/assets/portraits/104402.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/104402.png",
+      "size": 12927,
+      "sha256": "906fb5d50d286ad582797ac2843a90804a4f0a17ddbc4f64eb33d1faf45ceff6"
+    },
+    {
+      "path": "app/assets/portraits/104501.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/104501.png",
+      "size": 13733,
+      "sha256": "aa65ca5099394b21ed3c8b403863253a151a99cc0f22e7cd375d72e7d9b836bc"
+    },
+    {
+      "path": "app/assets/portraits/104502.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/104502.png",
+      "size": 14580,
+      "sha256": "8cfe7be520b06e90fddc1b12b2f4cf8a4f577e0238b665cffe2949f8ad62a984"
+    },
+    {
+      "path": "app/assets/portraits/104503.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/104503.png",
+      "size": 14247,
+      "sha256": "3224ea264e55ca3d4cac455173e9f7eff9b062bbfe97782f7d8d9b01e7b89ac4"
+    },
+    {
+      "path": "app/assets/portraits/104601.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/104601.png",
+      "size": 14702,
+      "sha256": "c22dc077b1ac3d401df07315c7b51dd220de9042df2b869a8ab49c28b7963d3c"
+    },
+    {
+      "path": "app/assets/portraits/104602.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/104602.png",
+      "size": 14844,
+      "sha256": "14d282918cb97af9624c87563e9524cbf748372cebd4eac3ac737483f7daed5b"
+    },
+    {
+      "path": "app/assets/portraits/104603.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/104603.png",
+      "size": 14122,
+      "sha256": "8c96229f4ea3a44f0afd546434b35179d523214b09959e479cf63296e204dd96"
+    },
+    {
+      "path": "app/assets/portraits/104701.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/104701.png",
+      "size": 14821,
+      "sha256": "aa7a3f908e49f373a4554b76126cd612d357847b41b21ce4b5db52d03103e131"
+    },
+    {
+      "path": "app/assets/portraits/104702.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/104702.png",
+      "size": 14865,
+      "sha256": "527f93096b6adbec80f51a407dde4c57884d720af0a4ec38cae139364976a3da"
+    },
+    {
+      "path": "app/assets/portraits/104801.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/104801.png",
+      "size": 14437,
+      "sha256": "56931c3612e6860b52b3f1837443453235dc23efefe77e39be1c9b1f8cb2d545"
+    },
+    {
+      "path": "app/assets/portraits/104802.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/104802.png",
+      "size": 14013,
+      "sha256": "bcb0082e03e06e3381933964a4525695f3244a826b5f03129b5a1d6b829f1138"
+    },
+    {
+      "path": "app/assets/portraits/104901.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/104901.png",
+      "size": 13451,
+      "sha256": "9acbe822ee424886e9adb4630d315292fdf3cfd0481b95246b94ff5bfea5b22b"
+    },
+    {
+      "path": "app/assets/portraits/105001.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/105001.png",
+      "size": 13853,
+      "sha256": "a006d328ea8957a3bb49b666c688c351252cb74c66d3ca85b94e1579305123d3"
+    },
+    {
+      "path": "app/assets/portraits/105002.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/105002.png",
+      "size": 14205,
+      "sha256": "a1e9058cab1f50a0381342639abfdc72707804b087efa11b721622f169100519"
+    },
+    {
+      "path": "app/assets/portraits/105003.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/105003.png",
+      "size": 14593,
+      "sha256": "676e14a39058e3680453ed3885ba132f1518c3b25ade45aafbe1e303bfbda766"
+    },
+    {
+      "path": "app/assets/portraits/105101.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/105101.png",
+      "size": 13633,
+      "sha256": "993ada186e7cb8a49406c0b20f9d758074009921773b46a17e88c6160eac38c0"
+    },
+    {
+      "path": "app/assets/portraits/105102.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/105102.png",
+      "size": 13187,
+      "sha256": "b6baa1679c7d12075ec8e34293e550ac19b1593a3302051e43cd3a95b6a6e71b"
+    },
+    {
+      "path": "app/assets/portraits/105201.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/105201.png",
+      "size": 12936,
+      "sha256": "029da6b97d546c0374dd4b540b6f2163e31d75c126148c6659a0750ee6941d36"
+    },
+    {
+      "path": "app/assets/portraits/105202.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/105202.png",
+      "size": 13214,
+      "sha256": "90f27fc9abd52d2b1d54c4e5e21543db61b1aa3ce6eb2562b54644ae67e573ab"
+    },
+    {
+      "path": "app/assets/portraits/105301.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/105301.png",
+      "size": 14309,
+      "sha256": "f72f1190c479e3998c332018b6a89a1245ddb2e9ddd483220b54091fb45f1961"
+    },
+    {
+      "path": "app/assets/portraits/105302.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/105302.png",
+      "size": 14000,
+      "sha256": "6676bdbf68314ec98b309cdac7dccdfb263f45aaad5ab10f48050f05b5e15239"
+    },
+    {
+      "path": "app/assets/portraits/105401.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/105401.png",
+      "size": 13963,
+      "sha256": "f839ff2685c66180c8e196eacf4441072cfb94ef90d7b251d2198d8bc029ed27"
+    },
+    {
+      "path": "app/assets/portraits/105501.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/105501.png",
+      "size": 14650,
+      "sha256": "88238a95033c5f3417177859af189e295cb7f52929132ab5e054371fe6817864"
+    },
+    {
+      "path": "app/assets/portraits/105601.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/105601.png",
+      "size": 13884,
+      "sha256": "d15e65e38e398f30fdc04eeaea94568b6b98302a7460e0683f83ee1c3b228028"
+    },
+    {
+      "path": "app/assets/portraits/105602.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/105602.png",
+      "size": 14007,
+      "sha256": "e690e624f190ea010f8dd9045575adb412881f695948ccc407f798c16d154e18"
+    },
+    {
+      "path": "app/assets/portraits/105701.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/105701.png",
+      "size": 14656,
+      "sha256": "76989c832e673b877e1485fa57f20b05b7cc22aae0361b334927cbed5a21691c"
+    },
+    {
+      "path": "app/assets/portraits/105702.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/105702.png",
+      "size": 15105,
+      "sha256": "60f7a6797017a09b0e4d07e0ac2abffae721cf238bb207394e7d98efcb60793c"
+    },
+    {
+      "path": "app/assets/portraits/105801.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/105801.png",
+      "size": 14339,
+      "sha256": "2eb3e46d0150dd7450a3da3d5d355166fe5be8c7adace7548d821b5028db75f6"
+    },
+    {
+      "path": "app/assets/portraits/105802.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/105802.png",
+      "size": 14661,
+      "sha256": "98042dd432fe94465fb6b9ec035a8979b644cbcfa4bdb92aa84ded8ad7e44329"
+    },
+    {
+      "path": "app/assets/portraits/105901.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/105901.png",
+      "size": 14400,
+      "sha256": "3315eab8f5ae7099cf06f25826569534d15b0721c3cca4f98b2762394cfc5178"
+    },
+    {
+      "path": "app/assets/portraits/105902.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/105902.png",
+      "size": 14416,
+      "sha256": "724af59636e0181e884fd6c782f1f08979e3ed86af200f7d87ed4ef2522fa278"
+    },
+    {
+      "path": "app/assets/portraits/106001.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/106001.png",
+      "size": 13862,
+      "sha256": "80a04540a511d23e92154c5034ace1723829c8cecac8b042d82df3c3d780da7a"
+    },
+    {
+      "path": "app/assets/portraits/106002.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/106002.png",
+      "size": 14049,
+      "sha256": "17208732a166de223df06ffcae9ef3939214b12f6352b566ce9bc0af5ed9910e"
+    },
+    {
+      "path": "app/assets/portraits/106003.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/106003.png",
+      "size": 14481,
+      "sha256": "6d65c027fbc06276c8ca7ada66c3e379929d0688593156e09eb20c2ef828e13d"
+    },
+    {
+      "path": "app/assets/portraits/106101.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/106101.png",
+      "size": 13897,
+      "sha256": "a0206cf0e6316b2f0c69ff2f5e2465d834e47bc92ebb11203edbcec62a0dea0d"
+    },
+    {
+      "path": "app/assets/portraits/106102.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/106102.png",
+      "size": 14093,
+      "sha256": "d6015296f5119f4c7e066402d2dca874eac138c96ea263bdacdfd94b16b5ae31"
+    },
+    {
+      "path": "app/assets/portraits/106103.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/106103.png",
+      "size": 13843,
+      "sha256": "19c54c40d8317fc769f0fb520a440b31e7b13cbe9aebf2f8dd70cfb51d745724"
+    },
+    {
+      "path": "app/assets/portraits/106201.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/106201.png",
+      "size": 14492,
+      "sha256": "3eeabeec673110c174382beb1d504dc0af6ce026dbd5108f9b1d91f905a0bf6b"
+    },
+    {
+      "path": "app/assets/portraits/106202.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/106202.png",
+      "size": 15084,
+      "sha256": "65ac9162e68174a1cd1f74c58045a950817f3b3d4f996f7d357485e9039318eb"
+    },
+    {
+      "path": "app/assets/portraits/106301.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/106301.png",
+      "size": 13645,
+      "sha256": "0c37b924a1a03b50f4ef54785ef6b6c5a9c95bdded7f415c1093a4c6bfe14a50"
+    },
+    {
+      "path": "app/assets/portraits/106401.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/106401.png",
+      "size": 13780,
+      "sha256": "72c8ee81d456eac53a7aa4266d09ef3a33fdb70c974fe5f00589a6a600bc1ff5"
+    },
+    {
+      "path": "app/assets/portraits/106402.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/106402.png",
+      "size": 15098,
+      "sha256": "a177893fa71c6b59882914660c454c8d9f5acd173a879b2da887fa18fa30ff22"
+    },
+    {
+      "path": "app/assets/portraits/106501.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/106501.png",
+      "size": 15210,
+      "sha256": "c41e9a315f204718c609be0813b62271645ce7850095c21cefffd1a8b1432cc8"
+    },
+    {
+      "path": "app/assets/portraits/106502.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/106502.png",
+      "size": 15887,
+      "sha256": "29e2dd3efc2e11d96499f6f5871c131933e1e53d66a175b8e6b3d0a013d0dfc6"
+    },
+    {
+      "path": "app/assets/portraits/106601.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/106601.png",
+      "size": 15383,
+      "sha256": "f212fdb9f61ade88ddf1cc352ce97215c1ba4cb30d8d9fad8bad0f334f82c552"
+    },
+    {
+      "path": "app/assets/portraits/106701.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/106701.png",
+      "size": 14130,
+      "sha256": "7bbf337e9011881f515ed5675c68fc96160ebfe1850e29fa51554fc019ecc27e"
+    },
+    {
+      "path": "app/assets/portraits/106702.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/106702.png",
+      "size": 13970,
+      "sha256": "37d9411d050f5eca7dc636c1ccbfea79d21388465346ab9a5c28a5b990dbbff2"
+    },
+    {
+      "path": "app/assets/portraits/106703.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/106703.png",
+      "size": 14359,
+      "sha256": "b95a45f0c1b9c3ba2d3ef82bdb826aed5b50da34268d2164a4bf7e3d731ea411"
+    },
+    {
+      "path": "app/assets/portraits/106801.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/106801.png",
+      "size": 15523,
+      "sha256": "30ae08102f3a203672de4cc51b0004bc2e2e9cc200b4939421353e3f76a2abd5"
+    },
+    {
+      "path": "app/assets/portraits/106802.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/106802.png",
+      "size": 15029,
+      "sha256": "277db822ebc9837141d8056b25a564a2a60c4c41d65956daf01900caad331831"
+    },
+    {
+      "path": "app/assets/portraits/106803.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/106803.png",
+      "size": 15810,
+      "sha256": "c76e7f089575a26a50a71dd979e66c5299494e7e03a7c04fd9c07251e623a088"
+    },
+    {
+      "path": "app/assets/portraits/106901.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/106901.png",
+      "size": 13532,
+      "sha256": "a66454cfb3f52833f58bd1dfece659d9fcba869888e69d5a6948de090b6259a3"
+    },
+    {
+      "path": "app/assets/portraits/106902.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/106902.png",
+      "size": 13440,
+      "sha256": "24fba1da4409b70d5c785ce8a7f48b045c0ab7707366c30c05a58169dad5e033"
+    },
+    {
+      "path": "app/assets/portraits/107001.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/107001.png",
+      "size": 14150,
+      "sha256": "f83f4f0ab61e0faa86efe9f5650c173e99163ff6119d0331f7d36c7c527db2ac"
+    },
+    {
+      "path": "app/assets/portraits/107002.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/107002.png",
+      "size": 14289,
+      "sha256": "00a8084040eb30d251472a38d93b2fc30fd495b612c350ef5c2cc06767d71c3f"
+    },
+    {
+      "path": "app/assets/portraits/107101.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/107101.png",
+      "size": 13846,
+      "sha256": "b54739e70d6bb8e34bcc58d598ce8626a0033106aa5d6c596bcb85968b16e217"
+    },
+    {
+      "path": "app/assets/portraits/107102.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/107102.png",
+      "size": 13313,
+      "sha256": "a9cdc815f846b7142422e6e34372013fcccefa01d628d9f61744029c73dd0c56"
+    },
+    {
+      "path": "app/assets/portraits/107201.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/107201.png",
+      "size": 14526,
+      "sha256": "05d11fe469ff916e77dce97fb9989a89714e571aa43f62335b09e15485618b5c"
+    },
+    {
+      "path": "app/assets/portraits/107202.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/107202.png",
+      "size": 13834,
+      "sha256": "8609a8cd3d2c1ae0e634fd3db3a62dc70d6a2af8156e04d03f1a5727ba36fa4a"
+    },
+    {
+      "path": "app/assets/portraits/107301.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/107301.png",
+      "size": 13518,
+      "sha256": "65dfb86494ffbf2f638c2d13404cf7fbece690ce5535ee684ca5d7a4638b3ed5"
+    },
+    {
+      "path": "app/assets/portraits/107401.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/107401.png",
+      "size": 14933,
+      "sha256": "e6ed61b6b97bdb72ff9dca16efd200a91693a9a69b28a0e6d6e1fcbfde1462f0"
+    },
+    {
+      "path": "app/assets/portraits/107402.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/107402.png",
+      "size": 15499,
+      "sha256": "9037d5b5a4c4ba9233e168dcf5ad934d0a5e3c72028c968dc27b765477dc3f81"
+    },
+    {
+      "path": "app/assets/portraits/107601.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/107601.png",
+      "size": 13792,
+      "sha256": "5f54b1da1b56db7b280d307f28afed7289366ba94fdd96adf3e60bcd1a642b91"
+    },
+    {
+      "path": "app/assets/portraits/107701.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/107701.png",
+      "size": 13954,
+      "sha256": "b5d94ab26247fd45e3535ecbe83625daa747a204dd3acf6436ab4be6aa9b0456"
+    },
+    {
+      "path": "app/assets/portraits/107702.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/107702.png",
+      "size": 13822,
+      "sha256": "a33cd350c7a426505143e5d0f1fff4212ac4b96c76f419f2d444918486cacd56"
+    },
+    {
+      "path": "app/assets/portraits/107801.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/107801.png",
+      "size": 13687,
+      "sha256": "956fbaab9e9d3321f5fdf7e6a45c6a420391147dc732f84720250afc02a962be"
+    },
+    {
+      "path": "app/assets/portraits/107802.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/107802.png",
+      "size": 14967,
+      "sha256": "decbed73578246452cd57acca5c066130c04d834da8cea298738eae03c4ce347"
+    },
+    {
+      "path": "app/assets/portraits/107901.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/107901.png",
+      "size": 14495,
+      "sha256": "69786ba8c55dc4be153d87944f4d182376d799556fa2a8e7e8edd5a31c3c4a1c"
+    },
+    {
+      "path": "app/assets/portraits/108001.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/108001.png",
+      "size": 13582,
+      "sha256": "f21a046e8e3523fdfde9f0f8b1e2edd41d3baf53ec5764afb80d49b9b0596deb"
+    },
+    {
+      "path": "app/assets/portraits/108201.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/108201.png",
+      "size": 15472,
+      "sha256": "dfe8af49fd533ed28e9ffdb1cee7f16bc049111a7d004a25f2554f34599515e5"
+    },
+    {
+      "path": "app/assets/portraits/108301.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/108301.png",
+      "size": 13496,
+      "sha256": "062074ecc24688781433260adabdd71ff67dbc194d1fb7c9203d8573b93cc5f5"
+    },
+    {
+      "path": "app/assets/portraits/108302.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/108302.png",
+      "size": 13641,
+      "sha256": "8084acbf9e68719e4633c938fd5a07af6efcb32b90b3f08a779b7d7064e8ad31"
+    },
+    {
+      "path": "app/assets/portraits/108401.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/108401.png",
+      "size": 14072,
+      "sha256": "90764075afc7ba7c69b6dd35c41e85ecf3101024fc53d984dfe184a459b39830"
+    },
+    {
+      "path": "app/assets/portraits/108402.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/108402.png",
+      "size": 14657,
+      "sha256": "572e14f541f104d52156ce4458e3c381d35706cef92b629e2e01e313e1a00e14"
+    },
+    {
+      "path": "app/assets/portraits/108501.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/108501.png",
+      "size": 14512,
+      "sha256": "24ba065d5e2f7bedefe645a333b92a8ba08d41b1804da3657137d58e5f5588e1"
+    },
+    {
+      "path": "app/assets/portraits/108502.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/108502.png",
+      "size": 13971,
+      "sha256": "5e5bbb587541e5f5bc77e72b6a982d85f420d2724c45a887eccc20332d32a9f7"
+    },
+    {
+      "path": "app/assets/portraits/108601.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/108601.png",
+      "size": 14208,
+      "sha256": "db59186598b7a0c162c41bd194d6c6dbab02ad8edbff3d17aaefd6a5bf35b47b"
+    },
+    {
+      "path": "app/assets/portraits/108701.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/108701.png",
+      "size": 14231,
+      "sha256": "74829cc416f182c8b58338535c3cbe37acb54770c50c7a31ce10249a276e3511"
+    },
+    {
+      "path": "app/assets/portraits/108702.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/108702.png",
+      "size": 14735,
+      "sha256": "395e72bc0d500bf9c12c4f6ffa8799ce15f851887099446b71e71db1c0ed553c"
+    },
+    {
+      "path": "app/assets/portraits/108801.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/108801.png",
+      "size": 14331,
+      "sha256": "7b5d81c60fd85f0057112d127a31607a15adc73ecb9d267db185b37814d50846"
+    },
+    {
+      "path": "app/assets/portraits/108901.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/108901.png",
+      "size": 13782,
+      "sha256": "c9404f1cf736464dcba846a6b8221413bbaf14556c15ade4eb5f47f0094b7cfd"
+    },
+    {
+      "path": "app/assets/portraits/109001.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/109001.png",
+      "size": 14226,
+      "sha256": "548ab54b1dfd1d1a66948cb96a095edcb9c7ea720714c3e1b7be3128f5824815"
+    },
+    {
+      "path": "app/assets/portraits/109101.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/109101.png",
+      "size": 14567,
+      "sha256": "a1d7ab10006202ed8a4fdc1edf282d770e7b4bc72778fb849ff66fccf44d26eb"
+    },
+    {
+      "path": "app/assets/portraits/109301.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/109301.png",
+      "size": 13380,
+      "sha256": "16b27c6057952983fb51e3562c17d20f5760cd76cfb38a584662d9b0a750278c"
+    },
+    {
+      "path": "app/assets/portraits/109401.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/109401.png",
+      "size": 14341,
+      "sha256": "f2f6127bcb5f5c899c119aa3390281960f1226f4ac67e62274e4aaaef2b56d58"
+    },
+    {
+      "path": "app/assets/portraits/109601.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/109601.png",
+      "size": 15187,
+      "sha256": "d3eac09e169e668ab5f2603c62d45c785cf2b54d4e7e6187d2d21055daee11b2"
+    },
+    {
+      "path": "app/assets/portraits/109801.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/109801.png",
+      "size": 15106,
+      "sha256": "0d2fde45078c067eeb9344f60d10fb8ea1e23d9aafd2a9dccf60d0870081102f"
+    },
+    {
+      "path": "app/assets/portraits/109802.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/109802.png",
+      "size": 14933,
+      "sha256": "d2145dcf26895379328b7838cfaa6b0f7dadd6b60e07c89989b353d7c8a60a15"
+    },
+    {
+      "path": "app/assets/portraits/109901.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/109901.png",
+      "size": 14672,
+      "sha256": "c844a354c0c64f2c0338e4758c95a26dd074d10bb9270ddf2493a9a7ad46a10f"
+    },
+    {
+      "path": "app/assets/portraits/109902.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/109902.png",
+      "size": 13949,
+      "sha256": "4d95017f7b53a58a99871085baacc18e29aefb65bb9d413e1937e75785a53b80"
+    },
+    {
+      "path": "app/assets/portraits/110001.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/110001.png",
+      "size": 14300,
+      "sha256": "541e9000c2f5b66638256ca80b5dcedff0a99ec2f142b90737fd92395275656f"
+    },
+    {
+      "path": "app/assets/portraits/110201.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/110201.png",
+      "size": 15338,
+      "sha256": "ee45af2e4ad503e853644cc4c78db1ebabe7f06864e0d5ee54acd7e4337c1151"
+    },
+    {
+      "path": "app/assets/portraits/110401.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/110401.png",
+      "size": 14810,
+      "sha256": "100d58528adb634c1c0c382aa65dac03c59f25ae7ca1814d9a923768829c3fcc"
+    },
+    {
+      "path": "app/assets/portraits/110402.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/110402.png",
+      "size": 14894,
+      "sha256": "29e700f1eb6e8e8d206167669f1a4232c342eb81950c49a0afabf530f8c40617"
+    },
+    {
+      "path": "app/assets/portraits/110501.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/110501.png",
+      "size": 14163,
+      "sha256": "3d2f0d2c9478ad6aaed98e2351a134c8311be6ec4a04461d0e8814a2886f9663"
+    },
+    {
+      "path": "app/assets/portraits/110502.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/110502.png",
+      "size": 14560,
+      "sha256": "cdb0f550f581f73d8de2b03720e99d00be1196823e71ce4d67ac9c7a70f5e9d5"
+    },
+    {
+      "path": "app/assets/portraits/110601.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/110601.png",
+      "size": 14198,
+      "sha256": "3ab9143e43fce91f34d517951f67eab562be9a014459f0c887e706a8602ed7ec"
+    },
+    {
+      "path": "app/assets/portraits/110701.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/110701.png",
+      "size": 14197,
+      "sha256": "d0d0622b86909fe2df01cb2b91b4e86d28843f066e8d0053dc67530e80708ea3"
+    },
+    {
+      "path": "app/assets/portraits/110702.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/110702.png",
+      "size": 14533,
+      "sha256": "7146a4f587f8ad248985765d29845ee8a2c50e88d9be83d4cc11725a5b51ecfd"
+    },
+    {
+      "path": "app/assets/portraits/110801.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/110801.png",
+      "size": 14781,
+      "sha256": "4d27ffcab10863acc4802c16aa042e8f64f083131885bc98bb9dd4e71541a11d"
+    },
+    {
+      "path": "app/assets/portraits/110901.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/110901.png",
+      "size": 15398,
+      "sha256": "61c0105a67192ae42fa3e7828d51f202774a42cf52f5c88f97a59c2e9d028191"
+    },
+    {
+      "path": "app/assets/portraits/111001.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/111001.png",
+      "size": 13819,
+      "sha256": "4f00c2489d222dc697959f1a4fe3ea1a3e58a4d6d908e578ee3463904fc4c686"
+    },
+    {
+      "path": "app/assets/portraits/111101.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/111101.png",
+      "size": 14075,
+      "sha256": "4d0fcf31aaac9e79b4865828a3dcbe53a6d972c809fcea9e82755607336c809c"
+    },
+    {
+      "path": "app/assets/portraits/111501.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/111501.png",
+      "size": 14440,
+      "sha256": "41a626922fe08f832d629ed13b0f5a034b074329532123c079251d5d5f017a6f"
+    },
+    {
+      "path": "app/assets/portraits/111601.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/111601.png",
+      "size": 14591,
+      "sha256": "cf3987741f9c9e379d83ac19f28434c84ac0a8199e5d12858ccf4d12e5055ff1"
+    },
+    {
+      "path": "app/assets/portraits/111701.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/111701.png",
+      "size": 14261,
+      "sha256": "10a80745c9edacd4fae6ce9ae55e3afc731ceefc4682935865ca6cfd510fa19f"
+    },
+    {
+      "path": "app/assets/portraits/111901.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/111901.png",
+      "size": 14858,
+      "sha256": "ba5ebdf471cbe9933347426eae8c75d0e5cebae390218f3e5255315db2a6bc9a"
+    },
+    {
+      "path": "app/assets/portraits/112001.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/112001.png",
+      "size": 14275,
+      "sha256": "481d2c5d9a285ec86a96e4b3cd6767e82f593de2adeb68af41d5a9e5f728cf5c"
+    },
+    {
+      "path": "app/assets/portraits/112101.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/112101.png",
+      "size": 14483,
+      "sha256": "524e9a24ecac07161e7a5fec870dbe6baec06fee04b9141ff7b443fc44345222"
+    },
+    {
+      "path": "app/assets/portraits/112401.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/112401.png",
+      "size": 14891,
+      "sha256": "4f738df2f44fd4f0434c7cde4217d783dcffa432bddce1466e5beb6ffdb1afe9"
+    },
+    {
+      "path": "app/assets/portraits/112701.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/112701.png",
+      "size": 15500,
+      "sha256": "042fd9fceac474a5a7ca5cb71abc8b9102caf01af71ad87f70f6e6bd7045edb2"
+    },
+    {
+      "path": "app/assets/portraits/113101.png",
+      "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/app/assets/portraits/113101.png",
+      "size": 14723,
+      "sha256": "a32cf995ebc3663f20f1c0ef6f14a19e6079aa58f7ff6a3f739c010324a88f5d"
     }
   ]
 }
