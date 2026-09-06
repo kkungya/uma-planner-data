@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "region": "KR",
-  "updated_at": "2026-08-15",
+  "updated_at": "2026-09-07",
   "source": "https://gametora.com/ko/umamusume/skills",
   "condition_source": "https://uma.inven.co.kr/db/chara/",
-  "character_cards_hash": "785343d8",
+  "character_cards_hash": "db0006ea",
   "skills_hash": "6df9454d",
-  "all_skills_hash": "9d5df194",
+  "all_skills_hash": "11a58047",
   "estimated_kr_release_lag_days": 476,
   "estimated_kr_release_sample_size": 20,
   "characters": [
@@ -1283,7 +1283,7 @@
         "id": 120111,
         "icon_id": 20013,
         "name": "연무・숙녀의 나기나타",
-        "description": "레이스 후반에 중위권 그룹에서 추월하려고 하거나 누군가 따라붙으면 남은 거리 400m일 때 속도가 상승하며 비근간거리 레이스라면 많이 상승한다",
+        "description": "레이스 후반에 중위권 그룹에서 추월하려고 하거나 누군가 따라붙으면 남은 거리가 400m일 때 속도가 상승하며 비근간거리 레이스라면 많이 상승한다",
         "condition": "remain_distance<=401&remain_distance>=399&is_basis_distance==0 또는\nremain_distance<=401&remain_distance>=399",
         "effect": "목표 속도 +0.45 m/s · 기본 지속시간 5초\n목표 속도 +0.35 m/s · 기본 지속시간 5초",
         "display_groups": [
@@ -1301,7 +1301,7 @@
         "id": 920111,
         "icon_id": 20011,
         "name": "연무・숙녀의 나기나타",
-        "description": "레이스 후반에 중위권 그룹에서 추월하려고 하거나 누군가 따라붙으면 남은 거리 400m일 때 속도가 약간 상승하며 비근간거리 레이스라면 다소 상승한다",
+        "description": "레이스 후반에 중위권 그룹에서 추월하려고 하거나 누군가 따라붙으면 남은 거리가 400m일 때 속도가 약간 상승하며 비근간거리 레이스라면 다소 상승한다",
         "condition": "remain_distance<=401&remain_distance>=399&is_basis_distance==0 또는\nremain_distance<=401&remain_distance>=399",
         "effect": "목표 속도 +0.25 m/s · 기본 지속시간 3초\n목표 속도 +0.15 m/s · 기본 지속시간 3초",
         "display_groups": [
@@ -2956,7 +2956,7 @@
         "id": 110271,
         "icon_id": 20013,
         "name": "당신에게 바치는 프리 푸어링",
-        "description": "종반 직전의 내리막에서 2위 이하이고 선두로부터 4마신 이내라면 잠시 동안 속도가 상승하며, 추가로 중거리 레이스에서는 가속력이 아주 조금 상승한다",
+        "description": "종반 직전의 내리막에서 2위 이후이고 선두로부터 4마신 이내라면 잠시 동안 속도가 상승하며, 추가로 중거리 레이스에서는 가속력이 아주 조금 상승한다",
         "condition": "distance_rate>=60&slope==2&phase==1&order>=2&distance_diff_top<=10&distance_type==3 또는\ndistance_rate>=60&slope==2&phase==1&order>=2&distance_diff_top<=10&distance_type!=3",
         "effect": "목표 속도 +0.35 m/s, 가속력 +0.1 m/s² · 기본 지속시간 4초\n목표 속도 +0.35 m/s · 기본 지속시간 4초",
         "display_groups": [
@@ -2983,7 +2983,7 @@
         "id": 910271,
         "icon_id": 20011,
         "name": "당신에게 바치는 프리 푸어링",
-        "description": "종반 직전의 내리막에서 2위 이하이고 선두로부터 4마신 이내라면 잠시 동안 속도가 약간 상승하며, 추가로 중거리 레이스에서는 가속력이 매우 조금 상승한다",
+        "description": "종반 직전의 내리막에서 2위 이후이고 선두로부터 4마신 이내라면 잠시 동안 속도가 약간 상승하며, 추가로 중거리 레이스에서는 가속력이 매우 조금 상승한다",
         "condition": "distance_rate>=60&slope==2&phase==1&order>=2&distance_diff_top<=10&distance_type==3 또는\ndistance_rate>=60&slope==2&phase==1&order>=2&distance_diff_top<=10&distance_type!=3",
         "effect": "목표 속도 +0.15 m/s, 가속력 +0.05 m/s² · 기본 지속시간 2.4초\n목표 속도 +0.15 m/s · 기본 지속시간 2.4초",
         "display_groups": [
@@ -4232,7 +4232,7 @@
         "id": 110381,
         "icon_id": 20013,
         "name": "One True Color",
-        "description": "남은 거리 350m 이하일 때 전방에서 뒤의 우마무스메와의 거리가 가까우면 양보하지 않겠다는 마음으로 빠져나가기 쉬워진다",
+        "description": "남은 거리가 350m 이하일 때 전방에서 뒤의 우마무스메와의 거리가 가까우면 양보하지 않겠다는 마음으로 빠져나가기 쉬워진다",
         "condition": "remain_distance<=350&order_rate<=40&order_rate>=20&bashin_diff_behind<=1",
         "effect": "목표 속도 +0.25 m/s, 가속력 +0.3 m/s² · 기본 지속시간 5초",
         "display_groups": [
@@ -4251,7 +4251,7 @@
         "id": 910381,
         "icon_id": 20011,
         "name": "One True Color",
-        "description": "남은 거리 350m 이하일 때 전방에서 뒤의 우마무스메와의 거리가 가까우면 아주 조금 빠져나가기 쉬워진다",
+        "description": "남은 거리가 350m 이하일 때 전방에서 뒤의 우마무스메와의 거리가 가까우면 아주 조금 빠져나가기 쉬워진다",
         "condition": "remain_distance<=350&order_rate<=40&order_rate>=20&bashin_diff_behind<=1",
         "effect": "목표 속도 +0.05 m/s, 가속력 +0.1 m/s² · 기본 지속시간 3초",
         "display_groups": [
@@ -4508,7 +4508,7 @@
         "id": 910411,
         "icon_id": 20041,
         "name": "CHERRY☆스크램블",
-        "description": "남은 거리 400m일 때 3위 이내라면 짧은 시간 동안 가속력이 매우 조금 상승하며 레이스 중반에 연속해서 경합한 시간이 길수록 효과와 시간이 증가한다",
+        "description": "남은 거리가 400m일 때 3위 이내라면 짧은 시간 동안 가속력이 매우 조금 상승하며 레이스 중반에 연속해서 경합한 시간이 길수록 효과와 시간이 증가한다",
         "condition": "order<=3&remain_distance<=401&remain_distance>=399",
         "effect": "가속력 +0.05 m/s² · 기본 지속시간 0.6초",
         "display_groups": [
@@ -4532,7 +4532,7 @@
         "id": 100421,
         "icon_id": 20013,
         "name": "『I'm possible』",
-        "description": "남은 거리 200m 지점에서 선두가 아닐 때 선두로부터 4마신 이내라면 속도가 상승하며 2마신 이내면 많이 상승한다",
+        "description": "남은 거리가 200m일 때 선두가 아닐 경우 선두로부터 4마신 이내라면 속도가 상승하며 2마신 이내라면 많이 상승한다",
         "condition": "remain_distance<=201&remain_distance>=199&distance_diff_top<=5&order>=2 또는\nremain_distance<=201&remain_distance>=199&distance_diff_top<=10&order>=2",
         "effect": "목표 속도 +0.45 m/s · 기본 지속시간 5초\n목표 속도 +0.35 m/s · 기본 지속시간 5초",
         "display_groups": [
@@ -4558,7 +4558,7 @@
         "id": 900421,
         "icon_id": 20011,
         "name": "『I'm possible』",
-        "description": "남은 거리 200m 지점에서 선두가 아닐 때 선두로부터 4마신 이내라면 속도가 약간 상승하며 2마신 이내에 있으면 다소 상승한다",
+        "description": "남은 거리가 200m일 때 선두가 아닐 경우 선두로부터 4마신 이내라면 속도가 약간 상승하며 2마신 이내라면 다소 상승한다",
         "condition": "remain_distance<=201&remain_distance>=199&distance_diff_top<=5&order>=2 또는\nremain_distance<=201&remain_distance>=199&distance_diff_top<=10&order>=2",
         "effect": "목표 속도 +0.25 m/s · 기본 지속시간 3초\n목표 속도 +0.15 m/s · 기본 지속시간 3초",
         "display_groups": [
@@ -4708,7 +4708,7 @@
         "id": 100441,
         "icon_id": 20013,
         "name": "받아 갈게☆스트렐리치아!",
-        "description": "최종 코너 돌입 시까지 냉정히 후방에서 대기 하고 있으면 남은 거리 300m일 때 스피드 업 마법을 걸어 속도가 계속해서 상승한다",
+        "description": "최종 코너 돌입 시까지 냉정히 후방에서 대기 하고 있으면 남은 거리가 300m일 때 스피드 업 마법을 걸어 속도가 계속해서 상승한다",
         "condition": "remain_distance<=300",
         "effect": "목표 속도 +0.35 m/s · 기본 지속시간 6초",
         "display_groups": [
@@ -4727,7 +4727,7 @@
         "id": 900441,
         "icon_id": 20011,
         "name": "받아 갈게☆스트렐리치아!",
-        "description": "최종 코너 돌입 시까지 냉정히 후방에서 대기하고 있으면 남은 거리 300m 지점에서 속도가 계속해서 약간 상승한다",
+        "description": "최종 코너 돌입 시까지 냉정히 후방에서 대기하고 있으면 남은 거리가 300m일 때 속도가 계속해서 약간 상승한다",
         "condition": "remain_distance<=300",
         "effect": "목표 속도 +0.15 m/s · 기본 지속시간 3.6초",
         "display_groups": [
@@ -5048,7 +5048,7 @@
     {
       "card_id": "104603",
       "release_date": "2026-08-19",
-      "release_date_type": "estimated",
+      "release_date_type": "actual",
       "release_jp": "2025-04-30",
       "unique": {
         "id": 120461,
@@ -5470,7 +5470,7 @@
         "id": 120501,
         "icon_id": 20013,
         "name": "Overdrive Speed",
-        "description": "레이스 종반 코너에서 후방에 있을 때 결승점이 멀면 잠시 동안 앞으로 나가며 나카야마 경기장의 중거리 레이스라면 효과가 증가해 추가로 가속력이 아주 조금 상승한다",
+        "description": "레이스 종반 코너에서 후방에 있을 때 결승점이 멀면 잠시 동안 앞으로 나가며 나카야마 경기장의 중거리 레이스라면 효과가 증가하고 추가로 가속력이 아주 조금 상승한다",
         "condition": "phase>=2&corner!=0&remain_distance>=600&order_rate>=50&distance_type==3&track_id==10005 또는\nphase>=2&corner!=0&remain_distance>=600&order_rate>=50",
         "effect": "현재 속도 +0.45 m/s, 가속력 +0.1 m/s² · 기본 지속시간 4초\n현재 속도 +0.35 m/s · 기본 지속시간 4초",
         "display_groups": [
@@ -5830,7 +5830,7 @@
         "id": 900541,
         "icon_id": 20011,
         "name": "질풍폭주 페가수스 대시!",
-        "description": "레이스 후반에 후방에서 추월한 경우 남은 거리 150m 이하일 때 전방에 있으면 잠시 동안 속도가 다소 상승한다",
+        "description": "레이스 후반에 후방에서 추월한 경우 남은 거리가 150m 이하일 때 전방에 있으면 잠시 동안 속도가 다소 상승한다",
         "condition": "remain_distance<=150&order_rate<=50",
         "effect": "목표 속도 +0.25 m/s · 기본 지속시간 2.4초",
         "display_groups": [
@@ -6523,7 +6523,7 @@
         "id": 120611,
         "icon_id": 20013,
         "name": "이상으로의 winding road",
-        "description": "남은 거리가 600m 이하일 때 중위권 그룹 바깥쪽에서 추월하면 라스트 스퍼트가 한창일 때 속도가 계속해서 상승한다",
+        "description": "남은 거리가 600m 이하일 때 중위권 그룹 바깥쪽에서 추월하면 라스트 스퍼트 중일 때 속도가 계속해서 상승한다",
         "condition": "is_lastspurt==1&phase==3",
         "effect": "목표 속도 +0.35 m/s · 기본 지속시간 6초",
         "display_groups": [
@@ -6542,7 +6542,7 @@
         "id": 920611,
         "icon_id": 20011,
         "name": "이상으로의 winding road",
-        "description": "남은 거리가 600m 이하일 때 중위권 그룹 바깥쪽에서 추월하면 라스트 스퍼트가 한창일 때 속도가 계속해서 약간 상승한다",
+        "description": "남은 거리가 600m 이하일 때 중위권 그룹 바깥쪽에서 추월하면 라스트 스퍼트 중일 때 속도가 계속해서 약간 상승한다",
         "condition": "is_lastspurt==1&phase==3",
         "effect": "목표 속도 +0.15 m/s · 기본 지속시간 3.6초",
         "display_groups": [
@@ -6713,7 +6713,7 @@
         "id": 100641,
         "icon_id": 20023,
         "name": "크게 앞지르는 길",
-        "description": "스타트 후부터 레이스 후반까지 전방을 유지 하면 기분이 엄청 좋아져서 지구력을 회복하 고 추가로 속도가 다소 상승세를 탄다",
+        "description": "스타트 후부터 레이스 후반까지 전방을 유지 하면 기분이 엄청 좋아져서 지구력을 회복하고 속도가 계속해서 다소 상승한다",
         "condition": "distance_rate>=50&order_rate_in20_continue==1",
         "effect": "지구력 회복 +5.5%, 목표 속도 +0.25 m/s · 기본 지속시간 6초",
         "display_groups": [
@@ -6928,7 +6928,7 @@
         "name": "엔진 전개! 대분사!",
         "description": "중반의 중간에 거리를 벌린 채 선두라면 아주 오랫동안 속도가 계속해서 약간 상승하지만 종반의 끝에 아주 조금 뒤처져 버린다",
         "condition": "distance_rate>=34&distance_rate<=36&order==1&bashin_diff_behind>=1 또는\nphase==3&is_activate_other_skill_detail==1",
-        "effect": "목표 속도 +0.15 m/s · 기본 지속시간 13초\n효과 21 -0.05 m/s · 기본 지속시간 500초",
+        "effect": "목표 속도 +0.15 m/s · 기본 지속시간 13초\n효과 21 -0.05 m/s · 기본 지속시간 -0.0001초",
         "display_groups": [
           {
             "condition": "진행거리 비율 34% 이상, 36% 이하 / 선두 / 후방과의 차이 1마신 이상",
@@ -6952,9 +6952,9 @@
         "id": 900661,
         "icon_id": 20011,
         "name": "엔진 전개! 대분사!",
-        "description": "중반의 중간에 거리를 벌린 채 선두라면 아주 오랫동안 속도가 계속해서 아주 약간 상승하지만 종반의 끝에 아주 조금 뒤처지고 만다",
+        "description": "중반의 중간에 거리를 벌린 채 선두라면 아주 오랫동안 속도가 계속해서 아주 약간 상승하지만 종반의 끝에 아주 조금 뒤처져 버린다",
         "condition": "distance_rate>=34&distance_rate<=36&order==1&bashin_diff_behind>=1 또는\nphase==3&is_activate_other_skill_detail==1",
-        "effect": "목표 속도 +0.035 m/s · 기본 지속시간 10.4초\n효과 21 -0.05 m/s · 기본 지속시간 500초",
+        "effect": "목표 속도 +0.035 m/s · 기본 지속시간 10.4초\n효과 21 -0.05 m/s · 기본 지속시간 -0.0001초",
         "display_groups": [
           {
             "condition": "진행거리 비율 34% 이상, 36% 이하 / 선두 / 후방과의 차이 1마신 이상",
@@ -7418,7 +7418,7 @@
         "id": 900701,
         "icon_id": 20041,
         "name": "세이리오스",
-        "description": "남은 거리 800m일 때 중위권 그룹에 있으면 가속력이 아주 약간 상승하며, 2400m 레이스에서 인기가 높으면 다소 상승한다",
+        "description": "남은 거리가 800m일 때 중위권 그룹에 있으면 가속력이 아주 약간 상승하며, 2400m 레이스에서 인기가 높으면 다소 상승한다",
         "condition": "remain_distance>=799&remain_distance<=801&order_rate>=30&order_rate<=60&course_distance==2400&popularity<=3 또는\nremain_distance>=799&remain_distance<=801&order_rate>=30&order_rate<=60",
         "effect": "가속력 +0.3 m/s² · 기본 지속시간 2.4초\n가속력 +0.07 m/s² · 기본 지속시간 2.4초",
         "display_groups": [
@@ -7598,7 +7598,7 @@
         "id": 100721,
         "icon_id": 20013,
         "name": "열화요란, 무적의 춤",
-        "description": "최종 코너 이후 추월한 경우 남은 거리 300m 이하일 때 선두 그룹에 있으면 열화와 같은 투쟁심으로 속도가 상승한다",
+        "description": "최종 코너 이후 추월한 경우 남은 거리가 300m 이하일 때 선두 그룹에 있으면 열화와 같은 투쟁심으로 속도가 상승한다",
         "condition": "remain_distance<=300&order_rate<=40",
         "effect": "목표 속도 +0.35 m/s · 기본 지속시간 5초",
         "display_groups": [
@@ -7617,7 +7617,7 @@
         "id": 900721,
         "icon_id": 20011,
         "name": "열화요란, 무적의 춤",
-        "description": "최종 코너 이후 추월한 경우 남은 거리 300m 이하일 때 선두 그룹에 있으면 속도가 약간 상승한다",
+        "description": "최종 코너 이후 추월한 경우 남은 거리가 300m 이하일 때 선두 그룹에 있으면 속도가 약간 상승한다",
         "condition": "remain_distance<=300&order_rate<=40",
         "effect": "목표 속도 +0.15 m/s · 기본 지속시간 3초",
         "display_groups": [
@@ -7900,7 +7900,7 @@
         "id": 100771,
         "icon_id": 20013,
         "name": "Road to Glory",
-        "description": "레이스 종반 직전에 좋은 위치에 있는 경우 남은 거리 400m일 때 속도가 많이 상승하며 장거리에서 스킬 발동 시, 선두이거나 선두로부터 1마신 이내라면 아주 많이 상승한다",
+        "description": "레이스 종반 직전에 좋은 위치에 있는 경우 남은 거리가 400m일 때 속도가 많이 상승하며 장거리에서 스킬 발동 시, 선두이거나 선두로부터 1마신 이내라면 아주 많이 상승한다",
         "condition": "remain_distance<=401&remain_distance>=399&distance_diff_top_float<=25&distance_type==4 또는\nremain_distance<=401&remain_distance>=399",
         "effect": "목표 속도 +0.55 m/s · 기본 지속시간 5초\n목표 속도 +0.45 m/s · 기본 지속시간 5초",
         "display_groups": [
@@ -8018,7 +8018,7 @@
         "id": 100781,
         "icon_id": 20043,
         "name": "빛나는 바람",
-        "description": "레이스 전반에 대기하고, 최종 코너 후반에 전방이라면 오랫동안 가속력이 계속해서 아주 조금 상승하며, 2등이라면 효과가 상승한다",
+        "description": "레이스 전반에 대기하고, 최종 코너 후반에 전방이라면 오랫동안 가속력이 계속해서 아주 조금 상승하며, 2위라면 효과가 상승한다",
         "condition": "is_finalcorner_laterhalf==1&distance_diff_rate<=50&order==2 또는\nis_finalcorner_laterhalf==1&distance_diff_rate<=50",
         "effect": "가속력 +0.2 m/s² · 기본 지속시간 8초\n가속력 +0.1 m/s² · 기본 지속시간 8초",
         "display_groups": [
@@ -8047,7 +8047,7 @@
         "id": 900781,
         "icon_id": 20041,
         "name": "빛나는 바람",
-        "description": "레이스 전반에 대기하고, 최종 코너 후반에 전방이라면 오랫동안 가속력이 계속해서 매우 조금 상승하며, 2등이라면 효과가 상승한다",
+        "description": "레이스 전반에 대기하고, 최종 코너 후반에 전방이라면 오랫동안 가속력이 계속해서 매우 조금 상승하며, 2위라면 효과가 상승한다",
         "condition": "is_finalcorner_laterhalf==1&distance_diff_rate<=50&order==2 또는\nis_finalcorner_laterhalf==1&distance_diff_rate<=50",
         "effect": "가속력 +0.07 m/s² · 기본 지속시간 4.8초\n가속력 +0.05 m/s² · 기본 지속시간 4.8초",
         "display_groups": [
@@ -8082,7 +8082,7 @@
         "id": 110781,
         "icon_id": 20013,
         "name": "Breezy Treat",
-        "description": "남은 거리 350m일 때 지점에서 전방에 있으면 잠시 동안 앞으로 나가며 추가로 마일 레이스라면 속도가 약간 상승한다",
+        "description": "남은 거리가 350m일 때 전방에 있으면 잠시 동안 앞으로 나가며 추가로 마일 레이스라면 속도가 약간 상승한다",
         "condition": "distance_type==2&remain_distance<=351&remain_distance>=349&order_rate<=50 또는\nremain_distance<=351&remain_distance>=349&order_rate<=50",
         "effect": "현재 속도 +0.35 m/s, 목표 속도 +0.15 m/s · 기본 지속시간 4초\n현재 속도 +0.35 m/s · 기본 지속시간 4초",
         "display_groups": [
@@ -8644,7 +8644,7 @@
         "id": 100861,
         "icon_id": 20013,
         "name": "사랑과 녹아라 그저 녹아라",
-        "description": "남은 거리 1000ｍ 지점에서 전방에 있으면 속도가 상승한다",
+        "description": "남은 거리가 1000ｍ일 때 전방에 있으면 속도가 상승한다",
         "condition": "remain_distance>=999&remain_distance<=1001&order_rate>=20&order_rate<=50",
         "effect": "목표 속도 +0.35 m/s · 기본 지속시간 5초",
         "display_groups": [
@@ -8662,7 +8662,7 @@
         "id": 900861,
         "icon_id": 20011,
         "name": "사랑과 녹아라 그저 녹아라",
-        "description": "남은 거리 1000ｍ 지점에서 전방에 있으면 속도가 약간 상승한다",
+        "description": "남은 거리가 1000ｍ일 때 전방에 있으면 속도가 약간 상승한다",
         "condition": "remain_distance>=999&remain_distance<=1001&order_rate>=20&order_rate<=50",
         "effect": "목표 속도 +0.15 m/s · 기본 지속시간 3초",
         "display_groups": [
@@ -8744,7 +8744,7 @@
         "id": 100871,
         "icon_id": 20013,
         "name": "Silent letter",
-        "description": "남은 거리 400m 이하일 때 전방에서 누군가 따라붙으면 팬의 마음에 남는 달리기로 빠져나가기 쉬워진다",
+        "description": "남은 거리가 400m 이하일 때 전방에서 누군가 따라붙으면 팬의 마음에 남는 달리기로 빠져나가기 쉬워진다",
         "condition": "remain_distance<=400&order<=2&overtake_target_time>=1",
         "effect": "목표 속도 +0.25 m/s, 가속력 +0.3 m/s² · 기본 지속시간 5초",
         "display_groups": [
@@ -8763,7 +8763,7 @@
         "id": 900871,
         "icon_id": 20011,
         "name": "Silent letter",
-        "description": "남은 거리 400m 이하일 때 전방에서 누군가 따라붙으면 아주 조금 빠져나가기 쉬워진다",
+        "description": "남은 거리가 400m 이하일 때 전방에서 누군가 따라붙으면 아주 조금 빠져나가기 쉬워진다",
         "condition": "remain_distance<=400&order<=2&overtake_target_time>=1",
         "effect": "목표 속도 +0.05 m/s, 가속력 +0.1 m/s² · 기본 지속시간 3초",
         "display_groups": [
@@ -8966,13 +8966,13 @@
     {
       "card_id": "109001",
       "release_date": "2026-08-31",
-      "release_date_type": "estimated",
+      "release_date_type": "actual",
       "release_jp": "2025-05-12",
       "unique": {
         "id": 100901,
         "icon_id": 20013,
         "name": "Queen's Rebirth",
-        "description": "레이스 전반 코너에서 전방에 있으면 짧은 시간 동안 속도가 상승하며, 마일 또는 중거리 레이스 라면 종반 최종 직선에서 누군가 따라 붙으면 잠시 동안 다소 앞으로 나간다＜잔디＞",
+        "description": "레이스 전반 코너에서 전방에 있으면 짧은 시간 동안 속도가 상승하며, 마일 또는 중거리 레이스라면 종반 최종 직선에서 누군가 따라 붙으면 잠시 동안 다소 앞으로 나간다＜잔디＞",
         "condition": "distance_rate<=50&corner!=0&order_rate<=50&ground_type==1 또는\nis_activate_other_skill_detail==1&phase>=2&is_last_straight==1&overtake_target_time>=1&distance_type==2@is_activate_other_skill_detail==1&phase>=2&is_last_straight==1&overtake_target_time>=1&distance_type==3",
         "effect": "목표 속도 +0.35 m/s · 기본 지속시간 3초\n현재 속도 +0.25 m/s · 기본 지속시간 4초",
         "display_groups": [
@@ -8998,7 +8998,7 @@
         "id": 900901,
         "icon_id": 20011,
         "name": "Queen's Rebirth",
-        "description": "전반 코너에서 전방에 있으면 짧은 시간 동안 속도가 약간 상승하고, 마일 또는 중거리 레이 스 라면 종반 최종 직선에서 누군가 따라붙으면 잠시 동안 아주 조금 앞으로 나간다＜잔디＞",
+        "description": "전반 코너에서 전방에 있으면 짧은 시간 동안 속도가 약간 상승하고, 마일 또는 중거리 레이 스라면 종반 최종 직선에서 누군가 따라붙으면 잠시 동안 아주 조금 앞으로 나간다＜잔디＞",
         "condition": "distance_rate<=50&corner!=0&order_rate<=50&ground_type==1 또는\nis_activate_other_skill_detail==1&phase>=2&is_last_straight==1&overtake_target_time>=1&distance_type==2@is_activate_other_skill_detail==1&phase>=2&is_last_straight==1&overtake_target_time>=1&distance_type==3",
         "effect": "목표 속도 +0.15 m/s · 기본 지속시간 1.8초\n현재 속도 +0.05 m/s · 기본 지속시간 2.4초",
         "display_groups": [
@@ -9306,7 +9306,7 @@
     {
       "card_id": "109802",
       "release_date": "2026-08-19",
-      "release_date_type": "estimated",
+      "release_date_type": "actual",
       "release_jp": "2025-04-30",
       "unique": {
         "id": 110981,
@@ -9468,7 +9468,7 @@
         "id": 101001,
         "icon_id": 20013,
         "name": "Never Say Never",
-        "description": "남은 거리가 300m일 때 전방에 있으면 속도가 다소 상승하며, 추가로 더트 레이스에서 선두와 2마신 이내라면 다소 앞으로 나간다",
+        "description": "남은 거리가 300m일 때 전방에 있으면 속도가 다소 상승하며, 추가로 더트 레이스에서 선두로부터 2마신 이내라면 다소 앞으로 나간다",
         "condition": "remain_distance>=299&remain_distance<=301&order_rate>=20&order_rate<=40&distance_diff_top<=5&ground_type==2 또는\nremain_distance>=299&remain_distance<=301&order_rate>=20&order_rate<=40",
         "effect": "목표 속도 +0.25 m/s, 현재 속도 +0.25 m/s · 기본 지속시간 5초\n목표 속도 +0.25 m/s · 기본 지속시간 5초",
         "display_groups": [
@@ -9756,7 +9756,7 @@
         "id": 111051,
         "icon_id": 20013,
         "name": "Encounter with U",
-        "description": "종반의 최종 직선에서 2위 이하라면 속도가 상승하고 레이스 중반에 스킬을 정확히 7번 또는 13번 발동했다면 아주 많이 상승한다",
+        "description": "종반의 최종 직선에서 2위 이후라면 속도가 상승하고 레이스 중반에 스킬을 정확히 7번 또는 13번 발동했다면 아주 많이 상승한다",
         "condition": "is_last_straight==1&phase>=2&order>=2&activate_count_middle==7@is_last_straight==1&phase>=2&order>=2&activate_count_middle==13 또는\nis_last_straight==1&phase>=2&order>=2",
         "effect": "목표 속도 +0.55 m/s · 기본 지속시간 5초\n목표 속도 +0.35 m/s · 기본 지속시간 5초",
         "display_groups": [
@@ -9782,7 +9782,7 @@
         "id": 911051,
         "icon_id": 20011,
         "name": "Encounter with U",
-        "description": "종반의 최종 직선에서 2위 이하라면 속도가 약간 상승한다",
+        "description": "종반의 최종 직선에서 2위 이후라면 속도가 약간 상승한다",
         "condition": "is_last_straight==1&phase>=2&order>=2",
         "effect": "목표 속도 +0.15 m/s · 기본 지속시간 3초",
         "display_groups": [
@@ -10111,7 +10111,7 @@
         "id": 901101,
         "icon_id": 20011,
         "name": "Guiding Sea",
-        "description": "남은 거리 800m일 때 중위권 그룹이라면 잠시 동안 아주 조금 앞으로 나가면서 가속력이 매우 조금 상승하며, 근간거리 레이스에서 후방이라면 추가로 가속력이 아주 약간 상승한다",
+        "description": "남은 거리가 800m일 때 중위권 그룹이라면 잠시 동안 아주 조금 앞으로 나가면서 가속력이 매우 조금 상승하며, 근간거리 레이스에서 후방이라면 추가로 가속력이 아주 약간 상승한다",
         "condition": "remain_distance>=799&remain_distance<=801&is_basis_distance==1&order_rate>=70&order_rate<=80 또는\nremain_distance>=799&remain_distance<=801&order_rate>=50&order_rate<=80",
         "effect": "현재 속도 +0.05 m/s, 가속력 +0.05 m/s², 가속력 +0.07 m/s² · 기본 지속시간 2.4초\n현재 속도 +0.05 m/s, 가속력 +0.05 m/s² · 기본 지속시간 2.4초",
         "display_groups": [
@@ -10266,7 +10266,7 @@
         "id": 901151,
         "icon_id": 20011,
         "name": "나의 패도, 가로막을 자 없도다",
-        "description": "남은 거리 1000m일 때 계속해서 아주 조금 앞으로 나간다＜작전・추입＞",
+        "description": "남은 거리가 1000m일 때 계속해서 아주 조금 앞으로 나간다＜작전・추입＞",
         "condition": "running_style==4&remain_distance>=999&remain_distance<=1001",
         "effect": "현재 속도 +0.05 m/s · 기본 지속시간 3.6초",
         "display_groups": [
@@ -10421,7 +10421,7 @@
         "id": 101191,
         "icon_id": 20013,
         "name": "『그럼, 좋은 여행 되시길』",
-        "description": "종반 돌입 시 후방에 있을 때 결승점까지 멀면 짧은 시간 동안 다소 앞으로 나가며 나카야마나 한신 경기장의 중장거리 레이스라면 그 후 직선에서 짧은 시간 동안 많이 앞으로 나간다",
+        "description": "종반 돌입 시 후방에 있을 때 결승점이 멀면 짧은 시간 동안 다소 앞으로 나가며 나카야마나 한신 경기장의 중장거리 레이스라면 그 후 직선에서 짧은 시간 동안 많이 앞으로 나간다",
         "condition": "distance_rate>=66&distance_rate<=68&order_rate>=50&remain_distance>=500 또는\nis_activate_other_skill_detail==1&corner==0&track_id==10005&distance_type==3@is_activate_other_skill_detail==1&corner==0&track_id==10005&distance_type==4@is_activate_other_skill_detail==1&corner==0&track_id==10009&distance_type==3@is_activate_other_skill_detail==1&corner==0&track_id==10009&distance_type==4",
         "effect": "현재 속도 +0.25 m/s · 기본 지속시간 3초\n현재 속도 +0.45 m/s · 기본 지속시간 3초",
         "display_groups": [
@@ -10447,7 +10447,7 @@
         "id": 901191,
         "icon_id": 20011,
         "name": "『그럼, 좋은 여행 되시길』",
-        "description": "종반 돌입 시 후방에 있을 때 결승점까지 멀면 짧은 시간 동안 아주 조금 앞으로 나가며 나카야 마나 한신 경기장의 중장거리 레이스라면 그 후 직선에서 짧은 시간 동안 다소 앞으로 나간다",
+        "description": "종반 돌입 시 후방에 있을 때 결승점이 멀면 짧은 시간 동안 아주 조금 앞으로 나가며 나카야 마나 한신 경기장의 중장거리 레이스라면 그 후 직선에서 짧은 시간 동안 다소 앞으로 나간다",
         "condition": "distance_rate>=66&distance_rate<=68&order_rate>=50&remain_distance>=500 또는\nis_activate_other_skill_detail==1&corner==0&track_id==10005&distance_type==3@is_activate_other_skill_detail==1&corner==0&track_id==10005&distance_type==4@is_activate_other_skill_detail==1&corner==0&track_id==10009&distance_type==3@is_activate_other_skill_detail==1&corner==0&track_id==10009&distance_type==4",
         "effect": "현재 속도 +0.05 m/s · 기본 지속시간 1.8초\n현재 속도 +0.25 m/s · 기본 지속시간 1.8초",
         "display_groups": [

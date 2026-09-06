@@ -1,31 +1,31 @@
 {
   "schema_version": 1,
-  "database_version": "2026.08.15.1515",
-  "generated_at": "2026-08-15T15:14:31+09:00",
+  "database_version": "2026.09.07.0102",
+  "generated_at": "2026-09-07T01:02:30+09:00",
   "files": [
     {
       "path": "data/characters_kr.json",
       "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/data/characters_kr.json",
       "size": 109150,
-      "sha256": "5177a4747081ed5e65fb6b4373264e24a0f1f5a7b8fb826e327d4a760b0059f7"
+      "sha256": "c5ebeab602f3c9495451f65b84e74810fdf1185d5196136e5bdfe7c2638474ea"
     },
     {
       "path": "data/compatibility_gametora_kr.json",
       "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/data/compatibility_gametora_kr.json",
       "size": 274760,
-      "sha256": "216c04de496f0d5c209efa322bbc24804ee02805f10ab649280b5015041526b6"
+      "sha256": "5c68141576077e673f048f47aac434211c7337cc3968daec17e2ee24d901c573"
     },
     {
       "path": "data/unique_skills_gametora_kr.json",
       "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/data/unique_skills_gametora_kr.json",
-      "size": 517750,
-      "sha256": "86a31c4bf6a46adf57938d30b772be23ba575673926b2175c8c58013dc2f1ff1"
+      "size": 517749,
+      "sha256": "f9341e8bcecb13f6c9580666d9105126f128fcb7a73d694458f1db50f4620bc4"
     },
     {
       "path": "data/database_version.json",
       "url": "https://raw.githubusercontent.com/kkungya/uma-planner-data/main/data/database_version.json",
       "size": 71,
-      "sha256": "d6a68e653814a5737f7d8509531860b365f5660380f5dd4e69fe59b76b96c395"
+      "sha256": "6937147a312b310c4b86acb3bcd964e446c45f835d3041840c923dca291828c4"
     },
     {
       "path": "app/assets/portraits/100101.png",
